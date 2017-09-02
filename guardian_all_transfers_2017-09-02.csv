@@ -1,0 +1,1688 @@
+,player_name,new_club,new_league,previous_club,previous_league,price_euros,price_pounds,timestamp,transfer_type
+0,Juan Cuadrado,Juventus,Serie A,Chelsea,Premier League,20000000.0,17330000.0,2017-05-23 12:09:52,fee
+1,Vinícius Júnior ,Real Madrid,La Liga,Flamengo,Campeonato Brasileiro Série A,46000000.0,39600000.0,2017-05-24 12:15:56,fee
+2,Vinícius Júnior,Flamengo,Campeonato Brasileiro Série A,Real Madrid,La Liga,0.0,0.0,2017-05-24 12:21:09,loan
+3,Michael Kightly,Free agent,Free agent,Burnley,Premier League,0.0,0.0,2017-05-24 12:26:08,released
+4,Joey Barton,Free agent,Free agent,Burnley,Premier League,0.0,0.0,2017-05-24 12:27:24,released
+5,Matthias Ostrzolek,Hannover 96,Bundesliga,Hamburg,Bundesliga,0.0,0.0,2017-05-24 12:30:04,fee
+6,Benoît Trémoulinas,Free agent,Free agent,Sevilla,La Liga,0.0,0.0,2017-05-24 12:31:40,released
+7,Youri Tielemans,Monaco,Ligue 1,Anderlecht,Jupiler League,25000000.0,21600000.0,2017-05-24 20:06:33,fee
+8,Diego López,Espanyol,La Liga,Milan,Serie A,0.0,0.0,2017-05-25 07:43:21,fee
+9,Benoît Costil,Bordeaux,Ligue 1,Rennes,Ligue 1,0.0,0.0,2017-05-25 10:29:03,released
+10,Alex Manninger,Free agent,Free agent,Liverpool,Premier League,0.0,0.0,2017-05-25 11:31:13,released
+11,Gaël Clichy,Free agent,Free agent,Manchester City,Premier League,0.0,0.0,2017-05-25 18:46:28,released
+12,Jesús Navas,Free agent,Free agent,Manchester City,Premier League,0.0,0.0,2017-05-25 18:47:33,released
+13,Willy Caballero,Free agent,Free agent,Manchester City,Premier League,0.0,0.0,2017-05-25 18:48:19,released
+14,Bacary Sagna,Free agent,Free agent,Manchester City,Premier League,0.0,0.0,2017-05-25 18:48:56,released
+15,Asmir Begovic,Bournemouth,Premier League,Chelsea,Premier League,11410000.0,10000000.0,2017-06-19 00:19:20,fee
+16,Sead Kolasinac,Arsenal,Premier League,Schalke 04,Bundesliga,0.0,0.0,2017-06-19 00:22:02,released
+17,George Green,Free agent,Free agent,Burnley,Premier League,0.0,0.0,2017-06-19 00:26:43,released
+18,R J Pingling,Free agent,Free agent,Burnley,Premier League,0.0,0.0,2017-06-19 00:27:56,released
+19,Christian Hill,Free agent,Free agent,Burnley,Premier League,0.0,0.0,2017-06-19 00:28:59,released
+20,Taofiq Olmowewe,Free agent,Free agent,Burnley,Premier League,0.0,0.0,2017-06-19 00:29:55,released
+21,Jon Flanagan,Liverpool,Premier League,Burnley,Premier League,0.0,0.0,2017-06-19 00:31:13,loan ended
+22,Dominic Solanke,Liverpool,Premier League,Chelsea,Premier League,0.0,0.0,2017-06-19 09:39:07,released
+23,Alex Kiwomya,Doncaster Rovers,League One,Chelsea,Premier League,,,2017-06-19 09:43:01,undisclosed fee
+24,Jordan Pickford,Everton,Premier League,Sunderland,Championship,28520000.0,25000000.0,2017-06-19 09:45:27,fee
+25,Davy Klaassen,Everton,Premier League,Ajax,Eredivisie,27000000.0,23670000.0,2017-06-19 09:47:18,fee
+26,Tom Cleverley,Watford,Premier League,Everton,Premier League,9130000.0,8000000.0,2017-06-19 09:49:35,fee
+27,Sam Hughes,Leicester City,Premier League,Chester City,National League,,,2017-06-19 09:52:36,undisclosed fee
+28,Harry Maguire,Leicester City,Premier League,Hull City,Championship,19390000.0,17000000.0,2017-06-19 09:54:54,fee
+29,Bernardo Silva,Manchester City,Premier League,Monaco,Ligue 1,49740000.0,43600000.0,2017-06-19 09:57:54,fee
+30,Ederson,Manchester City,Premier League,Benfica,Primeira Liga,40000000.0,34900000.0,2017-06-19 10:00:44,fee
+31,Pablo Zabaleta,Free agent,Free agent,Manchester City,Premier League,0.0,0.0,2017-06-19 10:03:02,released
+32,Enes Unal,Villarreal,La Liga,Manchester City,Premier League,13690000.0,12000000.0,2017-06-19 10:05:33,fee
+33,Angus Gunn,Norwich City,Championship,Manchester City,Premier League,,,2017-06-19 10:07:39,loan
+34,Victor Lindelof,Manchester United,Premier League,Benfica,Primeira Liga,35360000.0,31000000.0,2017-06-19 10:10:54,fee
+35,Cuco Martina,Everton,Free agent,Southampton,Premier League,,,2017-06-19 10:12:46,released
+36,Lloyd Isgrove,Free agent,Free agent,Southampton,Premier League,,,2017-06-19 10:14:18,released
+37,Harley Willard,Free agent,Free agent,Southampton,Premier League,,,2017-06-19 10:15:26,released
+38,Martín Cáceres,Free agent,Free agent,Southampton,Premier League,,,2017-06-19 10:16:47,released
+39,Jason McCarthy,Barnsley,Championship,Southampton,Premier League,,,2017-06-19 10:18:45,undisclosed fee
+40,Darren Fletcher,Stoke City,Premier League,West Bromwich Albion,Premier League,0.0,0.0,2017-06-19 10:20:48,fee
+41,Shay Given,Free agent,Free agent,Stoke City,Premier League,,,2017-06-19 10:23:39,released
+42,Liam Edwards,Free agent,Free agent,Stoke City,Premier League,,,2017-06-19 10:24:26,released
+43,Harry Isted,Free agent,Free agent,Stoke City,Premier League,,,2017-06-19 10:25:17,released
+44,Joel Taylor,Free agent,Free agent,Stoke City,Premier League,,,2017-06-19 10:26:10,released
+45,George Waring,Free agent,Free agent,Stoke City,Premier League,,,2017-06-19 10:27:14,released
+46,Gerhard Tremmel,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:30:21,released
+47,Marvin Emnes,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:31:18,released
+48,Liam Shephard,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:32:35,released
+49,Josh Vickers,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:33:13,released
+50,Owain Jones,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:34:15,released
+51,Tom Dyson,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:35:00,released
+52,Tom Holland,Free agent,Free agent,Swansea City,Premier League,,,2017-06-19 10:35:42,released
+53,Alex Samuel,Stevenage,League Two,Swansea City,Premier League,,,2017-06-19 10:37:01,undisclosed fee
+54,Pablo Zabaleta,West Ham United,Premier League,Free agent,Free agent,0.0,0.0,2017-06-19 10:41:43,released
+55,Jonathan Calleri,Deportivo Maldonado,Segunda División (Uruguay),West Ham United,Premier League,,,2017-06-19 10:43:53,loan ended
+56,Gokhan Tore,Besiktas,Super Lig,West Ham United,Premier League,,,2017-06-19 10:44:53,loan ended
+57,Alvaro Arbeloa,Free agent,Free agent,West Ham United,Premier League,,,2017-06-19 10:45:46,released
+58,Sam Howes,Free agent,Free agent,West Ham United,Premier League,,,2017-06-19 10:46:31,released
+59,Sam Ford,Free agent,Free agent,West Ham United,Premier League,,,2017-06-19 10:47:21,released
+60,Sam Westley,Free agent,Free agent,West Ham United,Premier League,,,2017-06-19 10:48:50,released
+61,Serge Gnabry,Bayern Munich,Bundesliga,Werder Bremen,Bundesliga,8000000.0,7000000.0,2017-06-19 10:58:48,fee
+62,Corentin Tolisso,Bayern Munich,Bundesliga,Lyon,Ligue 1,41500000.0,36380000.0,2017-06-19 11:01:13,fee
+63,Niklas Süle,Bayern Munich,Bundesliga,Hoffenheim,Bundesliga,22000000.0,19290000.0,2017-06-19 11:05:07,fee
+64,Sebastian Rudy,Bayern Munich,Bundesliga,Hoffenheim,Bundesliga,,,2017-06-19 11:06:04,free agent
+65,Kingsley Coman,Bayern Munich,Bundesliga,Juventus,Serie A,21000000.0,18410000.0,2017-06-19 11:08:26,fee
+66,Holger Badstuber,Bayern Munich,Bundesliga,Schalke 04,Bundesliga,,,2017-06-19 11:10:02,loan ended
+67,Holger Badstuber,Free agent,Free agent,Bayern Munich,Bundesliga,,,2017-06-19 11:10:44,released
+68,Medhi Benatia,Juventus,Serie A,Bayern Munich,Bundesliga,17000000.0,14900000.0,2017-06-19 11:13:38,fee
+69,Xabi Alonso,Free agent,Free agent,Bayern Munich,Bundesliga,,,2017-06-19 11:15:32,released
+70,Philipp Lahm,Free agent,Free agent,Bayern Munich,Bundesliga,,,2017-06-19 11:17:16,released
+71,Tom Starke,Free agent,Free agent,Bayern Munich,Bundesliga,,,2017-06-19 11:18:23,released
+72,Bruma,RB Leipzig,Bundesliga,Galatasaray,Super Lig,12500000.0,10960000.0,2017-06-19 11:23:52,fee
+73,Ibrahima Konaté,RB Leipzig,Bundesliga,Sochaux,Ligue 2,,,2017-06-19 11:27:52,undisclosed fee
+74,Yvon Mvogo,RB Leipzig,Bundesliga,Young Boys,Swiss Super League,5000000.0,4380000.0,2017-06-19 11:31:16,fee
+75,Nils Quaschner,RB Leipzig,Bundesliga,Bochum,2. Bundesliga,,,2017-06-19 11:36:02,loan ended
+76,Atinc Nukan,RB Leipzig,Bundesliga,Besiktas,Super Lig,,,2017-06-19 11:37:06,loan ended
+77,Massimo Bruno,RB Leipzig,Bundesliga,Anderlecht,Jupiler League,,,2017-06-19 11:38:36,loan ended
+78,Anthony Jung,RB Leipzig,Bundesliga,FC Ingolstadt,Bundesliga,,,2017-06-19 11:40:03,loan ended
+79,Rani Khedira,Augsburg,Bundesliga,RB Leipzig,Bundesliga,0.0,0.0,2017-06-19 11:44:01,released
+80,Davie Selke,Hertha Berlin,Bundesliga,RB Leipzig,Bundesliga,8000000.0,7000000.0,2017-06-19 11:46:13,fee
+81,Agyemang Diawusie,Wehen Wiesbaden,3. Liga,RB Leipzig,Bundesliga,,,2017-06-19 11:47:57,loan
+82,Benjamin Bellot,Brondby IF,Danish Super League,RB Leipzig,Bundesliga,,,2017-06-19 11:49:56,undisclosed fee
+83,Maximilian Philipp,Borussia Dortmund,Bundesliga,Freiburg,Bundesliga,20000000.0,17530000.0,2017-06-19 11:56:19,fee
+84,Dan-Axel Zagadou,Borussia Dortmund,Bundesliga,Paris Saint-Germain,Ligue 1,,,2017-06-19 11:57:51,undisclosed fee
+85,Omer Toprak,Borussia Dortmund,Bundesliga,Bayer Leverkusen,Bundesliga,12000000.0,10520000.0,2017-06-19 11:59:48,fee
+86,Mahmoud Dahoud,Borussia Dortmund,Bundesliga,Borussia Mönchengladbach,Bundesliga,12000000.0,10520000.0,2017-06-19 12:01:47,fee
+87,Neven Subotic,Borussia Dortmund,Bundesliga,FC Cologne,Bundesliga,,,2017-06-19 12:03:42,loan ended
+88,Adrian Ramos,Borussia Dortmund,Bundesliga,Granada,Segunda División,,,2017-06-19 12:05:37,loan ended
+89,Adrian Ramos,Chongqing Dangdai Lifan FC,Chinese Super League,Borussia Dortmund,Bundesliga,12000000.0,10520000.0,2017-06-19 12:07:15,fee
+90,Pascal Stenzel,Freiburg,Bundesliga,Borussia Dortmund,Bundesliga,4000000.0,3500000.0,2017-06-19 12:09:06,fee
+91,Justin Hoogma,Hoffenheim,Bundesliga,Heracles Almelo,Eredivisie,2000000.0,1750000.0,2017-06-19 17:16:13,fee
+92,Florian Grillitsch,Hoffenheim,Bundesliga,Werder Bremen,Bundesliga,0.0,0.0,2017-06-20 18:16:16,released
+93,Havard Nordtveit,Hoffenheim,Bundesliga,West Ham United,Premier League,2000000.0,1760000.0,2017-06-20 18:20:05,fee
+94,Kevin Akpoguma,Hoffenheim,Bundesliga,Fortuna Düsseldorf,2. Bundesliga,,,2017-06-20 18:21:31,loan ended
+95,Baris Atik,Hoffenheim,Bundesliga,Sturm Graz,Austrian Bundesliga,,,2017-06-20 18:22:27,loan ended
+96,Park In-hyeok ,Hoffenheim,Bundesliga,Koper,Slovenian PrvaLiga,,,2017-06-20 18:24:25,loan ended
+97,Antonio Colak,Hoffenheim,Bundesliga,Darmstadt,2. Bundesliga,,,2017-06-20 18:25:34,loan ended
+98,Baris Atik,Kaiserslautern,2. Bundesliga,Hoffenheim,Bundesliga,,,2017-06-20 18:27:30,loan
+99,Pirmin Schwegler,Hannover 96,Bundesliga,Hoffenheim,Bundesliga,,,2017-06-20 18:29:27,released
+100,Nicolai Rapp,Erzgebirge Aue,2. Bundesliga,Hoffenheim,Bundesliga,,,2017-06-20 18:31:28,undisclosed fee
+101,Danilo,Free agent,Free agent,Hoffenheim,Bundesliga,,,2017-06-20 18:33:05,released
+102,Jannes Horn,FC Cologne,Bundesliga,Wolfsburg,Bundesliga,7000000.0,6170000.0,2017-06-20 18:35:32,fee
+103,Marcel Hartel,Union Berlin,2. Bundesliga,FC Cologne,Bundesliga,,,2017-06-20 18:39:06,undisclosed fee
+104,Karim Rekik,Hertha Berlin,Bundesliga,Marseille,Ligue 1,2200000.0,1940000.0,2017-06-20 22:29:26,fee
+105,Matthew Leckie,Hertha Berlin,Bundesliga,FC Ingolstadt,2. Bundesliga,3000000.0,2640000.0,2017-06-20 22:32:12,fee
+106,Marius Gersbeck,Hertha Berlin,Bundesliga,Osnabrück,3. Liga,,,2017-06-20 22:34:15,loan ended
+107,Marius Gersbeck,Osnabrück,3. Liga,Hertha Berlin,Bundesliga,,,2017-06-20 22:35:13,loan ended
+108,John Brooks,Wolfsburg,Bundesliga,Hertha Berlin,Bundesliga,20000000.0,17630000.0,2017-06-20 22:38:20,fee
+109,Sami Allagui,St Pauli,2. Bundesliga,Hertha Berlin,Bundesliga,,,2017-06-20 22:40:51,released
+110,Allan,Liverpool,Premier League,Hertha Berlin,Bundesliga,,,2017-06-20 22:41:42,loan ended
+111,Florian Kohls,Würzburger Kickers,3. Liga,Hertha Berlin,Bundesliga,,,2017-06-20 22:44:20,undisclosed fee
+112,Alexander Baumjohann,Free agent,Free agent,Hertha Berlin,Bundesliga,,,2017-06-20 22:45:13,released
+113,Nils Körber,SC Preußen Münster,3. Liga,Hertha Berlin,Bundesliga,,,2017-06-20 22:47:27,released
+114,Florian Niederlechner,Freiburg,Bundesliga,Mainz 05,Bundesliga,2300000.0,2030000.0,2017-06-20 22:52:23,fee
+115,Florian Kath,Freiburg,Bundesliga,FC Magdeburg,3. Liga,,,2017-06-20 22:53:37,loan ended
+116,Jonas Meffert,Freiburg,Bundesliga,Karlsruhe,3. Liga,,,2017-06-20 22:54:54,loan ended
+117,Tim Kleindienst,Freiburg,Bundesliga,FC Heidenheim,2. Bundesliga,,,2017-06-20 22:56:14,loan ended
+118,Caleb Stanko,Freiburg,Bundesliga,FC Vaduz,Swiss Super League,,,2017-06-20 22:57:31,loan ended
+119,Sebastian Kerk,Freiburg,Bundesliga,Kaiserslautern,2. Bundesliga,,,2017-06-20 22:58:26,loan ended
+120,Vincenzo Grifo,Borussia Mönchengladbach,Bundesliga,Freiburg,Bundesliga,6000000.0,5290000.0,2017-06-20 23:00:59,fee
+121,Fabian Menig,Preußen Münster,3. Liga,Freiburg,Bundesliga,,,2017-06-20 23:02:55,free agent
+122,Fabian Menig,Freiburg,Bundesliga,Aalen,3. Liga,,,2017-06-20 23:04:28,loan ended
+123,Mark Torrejón,Union Berlin,2. Bundesliga,Freiburg,Bundesliga,0.0,0.0,2017-06-20 23:06:52,fee
+124,Sebastian Kerk,Nürnberg,2. Bundesliga,Freiburg,Bundesliga,400000.0,350000.0,2017-06-20 23:10:14,fee
+125,Fabian Schleusener,Karlsruhe,3. Liga,Freiburg,Bundesliga,,,2017-06-20 23:11:37,loan
+126,Lucas Hufnagel,Nürnberg,2. Bundesliga,Freiburg,Bundesliga,,,2017-06-20 23:13:13,loan
+127,Amir Falahen,Free agent,Free agent,Freiburg,Bundesliga,,,2017-06-20 23:14:17,released
+128,Jonas Föhrenbach,Karlsruhe,3. Liga,Freiburg,Bundesliga,,,2017-06-20 23:15:08,loan
+129,Ludwig Augustinsson,Werder Bremen,Bundesliga,FC Copenhagen,Danish Super League,4500000.0,4000000.0,2017-06-20 23:17:08,fee
+130,Jerome Gondorf,Werder Bremen,Bundesliga,Darmstadt,2. Bundesliga,1200000.0,1060000.0,2017-06-20 23:19:07,fee
+131,Laszlo Kleinheisler,FC Astana,Premier League (Kazakhstan),Werder Bremen,Bundesliga,,,2017-06-20 23:21:32,loan
+132,Clemens Fritz,Free agent,Free agent,Werder Bremen,Bundesliga,,,2017-06-20 23:22:26,released
+133,Luca Zander,St Pauli,2. Bundesliga,Werder Bremen,Bundesliga,,,2017-06-20 23:24:11,loan
+134,Leon Guwara,Kaiserslautern,2. Bundesliga,Werder Bremen,Bundesliga,,,2017-06-20 23:25:24,loan
+135,Marnon Busch,Heidenheim,2. Bundesliga,Werder Bremen,Bundesliga,,,2017-06-20 23:26:24,loan
+136,Raphael Wolf,Fortuna Düsseldorf,2. Bundesliga,Werder Bremen,Bundesliga,,,2017-06-20 23:27:45,undisclosed fee
+137,Melvyn Lorenzen,Free agent,Free agent,Werder Bremen,Bundesliga,,,2017-06-20 23:28:39,released
+138,Santiago Garcia,Free agent,Free agent,Werder Bremen,Bundesliga,,,2017-06-20 23:29:29,released
+139,Nabil Bentaleb,Schalke 04,Bundesliga,Tottenham Hotspur,Premier League,19000000.0,16750000.0,2017-06-20 23:41:09,fee
+140,Yevhen Konoplyanka,Schalke 04,Bundesliga,Sevilla,La Liga,12500000.0,11000000.0,2017-06-20 23:43:38,fee
+141,Fabian Giefer,Augsburg,Bundesliga,Schalke 04,Bundesliga,750000.0,660000.0,2017-06-20 23:46:03,fee
+142,Klaas-Jan Huntelaar,Ajax,Eredivisie,Schalke 04,Bundesliga,0.0,0.0,2017-06-20 23:48:23,fee
+143,Phil Neumann,Ingolstadt,2. Bundesliga,Schalke 04,Bundesliga,0.0,0.0,2017-06-20 23:50:30,fee
+144,Baba Rahman,Chelsea,Premier League,Schalke 04,Bundesliga,,,2017-06-20 23:51:57,loan ended
+145,Timon Wellenreuther,Willem II,Eredivisie,Schalke 04,Bundesliga,,,2017-06-20 23:53:56,undisclosed fee
+146,Sascha Riether,Free agent,Free agent,Schalke 04,Bundesliga,,,2017-06-20 23:54:48,released
+147,Dennis Aogo,Free agent,Free agent,Schalke 04,Bundesliga,,,2017-06-20 23:55:41,released
+148,Jean-Luc Dompé,Amiens,Ligue 1,Standard Liège,Jupiler League,,,2017-06-21 00:01:35,loan
+149,Junior Tallo,Lille,Ligue 1,Amiens,Ligue 1,,,2017-06-21 00:04:18,loan ended
+150,Goran Karanovic,Angers,Ligue 1,Sochaux,Ligue 2,,,2017-06-21 00:06:30,loan ended
+151,Yoane Wissa,Angers,Ligue 1,Stade Lavallois,Championnat National,,,2017-06-21 00:08:08,loan ended
+152,Yoane Wissa,Ajaccio,Ligue 2,Angers,Ligue 1,,,2017-06-21 00:09:53,loan
+153,Enzo Crivelli,Bordeaux,Ligue 1,Bastia,Ligue 2,,,2017-06-21 00:14:48,loan ended
+154,Lukas Lerager,Bordeaux,Ligue 1,Zulte Waregem,Jupiler League,3000000.0,2640000.0,2017-06-21 00:17:37,fee
+155,Frédéric Guilbert,Bordeaux,Ligue 1,Caen,Ligue 1,,,2017-06-21 00:18:48,loan ended
+156,Cédric Carrasso,Free agent,Free agent,Bordeaux,Ligue 1,,,2017-06-21 00:19:59,released
+157,Jérémy Ménez,Antalyaspor,Super Lig,Bordeaux,Ligue 1,,,2017-06-21 00:23:52,undisclosed fee
+158,Isaac Kiese-Thelin,Anderlecht,Jupiler League,Bordeaux,Ligue 1,,,2017-06-21 00:26:14,loan extended
+159,Nicolas Maurice-Belay,Free agent,Free agent,Bordeaux,Ligue 1,,,2017-06-21 00:27:14,released
+160,Abdoulaye Traoré,Free agent,Free agent,Bordeaux,Ligue 1,,,2017-06-21 00:28:41,released
+161,Christian Kouakou,Caen,Ligue 1,Nîmes Olympique,League 2,,,2017-06-21 00:30:25,loan ended
+162,Florian Le Joncour,Bordeaux,Ligue 1,Avranches,Championnat National,,,2017-06-21 00:31:58,loan ended
+163,Jordan Nkololo,Caen,Ligue 1,Stade Lavallois,Championnat National,,,2017-06-21 00:33:41,loan ended
+164,Jordan Adéoti,Auxerre,Ligue 2,Caen,Ligue 1,0.0,0.0,2017-06-21 00:36:08,fee
+165,Jordan Tell,Rennes,Ligue 1,Caen,Ligue 1,0.0,0.0,2017-06-21 00:38:42,fee
+166,Nicolas Seube,Free agent,Free agent,Caen,Ligue 1,,,2017-06-21 00:39:35,released
+167,Jean-Victor Makengo,Nice,Ligue 1,Caen,Ligue 1,,,2017-06-21 00:41:03,undisclosed fee
+168,Eden Massouema,Dijon,Ligue 1,Paris FC,Ligue 2,,,2017-06-21 00:43:46,undisclosed fee
+169,Pierre Lees-Melou,Nice,Ligue 1,Dijon,Ligue 1,2000000.0,1760000.0,2017-06-21 00:46:54,fee
+170,Enzo Basilio,Rodez AF,Championnat National,Dijon,Ligue 1,0.0,0.0,2017-06-21 00:48:57,released
+171,Marvin Martin,Lille,Ligue 1,Dijon,Ligue 1,,,2017-06-21 00:51:16,loan ended
+172,Pascal Gross,Brighton,Premier League,Ingolstadt,2. Bundesliga,3000000.0,2640000.0,2017-06-21 00:55:19,fee
+173,Josh Kerr,Brighton,Premier League,Celtic,Scottish Premiership,,,2017-06-21 00:56:55,undisclosed fee
+174,Mathew Ryan,Brighton,Premier League,Valencia,La Liga,6000000.0,5290000.0,2017-06-21 01:00:16,fee
+175,Nathangelo Markelo,Everton,Premier League,FC Volendam,Eerste Divisie,,,2017-06-21 01:02:35,undisclosed fee
+176,Christian Atsu,Newcastle United,Premier League,Chelsea,Premier League,6810000.0,6000000.0,2017-06-21 01:05:02,fee
+177,Kevin Mbabu,Young Boys,Swiss Super League,Newcastle United,Premier League,600000.0,529000.0,2017-06-21 01:10:51,fee
+178,Sebastien Pocognoli,Standard Liège,Jupiler League,West Bromwich Albion,Premier League,0.0,0.0,2017-06-21 01:14:49,fee
+179,Bruno Gaspar,Fiorentina,Serie A,Vitória Guimarães,Primeira Liga,4000000.0,3530000.0,2017-06-21 01:24:07,fee
+180,Etrit Berisha,Atalanta,Serie A,Lazio,Serie A,5000000.0,4410000.0,2017-06-21 08:08:10,fee
+181,Andreas Cornelius,Atalanta,Serie A,FC Copenhagen,Danish Super League,3500000.0,3100000.0,2017-06-21 08:11:32,fee
+182,Robin Gosens,Atalanta,Serie A,Heracles Almelo,Eredivisie,750000.0,660000.0,2017-06-21 08:14:17,fee
+183,Franck Kessié,Milan,Serie A,Atalanta,Serie A,,,2017-06-21 08:17:15,loan
+184,Nikola Jakimovski,Free agent,Free agent,Benevento,Serie A,,,2017-06-21 08:20:11,released
+185,Bruno Alves,Rangers,Scottish Premiership,Cagliari,Serie A,,,2017-06-21 08:22:13,released
+186,Vitor Hugo,Fiorentina,Serie A,Palmeiras,Campeonato Brasileiro Série A,8000000.0,7050000.0,2017-06-21 09:22:59,fee
+187,Nikola Milenkovic,Fiorentina,Serie A,FK Partizan,Serbian SuperLiga,5100000.0,4500000.0,2017-06-21 09:26:37,fee
+188,Gonzalo Javier Rodríguez,Free agent,Free agent,Fiorentina,Serie A,,,2017-06-21 09:28:14,released
+189,Cristian Tello,Barcelona,La Liga,Fiorentina,Serie A,,,2017-06-21 09:29:18,loan ended
+190,Nicolás Burdisso,Free agent,Free agent,Genoa,Serie A,,,2017-06-21 09:30:35,released
+191,Gennaro Troianiello,Free agent,Free agent,Verona,Serie A,,,2017-06-21 09:32:30,released
+192,Daniele Padelli,Inter,Serie A,Torino,Serie A,,,2017-06-21 09:35:35,undisclosed fee
+193,Juan Pablo Carrizo,Monterrey,Primera División (Mexico),Inter,Serie A,0.0,0.0,2017-06-21 09:38:14,fee
+194,André Silva,Milan,Serie A,Porto,Primeira Liga,38000000.0,33500000.0,2017-06-21 09:43:57,fee
+195,Mateo Musacchio,Milan,Serie A,Villarreal,La Liga,17000000.0,15000000.0,2017-06-21 09:46:18,fee
+196,Ricardo Rodriguez,Milan,Serie A,Wolfsburg,Bundesliga,15000000.0,13220000.0,2017-06-21 09:48:29,fee
+197,Héctor Moreno,Roma,Serie A,PSV Eindhoven,Eredivisie,6000000.0,5300000.0,2017-06-21 09:50:45,fee
+198,Valerio Verre,Sampdoria,Serie A,Pescara,Serie B,3500000.0,3100000.0,2017-06-21 09:52:59,fee
+199,Jacopo Murano,SPAL,Serie A,Savona,Serie D,,,2017-06-21 09:54:51,released
+200,Vanja Milinkovic-Savic,Torino,Serie A,Lechia Gdańsk,Ekstraklasa,2500000.0,2200000.0,2017-06-21 09:58:08,fee
+201,Lyanco,Torino,Serie A,São Paulo,Campeonato Brasileiro Série A,6000000.0,5300000.0,2017-06-21 10:01:13,fee
+202,Aly Malle,Udinese,Serie A,Granada,Segunda División,,,2017-06-21 10:03:24,undisclosed fee
+203,Guilherme,Deportivo La Coruña,La Liga,Udinese,Serie A,4000000.0,3530000.0,2017-06-21 10:05:21,fee
+204,Sven Kums,Watford,Premier League,Udinese,Serie A,,,2017-06-21 10:08:50,loan ended
+205,Sven Kums,Anderlecht,Jupiler League,Watford,Premier League,6500000.0,5730000.0,2017-06-21 10:10:11,fee
+206,Rubén Duarte,Alavés,La Liga,Espanyol,La Liga,400000.0,350000.0,2017-06-21 10:26:04,fee
+207,Héctor Hernández,Alavés,La Liga,Real Sociedad,La Liga,,,2017-06-21 10:29:32,loan
+208,Gorka Iraizoz,Girona,La Liga,Athletic Bilbao,La Liga,,,2017-06-21 10:31:10,released
+209,Gorka Elustondo,Free agent,Free agent,Athletic Bilbao,La Liga,,,2017-06-21 10:32:15,released
+210,Tiago,Free agent,Free agent,Atlético Madrid,La Liga,,,2017-06-21 10:33:47,released
+211,Leo Baptistão,Espanyol,La Liga,Atlético Madrid,La Liga,3500000.0,3100000.0,2017-06-21 10:35:40,fee
+212,Sergio León,Real Betis,La Liga,Osasuna,La Liga,3500000.0,3100000.0,2017-06-21 10:38:28,fee
+213,Cristiano Piccini,Sporting,Primeira Liga,Real Betis,La Liga,3500000.0,3100000.0,2017-06-21 10:45:47,fee
+214,Yoel,Eibar,La Liga,Valencia,La Liga,750000.0,660000.0,2017-06-21 10:52:44,fee
+215,Iván Alejo,Eibar,La Liga,Alcorcón,Segunda División,300000.0,265000.0,2017-06-21 10:55:07,fee
+216,Pablo Piatti,Espanyol,La Liga,Valencia,La Liga,1500000.0,1300000.0,2017-06-21 11:00:06,fee
+217,Javi Varas,Granada,La Liga,Las Palmas,La Liga,,,2017-06-21 11:12:05,released
+218,Antonio Puertas,Granada,La Liga,Almería,Segunda División (Spain),,,2017-06-21 11:15:22,released
+219,Ximo Navarro,Las Palmas,La Liga,Almería,Segunda División (Spain),,,2017-06-21 11:17:13,released
+220,Raúl García,Leganés,La Liga,Alavés,La Liga,,,2017-06-21 11:20:27,released
+221,Dimitris Siovas,Leganés,La Liga,Olympiacos,Greek Super League,2700000.0,2380000.0,2017-06-21 11:23:36,fee
+222,Tito,Leganés,La Liga,Granada,Segunda División (Spain),,,2017-06-21 11:26:32,undisclosed fee
+223,Pepe,Besiktas,Super Lig,Real Madrid,La Liga,,,2017-06-21 11:29:44,released
+224,Jan Zimmermann,Eintracht Frankfurt,Bundesliga,1860 Munich,2. Bundesliga,,,2017-06-21 15:05:57,free agent
+225,Marius Wolf,Eintracht Frankfurt,Bundesliga,Hannover 96,Bundesliga,,,2017-06-21 15:08:47,loan
+226,Carlos Salcedo,Eintracht Frankfurt,Bundesliga,Deportivo Guadalajara,Liga MX,,,2017-06-21 15:10:47,loan
+227,Sebastien Haller,Eintracht Frankfurt,Bundesliga,Utrecht,Eredivisie,8000000.0,7050000.0,2017-06-21 15:13:47,fee
+228,Danny da Costa,Eintracht Frankfurt,Bundesliga,Bayer Leverkusen,Bundesliga,1000000.0,880000.0,2017-06-21 15:15:53,fee
+229,Gelson Fernandes,Eintracht Frankfurt,Bundesliga,Rennes,Ligue 1,1000000.0,880000.0,2017-06-21 15:18:05,fee
+230,Haris Seferovic,Benfica,Primeira Liga,Eintracht Frankfurt,Bundesliga,,,2017-06-21 15:20:10,released
+231,Heinz Lindner,Grasshopper Zürich,Swiss Super League,Eintracht Frankfurt,Bundesliga,,,2017-06-21 15:22:31,released
+232,Dominik Kohr,Bayer Leverkusen,Bundesliga,Augsburg,Bundesliga,2000000.0,1760000.0,2017-06-21 15:24:36,fee
+233,Roberto Hilbert,Free agent,Free agent,Bayer Leverkusen,Bundesliga,,,2017-06-21 15:26:35,released
+234,Albian Ajeti,St Gallen,Swiss Super League,Augsburg,Bundesliga,1000000.0,880000.0,2017-06-21 15:31:56,fee
+235,Arianit Ferati,Erzgebirge Aue,2. Bundesliga,Hamburg,Bundesliga,,,2017-06-21 15:35:04,loan
+236,Johan Djourou,Free agent,Free agent,Hamburg,Bundesliga,,,2017-06-21 15:37:13,released
+237,Ashton Götz,Free agent,Free agent,Hamburg,Bundesliga,,,2017-06-21 15:37:57,released
+238,Nabil Bahoui,Free agent,Free agent,Hamburg,Bundesliga,,,2017-06-21 15:39:10,released
+239,Pierre Bengtsson,FC Copenhagen,Danish Super League,Mainz 05,Bundesliga,1000000.0,880000.0,2017-06-21 15:43:10,fee
+240,Landry Dimata,Wolfsburg,Bundesliga,KV Oostende,Jupiler League,10000000.0,8800000.0,2017-06-21 15:45:28,fee
+241,William,Wolfsburg,Bundesliga,Porto Alegre,Campeonato Gaúcho (Brazil),5000000.0,4400000.0,2017-06-21 15:47:44,fee
+242,Marvin Stefaniak,Wolfsburg,Bundesliga,Dynamo Dresden,2. Bundesliga,1500000.0,1320000.0,2017-06-21 15:49:47,fee
+243,Hendrik Hansen,Würzburger Kickers,3. Liga,Wolfsburg,Bundesliga,,,2017-06-21 15:52:53,undisclosed fee
+244,Amara Condé,Holstein Kiel,2. Bundesliga,Wolfsburg,Bundesliga,,,2017-06-21 15:54:28,loan
+245,Diego Benaglio,Monaco,Ligue 1,Wolfsburg,Bundesliga,,,2017-06-21 15:56:37,released
+246,Ashkan Dejagah,Free agent,Free agent,Wolfsburg,Bundesliga,,,2017-06-21 15:57:43,released
+247,Orel Mangala,Stuttgart,Bundesliga,Anderlecht,Jupiler League,1800000.0,1580000.0,2017-06-21 17:18:45,fee
+248,Benjamin Hadzic,Stuttgart,Bundesliga,Bayern Munich,Bundesliga,,,2017-06-21 17:19:35,undisclosed fee
+249,Benjamin Uphoff,Karlsruhe,3. Liga,Stuttgart,Bundesliga,,,2017-06-21 17:22:05,undisclosed fee
+250,Toni Sunjic,Dynamo Moscow,Premier League (Russia),Stuttgart,Bundesliga,500000.0,440000.0,2017-06-21 17:25:58,fee
+251,Florian Klein,Free agent,Free agent,Stuttgart,Bundesliga,,,2017-06-21 17:26:40,released
+252,Michael Esser,Hannover 96,Bundesliga,Darmstadt,2. Bundesliga,1750000.0,1538000.0,2017-06-21 23:19:55,fee
+253,Yousef Emghames,Hannover 96,Bundesliga,Bayern Munich,Bundesliga,,,2017-06-21 23:20:56,undisclosed fee
+254,Tom Baller,Hannover 96,Bundesliga,Borussia Mönchengladbach,Bundesliga,,,2017-06-21 23:23:04,released
+255,Julian Korb,Hannover 96,Bundesliga,Borussia Mönchengladbach,Bundesliga,2800000.0,2500000.0,2017-06-21 23:26:42,fee
+256,Andre Hoffmann,Fortuna Düsseldorf,2. Bundesliga,Hannover 96,Bundesliga,250000.0,220000.0,2017-06-21 23:30:01,fee
+257,Artur Sobiech,Free agent,Free agent,Hannover 96,Bundesliga,,,2017-06-21 23:30:56,released
+258,Reece Oxford,Borussia Mönchengladbach,Bundesliga,West Ham United,Premier League,,,2017-06-21 23:33:48,loan
+259,Johan Martial ,Maccabi Petach-Tikva,Israeli Premier League,Troyes,Ligue 1,,,2017-06-21 23:38:45,undisclosed fee
+260,Steven Fortes,Toulouse,Ligue 1,Le Havre,Ligue 2,,,2017-06-21 23:42:19,released
+261,Kenny Lala,Strasbourg,Ligue 1,Lens,Ligue 2,,,2017-06-21 23:45:32,released
+262,Pablo Martinez,Strasbourg,Ligue 1,Angers,Ligue 1,,,2017-06-21 23:50:48,undisclosed fee
+263,Khalid Boutaïb,Free agent,Free agent,Strasbourg,Ligue 1,,,2017-06-22 06:43:31,released
+264,Laurent Dos Santos,Valenciennes,Ligue 2,Strasbourg,Ligue 1,,,2017-06-22 06:46:25,released
+265,Abdelhak Belahmeur,Avranches,Championnat National,Strasbourg,Ligue 1,,,2017-06-22 06:49:00,released
+266,Faitout Maouassa,Rennes,Ligue 1,Nancy,Ligue 2,7000000.0,6150000.0,2017-06-22 06:57:10,fee
+267,Hamari Traoré,Rennes,Ligue 1,Stade de Reims,Ligue 2,2000000.0,1750000.0,2017-06-22 07:00:47,fee
+268,Benjamin Bourigeaud,Rennes,Ligue 1,Lens,Ligue 2,3000000.0,2640000.0,2017-06-22 07:02:55,fee
+269,Maxwell,Free agent,Free agent,Paris Saint-Germain,Ligue 1,,,2017-06-22 07:06:38,released
+270,Adrien Tameze,Nice,Ligue 1,Valenciennes,Ligue 2,800000.0,700000.0,2017-06-22 07:10:06,fee
+271,Ruben Aguilar,Montpellier,Ligue 1,Auxerre,Ligue 2,,,2017-06-22 07:17:12,released
+272,Jordi Mboula,Monaco,Ligue 1,Barcelona,La Liga,3000000.0,2600000.0,2017-06-22 07:21:19,fee
+273,Soualiho Meïté,Monaco,Ligue 1,Zulte Waregem,Jupiler League,8000000.0,7000000.0,2017-06-22 07:24:02,fee
+274,Jordy Gaspar,Monaco,Ligue 1,Lyon,Ligue 1,,,2017-06-22 07:26:50,released
+275,Nabil Dirar,Fenerbahce,Super Lig,Monaco,Ligue 1,4500000.0,4000000.0,2017-06-22 07:29:28,fee
+276,Brighton Labeau,Amiens,Ligue 1,Monaco,Ligue 1,,,2017-06-22 07:31:45,released
+277,Paul Nardi,Cercle Brugge,Jupiler League,Monaco,Ligue 1,,,2017-06-22 08:44:43,loan
+278,Russell Griffiths,Motherwell,Scottish Premiership,Everton,Premier League,,,2017-06-22 10:11:45,released
+279,Sergio García,Espanyol,La Liga,Al-Ryyan,Stars League (Qatar),,,2017-06-22 10:18:49,released
+280,Adrián González,Málaga,La Liga,Eibar,La Liga,,,2017-06-22 10:27:24,released
+281,Martín Demichelis,Free agent,Free agent,Málaga,La Liga,,,2017-06-22 10:28:37,released
+282,Luciano Vietto,Atlético Madrid,La Liga,Sevilla,La Liga,,,2017-06-22 10:31:40,loan ended
+283,Andrés Fernández,Villarreal,La Liga,Porto,Primeira Liga,2000000.0,1750000.0,2017-06-22 10:38:06,fee
+284,Rubén Semedo,Villarreal,La Liga,Sporting,Primeira Liga,14000000.0,12300000.0,2017-06-22 10:39:59,fee
+285,Gianluca Gaudino,Bayern Munich,Bundesliga,St Gallen,Swiss Super League,,,2017-06-22 10:43:16,loan ended
+286,Nicolas Pépé,Lille,Ligue 1,Angers,Ligue 1,10000000.0,8800000.0,2017-06-22 11:10:08,fee
+287,Enzo Basilio,Rodez Aveyron,Championnat National,Dijon,Ligue 1,,,2017-06-22 11:31:50,loan
+288,Jordan Lotiès,Free agent,Free agent,Dijon,Ligue 1,,,2017-06-22 11:34:00,released
+289,Yohann Rivière,Free agent,Free agent,Dijon,Free agent,,,2017-06-22 11:35:29,released
+290,Pedro Rebocho,Guingamp,Ligue 1,Moreirense,Primeira Liga,550000.0,480000.0,2017-06-22 11:43:35,fee
+291,Lebogang Phiri,Guingamp,Ligue 1,Brondby,Danish Super League,0.0,0.0,2017-06-22 11:46:31,fee
+292,Fernando Marçal,Benfica,Primeira Liga,Guingamp,Ligue 1,,,2017-06-22 11:49:46,loan ended
+293,Fernando Marçal,Lyon,Ligue 1,Benfica,Primeira Liga,4500000.0,3900000.0,2017-06-22 11:51:35,fee
+294,Fousseni Diabaté,Ajaccio,Ligue 2,Guingamp,Ligue 1,,,2017-06-22 11:55:08,released
+295,Nill De Pauw,Zulte Waregem,Jupiler League,Guingamp,La Liga,350000.0,310000.0,2017-06-22 11:57:01,fee
+296,Dorian Lévêque,PAOK,Greek Super League,Guingamp,Ligue 1,,,2017-06-22 11:59:57,released
+297,Mathieu Bodmer,Amiens,Ligue 1,Guingamp,Ligue 1,,,2017-06-22 12:11:03,released
+298,Johny Placide,Free agent,Free agent,Guingamp,Ligue 1,,,2017-06-22 12:12:03,released
+299,Luiz Araujo,Lille,Ligue 1,São Paulo,Campeonato Brasileiro Série A,10000000.0,8800000.0,2017-06-22 12:53:08,fee
+300,Alexis Araujo,Ajaccio,Ligue 2,Lille,Ligue 1,,,2017-06-22 12:55:23,loan
+301,Stéphane Sparagna,Boavista,Primeira Liga,Marseille,Ligue 1,600000.0,530000.0,2017-06-22 13:10:31,fee
+302,Carles Planas,Girona,La Liga,Celta Vigo,La Liga,,,2017-06-22 13:17:08,released
+303,René Adler,Mainz 05,Bundesliga,Hamburg,Bundesliga,,,2017-06-22 18:51:25,free agent
+304,Takuma Asano,Stuttgart,Bundesliga,Arsenal,Premier League,,,2017-06-22 19:42:57,loan
+305,Matz Sels,Anderlecht,Jupiler League,Newcastle United,Premier League,,,2017-06-22 19:46:21,loan
+306,Raphael Spiegel,Free agent,Free agent,West Ham United,Premier League,,,2017-06-22 19:50:58,released
+307,Stephen Hendrie,Free agent,Free agent,West Ham United,Premier League,,,2017-06-22 19:51:57,released
+308,Orrin McKinze Gaines II,Darmstadt,2. Bundesliga,Wolfsburg,Bundesliga,,,2017-06-22 20:09:49,undisclosed fee
+309,Mickaël Cuisance,Borussia Mönchengladbach,Bundesliga,Nancy,Ligue 2,,,2017-06-22 20:25:20,undisclosed fee
+310,Denis Zakaria,Borussia Mönchengladbach,Bundesliga,Young Boys,Swiss Super League,10000000.0,8800000.0,2017-06-22 20:33:41,fee
+311,Michael Hector,Chelsea,Premier League,Eintracht Frankfurt,Bundesliga,,,2017-06-22 20:37:55,loan ended
+312,Guillermo Valera,Manchester United,Premier League,Eintracht Frankfurt,Bundesliga,,,2017-06-22 20:39:50,loan ended
+313,Jesus Vallejo,Real Madrid,La Liga,Eintracht Frankfurt,Bundesliga,,,2017-06-22 20:41:12,loan ended
+314,Bojan Krkic,Stoke City,Premier League,Mainz 05,Bundesliga,,,2017-06-22 21:10:55,loan ended
+315,Philipp Köhn,RB Leipzig,Bundesliga,Stuttgart,Bundesliga,,,2017-06-22 21:13:47,free agent
+316,Mohamed Salah,Liverpool,Premier League,Roma,Serie A,42000000.0,36900000.0,2017-06-22 21:26:24,fee
+317,Baptiste Guillaume,Angers,Ligue 1,Lille,Ligue 1,2000000.0,1750000.0,2017-06-23 09:17:46,fee
+318,Stef Peeters,Caen,Ligue 1,Sint-Truiden,Jupiler League,1500000.0,1300000.0,2017-06-23 09:25:37,fee
+319,Felix Eboa Eboa,Guingamp,Ligue 1,Paris Saint-Germain,Ligue 1,,,2017-06-23 09:31:19,undisclosed fee
+320,Hervé Koffi,Lille,Ligue 1,ASEC Abidjan,Ligue 1 (Ivory Coast),,,2017-06-23 09:36:35,undisclosed fee
+321,Rony Lopes,Monaco,Ligue 1,Lille,Ligue 1,,,2017-06-23 09:40:13,loan ended
+322,Lebo Mothiba,Valenciennes,Ligue 2,Lille,Ligue 1,,,2017-06-23 09:41:54,loan
+323,Mathieu Valbuena,Fenerbahce,Super Lig,Lyon,Ligue 1,1500000.0,1300000.0,2017-06-23 09:45:13,fee
+324,Gaëtan Perrin,US Orléans,Ligue 2,Lyon,Ligue 1,,,2017-06-23 09:47:24,loan
+325,Maxime d’Arpino,US Orléans,US Orléans,Lyon,Ligue 1,,,2017-06-23 09:48:56,loan
+326,Paul Bernardoni,Clermont Foot,Ligue 2,Bordeaux,Ligue 1,,,2017-06-23 09:52:50,loan
+327,Zinédine Machach,Toulouse,Ligue 1,Marseille,Ligue 1,,,2017-06-23 09:56:15,loan ended
+328,Julien Dacosta,Chamois Niortais,Ligue 2,Marseille,Ligue 1,,,2017-06-23 09:58:59,free agent
+329,Moussa Niakhaté,Metz,Ligue 1,Valenciennes,Ligue 2,500000.0,440000.0,2017-06-23 10:05:10,fee
+330,Ibrahima Niane,Metz,Ligue 1,Génération Foot,Premier League (Senegal),,,2017-06-23 10:07:48,undisclosed fee
+331,Franck Signorino,Free agent,Free agent,Metz,Ligue 1,,,2017-06-23 10:09:28,released
+332,Médéric Deher,Free agent,Free agent,Metz,Ligue 1,,,2017-06-23 10:11:20,released
+333,Mathieu Deplagne,Troyes,Ligue 1,Montpellier,Ligue 1,,,2017-06-23 10:20:55,undisclosed fee
+334,Yacouba Sylla,Rennes,Ligue 1,Montpellier,Ligue 1,,,2017-06-23 10:22:32,loan ended
+335,Felipe Pardo,Olympiacos,Greek Super League,Nantes,Ligue 1,,,2017-06-23 10:24:29,loan ended
+336,Younes Belhanda,Dynamo Kyiv,Premier League (Ukraine),Nice,Ligue 1,,,2017-06-23 10:27:19,loan ended
+337,Sylvain Armand,Free agent,Free agent,Rennes,Ligue 1,,,2017-06-23 10:33:02,released
+338,Ermir Lenjani,Sion,Swiss Super League,Rennes,Ligue 1,,,2017-06-23 10:34:41,released
+339,Aldo Kalulu,Lyon,Ligue 1,Rennes,Ligue 1,,,2017-06-23 10:36:38,loan ended
+340,Baptiste Guillaume,Lille,Ligue 1,Strasbourg,Ligue 1,,,2017-06-23 10:41:16,loan ended
+341,Odsonne Edouard,Paris Saint-Germain,Ligue 1,Toulouse,Ligue 1,,,2017-06-23 10:45:00,loan ended
+342,Dusan Veskovac,Free agent,Free agent,Toulouse,Ligue 1,,,2017-06-23 10:46:32,released
+343,Nicolas Haas,Atalanta,Serie A,FC Luzern,Swiss Super League,,,2017-06-23 11:32:43,free agent
+344,João Schmidt,Atalanta,Serie A,São Paulo,Campeonato Brasileiro Série A,,,2017-06-23 11:38:00,free agent
+345,Giancarlo González,Bologna,Serie A,Palermo,Serie B,2000000.0,1750000.0,2017-06-23 11:47:05,fee
+346,Sebastien De Maio,Bologna,Serie A,Anderlecht,Jupiler League,2000000.0,1750000.0,2017-06-23 11:51:51,fee
+347,Rodrigo Palacio,Free agent,Free agent,Inter,Serie A,,,2017-06-23 12:02:20,released
+348,Josh Harrop,Preston North End,Championship,Manchester United,Premier League,,,2017-06-23 14:32:25,released
+349,Carlens Arcus,Cercle Brugge,Belgian second division,Lille,Ligue 1,,,2017-06-23 14:58:52,released
+350,Conor McAleny,Fleetwood Town,League One,Everton,Premier League,,,2017-06-23 23:13:30,released
+351,Laurent Depoitre,Huddersfield Town,Premier League,Porto,Primeira Liga,5000000.0,4400000.0,2017-06-23 23:24:01,fee
+352,Haris Vučkić,FC Twente,Eredivisie,Newcastle United,Premier League,,,2017-06-23 23:37:10,released
+353,Abdoul Camara,Guingamp,Ligue 1,Derby County,Championship,,,2017-06-24 00:05:53,released
+354,Julien Fabri,Brest,Ligue 2,Marseille,Ligue 1,,,2017-06-24 00:16:41,released
+355,Francisco Rodríguez,FC Luzern,Swiss Super League,Wolfsburg,Bundesliga,,,2017-06-24 00:21:23,fee
+356,Oswaldo Vizcarrondo,Troyes,Ligue 1,Nantes,Ligue 1,,,2017-06-24 00:25:03,released
+357,Will Hughes,Watford,Premier League,Derby County,Championship,9150000.0,8000000.0,2017-06-24 22:01:34,fee
+358,Julian Pollersbeck ,Hamburg,Bundesliga,Kaiserslautern,2. Bundesliga,3500000.0,3100000.0,2017-06-25 17:29:48,fee
+359,Fankaty Dabo,Vitesse Arnhem,Eredivisie,Chelsea,Premier League,,,2017-06-25 17:46:40,loan
+360,Patrik Dzalto,SSV Regensburg,Bundesliga 2,Bayer Leverkusen,Bundesliga,,,2017-06-25 17:56:45,released
+361,Jordan Lefort,Quevilly Rouen,Ligue 2,Amiens,Ligue 1,,,2017-06-25 19:30:23,loan
+362,Marvin Gakpa,Quevilly Rouen,Ligue 2,Lorient,Ligue 1,,,2017-06-25 19:32:03,undisclosed fee
+363,Valentin Vanbaleghem,Les Herbiers,National,Lille,Ligue 1,,,2017-06-26 07:20:55,loan
+364,Gaël Andonian,PAE Veria,Greek first division,Marseille,Ligue 1,,,2017-06-26 07:24:25,loan ended
+365,Hicham Benkaïd,Orléans,Ligue 2,Strasbourg,Ligue 1,,,2017-06-26 08:36:10,released
+366,Fodé Doré,Clermont Foot,Ligue 2,Angers,Ligue 1,,,2017-06-26 08:46:32,loan
+367,Fede Valverde,Deportivo La Coruña,La Liga,Real Madrid,La Liga,,,2017-06-26 08:49:08,loan
+368,Maxi Gómez,Celta Vigo,La Liga,Defensor Sporting,Primera División (Uruguay),4000000.0,3520000.0,2017-06-26 11:05:34,fee
+369,Valère Germain,Marseille,Ligue 1,Monaco,Ligue 1,8000000.0,7000000.0,2017-06-26 16:06:25,fee
+370,Alexandre Mendy,Bordeaux,Ligue 1,Guingamp,Ligue 1,580000.0,510000.0,2017-06-26 16:17:58,fee
+371,Bryan Pelé,Troyes,Ligue 1,Brest,Ligue 2,,,2017-06-26 16:18:51,released
+372,Besar Halimi,Brondby,Danish Superliga,Mainz 05,Bundesliga,,,2017-06-26 16:40:49,loan
+373,Todor Nedelev,Botev Plovdiv,Bulgarian First League,Mainz 05,Bundesliga,,,2017-06-26 16:42:46,loan
+374,Kenan Kodro,Mainz 05,Bundesliga,Osasuna,Segunda División,1750000.0,1539750.0,2017-06-26 16:45:39,fee
+375,Djibril Sow,Young Boys,Swiss Super League,Borussia Mönchengladbach,Bundesliga,1700000.0,1500000.0,2017-06-26 17:03:49,fee
+376,Josh Ginnelly,Lincoln City,League Two,Burnley,Premier League,,,2017-06-26 17:05:25,loan extended
+377,Bertrand Traoré,Lyon,Ligue 1,Chelsea,Premier League,10000000.0,8800000.0,2017-06-26 20:35:52,fee
+378,Diego Llorente,Real Sociedad,La Liga,Real Madrid,La Liga,7000000.0,6150000.0,2017-06-27 07:57:13,fee
+379,Ermedin Demirovic,Alavés,La Liga,RB Leipzig,Bundesliga,,,2017-06-27 10:18:43,undisclosed fee
+380,Antonio Luna,Levante,La Liga,Eibar,La Liga,,,2017-06-27 10:24:24,released
+381,Madger Gomes,Leeds United,Championship,Liverpool,Premier League,,,2017-06-27 12:45:47,released
+382,Eros Pisano,Bristol City,Championship,Verona,Serie A,,,2017-06-27 12:47:25,released
+383,Luke Croll,Exeter City,League Two,Crystal Palace,Premier League,,,2017-06-27 12:55:28,released
+384,Yunes Abdelhamid,Reims,Ligue 2,Dijon,Ligue 1,,,2017-06-27 13:15:52,undisclosed fee
+385,Luka Jovic,Eintracht Frankfurt,Bundesliga,Benfica,Primeira Liga,,,2017-06-27 13:17:29,loan
+386,Alexandru Maxim,Mainz 05,Bundesliga,Stuttgart,Bundesliga,2884500.0,2550000.0,2017-06-27 15:18:22,fee
+387,Salvatore Sirigu,Torino,Serie A,Paris Saint-Germain,Ligue 1,,,2017-06-27 17:07:53,released
+388,Marko Dmitrovic,Eibar,La Liga,Alcorcón,Segunda División,700000.0,620000.0,2017-06-28 06:40:34,fee
+389,Éver Banega,Sevilla,La Liga,Inter,Serie A,9000000.0,8000000.0,2017-06-28 06:49:58,fee
+390,Halil Altintop,Slavia Prague,Czech First League,Augsburg,Bundesliga,,,2017-06-28 06:59:11,released
+391,Enzo Crivelli,Angers,Ligue 1,Bordeaux,Ligue 1,4000000.0,3500000.0,2017-06-28 08:04:35,fee
+392,Bruno Fernandes,Sporting,Primeira Liga,Sampdoria,Serie A,8500000.0,7500000.0,2017-06-28 08:09:25,fee
+393,Famara Diédhiou,Bristol City,Championship,Angers,Ligue 1,6000000.0,5300000.0,2017-06-28 13:36:35,fee
+394,Franck Tabanou,Guingamp,Ligue 1,Swansea City,Premier League,,,2017-06-28 13:37:45,released
+395,Bafétimbi Gomis,Galatasaray,Turkish Süper Lig,Swansea City,Premier League,,,2017-06-28 20:04:36,undisclosed fee
+396,Jhon Cordoba,FC Cologne,Bundesliga,Mainz 05,Bundesliga,16000000.0,14200000.0,2017-06-28 20:57:11,fee
+397,Bjarne Thoelke,Hamburg,Bundesliga,Karlsruhe,2. Bundesliga,,,2017-06-28 21:00:07,released
+398,Viktor Fischer,Mainz 05,Bundesliga,Middlesbrough,Championship,,,2017-06-28 21:13:47,undisclosed fee
+399,Marcel Heller,Augsburg,Bundesliga,Darmstadt,2. Bundesliga,,,2017-06-28 21:15:55,released
+400,Kyriakos Papadopoulos,Hamburg,Bundesliga,Bayer Leverkusen,Bundesliga,6500000.0,5750000.0,2017-06-28 21:51:06,fee
+401,Germán Lux,River Plate,Primera División (Argentina),Deportivo La Coruña,La Liga,,,2017-06-28 22:48:29,released
+402,Lubomir Satka,FC DAC 1904 Dunajská Streda,Fortuna Liga,Newcastle United,Premier League,,,2017-06-28 22:58:14,released
+403,Rick Karsdorp,Roma,Serie A,Feyenoord,Eredivisie,14000000.0,12300000.0,2017-06-28 23:04:01,fee
+404,Hendrick Cakin,Reims,Ligue 2,Nantes,Ligue 1,,,2017-06-28 23:08:49,released
+405,Gabriel,Troyes,Ligue 1,Lille,Ligue 1,,,2017-06-28 23:15:43,loan
+406,Adama Mbengue,Caen,Ligue 1,Diambars FC,Premier League (Senegal),,,2017-06-28 23:19:06,undisclosed fee
+407,David Oberhauser,Platanias,Greek Super League,Metz,Ligue 1,,,2017-06-28 23:21:34,released
+408,Jean-Christophe Bouet,Amiens,Ligue 1,Dunkerque,National,,,2017-06-28 23:27:59,released
+409,Marcos Llorente,Real Madrid,La Liga,Alavés,La Liga,,,2017-06-28 23:36:25,loan ended
+410,Víctor Camarasa,Levante,La Liga,Alavés,La Liga,,,2017-06-28 23:38:02,loan ended
+411,Rodrigo Ely,Milan,Serie A,Alavés,La Liga,,,2017-06-28 23:39:34,loan ended
+412,Adrián Ortolá,Barcelona,La Liga,Alavés,La Liga,,,2017-06-28 23:41:29,loan ended
+413,Deyverson,Levante,La Liga,Alavés,La Liga,,,2017-06-28 23:44:04,loan ended
+414,Rubén Sobrino,Manchester City,Premier League,Alavés,La Liga,,,2017-06-28 23:46:28,loan ended
+415,Theo Hernández,Atlético Madrid,La Liga,Alavés,La Liga,,,2017-06-28 23:48:22,loan ended
+416,Dani Pacheco,Getafe,La Liga,Real Betis,La Liga,,,2017-06-28 23:54:39,released
+417,Benjamin Lecomte,Montpellier,Ligue 1,Lorient,Ligue 2,,,2017-06-29 12:13:17,released
+418,Daichi Kamada,Eintracht Frankfurt,Bundesliga,Sagan Tosu,J1 League,2500000.0,2200000.0,2017-06-29 12:20:43,fee
+419,Lucas Evangelista,Estoril,Primeira Liga,Udinese,Serie A,,,2017-06-29 12:26:46,loan
+420,Víctor Camarasa,Real Betis,La Liga,Levante,La Liga,7000000.0,6150000.0,2017-06-29 13:34:45,fee
+421,Erwin Mulder,Swansea City,Premier League,Heerenveen,Eredivisie,,,2017-06-29 13:38:52,released
+422,Jermain Defoe,Bournemouth,Premier League,Sunderland,Championship,,,2017-06-29 14:58:01,released
+423,André Hahn,Hamburg,Bundesliga,Borussia Mönchengladbach,Bundesliga,6000000.0,5300000.0,2017-06-29 18:53:00,fee
+424,Robert Zulj,Hoffenheim,Bundesliga,Greuther Fürth,2. Bundesliga,,,2017-06-29 19:01:39,released
+425,Enzo Zidane,Alavés,La Liga,Real Madrid,La Liga,,,2017-06-29 19:11:19,undisclosed fee
+426,Pablo Insua,Schalke 04,Bundesliga,Deportivo La Coruña,La Liga,3500000.0,3100000.0,2017-06-30 07:51:03,fee
+427,Nathan Aké,Bournemouth,Premier League,Chelsea,Premier League,22790000.0,20000000.0,2017-06-30 08:41:54,fee
+428,Pape Sané,Auxerre,Ligue 2,Caen,Ligue 1,,,2017-06-30 09:44:49,loan
+429,Aaron Mooy,Huddersfield Town,Premier League,Manchester City,Premier League,9100000.0,8000000.0,2017-06-30 13:47:13,fee
+430,Richard Soumah,Maccabi Petah Tikva,Premier League (Israel),Amiens,Ligue 1,,,2017-06-30 09:56:16,released
+431,Joachim Eickmayer,Vendée Herbiers Foot,National,Amiens,Ligue 1,,,2017-06-30 09:59:44,released
+432,Jonathan Bamba,Saint-Etienne,Ligue 1,Angers,Ligue 1,,,2017-06-30 10:02:27,loan ended
+433,Jamel Saihi,Free agent,Free agent,Angers,Ligue 1,,,2017-06-30 10:06:11,released
+434,Dickson Nwakaeme,Pahang FA,Liga Super (Malaysia),Angers,Ligue 1,,,2017-06-30 10:12:28,released
+435,Mathias Serin,Dunkerque,National 1,Angers,Ligue 1,,,2017-06-30 10:15:16,loan
+436,Gabriel Mutombo Kupa,Orléans,Ligue 2,Angers,Ligue 1,,,2017-06-30 10:17:02,loan
+437,Cédric Yambéré,Dijon,Ligue 1,Bordeaux,Ligue 1,,,2017-06-30 10:30:47,undisclosed fee
+438,Alaeddine Yahia,Free agent,Free agent,Caen,Ligue 1,,,2017-06-30 10:33:14,released
+439,Steed Malbranque,Free agent,Free agent,Caen,Ligue 1,,,2017-06-30 10:35:27,released
+440,Marc-Aurèle Caillard,Guingamp,Ligue 1,Clermont Foot,Ligue 2,,,2017-06-30 10:41:08,released
+441,Youssouf Sabaly,Bordeaux,Ligue 1,Paris Saint-Germain,Ligue 1,4000000.0,3500000.0,2017-06-30 10:43:45,fee
+442,Reynald Lemaître,Free agent,Free agent,Guingamp,Ligue 1,,,2017-06-30 10:51:31,released
+443,Johny Placide,Free agent,Free agent,Guingamp,Ligue 1,,,2017-06-30 10:52:51,released
+444,Ferland Mendy,Lyon,Ligue 1,Le Havre,Ligue 2,5000000.0,4400000.0,2017-06-30 10:56:30,fee
+445,Jean-Philippe Mateta,Le Havre,Ligue 2,Lyon,Ligue 1,,,2017-06-30 10:58:13,loan
+446,Bafétimbi Gomis,Swansea City,Premier League,Marseille,Ligue 1,,,2017-06-30 11:00:40,loan ended
+447,Gravillon,Benevento,Serie A,Inter,Serie A,1500000.0,1300000.0,2017-06-30 11:39:30,fee
+448,Federico Dimarco,Sion,Swiss Super League,Inter,Serie A,2000000.0,1750000.0,2017-06-30 11:43:10,fee
+449,Maximilian Beister,Free agent,Free agent,Mainz 05,Bundesliga,,,2017-06-30 12:56:20,released
+450,Giuseppe Pezzella,Udinese,Serie A,Palermo,Serie B,4500000.0,3950000.0,2017-06-30 15:06:13,fee
+451,Seydou Doumbia,Sporting,Primeira Liga,Roma,Serie A,,,2017-06-30 15:14:29,loan
+452,Enzo Pérez,River Plate,Primera División (Argentina),Valencia,La Liga,3500000.0,3070000.0,2017-06-30 15:18:06,fee
+453,Felix Uduokhai,Wolfsburg,Bundesliga,1860 Munich,3. Bundesliga,1000000.0,880000.0,2017-06-30 18:28:51,fee
+454,Henry Onyekuru,Everton,Premier League,Eupen,Jupiler League,8000000.0,7000000.0,2017-06-30 18:33:32,fee
+455,Henry Onyekuru,Anderlecht,Jupiler League,Everton,Premier League,,,2017-06-30 18:34:16,loan
+456,Gerard Deulofeu,Barcelona,La Liga,Everton,Premier League,11400000.0,10000000.0,2017-06-30 18:38:03,fee
+457,Fabio Borini,Milan,Serie A,Sunderland,Championship,,,2017-06-30 18:40:50,loan
+458,Felix Wiedwald,Leeds United,Championship,Werder Bremen,Bundesliga,569908.0,500000.0,2017-06-30 20:02:46,undisclosed fee
+459,Cristian Tello,Real Betis,La Liga,Barcelona,La Liga,4000000.0,3509335.0,2017-06-30 20:05:00,fee
+460,Mariano Díaz,Lyon,Ligue 1,Real Madrid,La Liga,8000000.0,7016095.0,2017-06-30 20:41:23,fee
+461,Konrad Laimer,RB Leipzig,Bundesliga,RB Salzburg,Austrian Bundesliga,6841345.0,6000000.0,2017-06-30 20:47:12,fee
+462,Lorenzo Pellegrini,Roma,Serie A,Sassuolo,Serie A,10000000.0,8768600.0,2017-06-30 21:05:25,fee
+463,Jiri Pavlenka,Werder Bremen,Bundesliga,Slavia Prague,Czech First League,2851082.0,2500000.0,2017-06-30 21:10:22,fee
+464,Sebas Coris,Osasuna,Segunda División,Girona,La Liga,,,2017-06-30 21:18:29,loan
+465,Jonas Lössl,Huddersfield Town,Premier League,Mainz 05,Bundesliga,,,2017-06-30 21:20:31,loan
+466,Antonio Rüdiger,Chelsea,Premier League,Roma,Serie A,33000000.0,28952280.0,2017-06-30 23:08:45,fee
+467,Senna Miangue,Cagliari,Serie A,Inter,Serie A,3500000.0,3034838.0,2017-01-07 01:14:12,fee
+468,Caio Rangel,Estoril,Primeira Liga,Cagliari,Serie A,,,2017-01-07 01:15:53,undisclosed fee
+469,Chris Willock,Benfica,Primeira Liga,Arsenal,Premier League,,,2017-01-07 01:16:46,released
+470,Daniel Bachmann,Watford,Premier League,Stoke City,Premier League,,,2017-01-07 09:12:39,released
+471,Kiko Femenía,Watford,Premier League,Alavés,La Liga,,,2017-01-07 10:40:21,released
+472,Ethan Ampadu,Chelsea,Premier League,Exeter City,League Two,,,2017-01-07 11:25:31,fee
+473,Jan Bednarek ,Southampton,Premier League,Lech Poznan,Ekstraklasa,6000000.0,5700000.0,2017-01-07 12:02:02,fee
+474,Adam Marusic,Lazio,Serie A,KV Oostende,Belgian First Division A,6343000.0,5500000.0,2017-01-07 17:54:15,undisclosed fee
+475,Anastasios Donis,Stuttgart,Bundesliga,Juventus,Serie A,2940850.0,2550000.0,2017-01-07 18:01:35,undisclosed fee
+476,Leandro Paredes,Zenit,Russian Premier League,Roma,Serie A,23000000.0,19950000.0,2017-01-07 18:09:12,fee
+477,Willy Caballero,Chelsea,Premier League,Free agent,Free agent,,,2017-01-07 18:10:49,free agent
+478,Zeki Fryers,Barnsley,Championship,Crystal Palace,Premier League,,,2017-01-07 22:25:01,released
+479,Nicola Murru,Sampdoria,Serie A,Cagliari,Serie A,6861980.0,5950000.0,2017-01-07 22:30:10,fee
+480,Luca Cigarini,Cagliari,Serie A,Sampdoria,Serie A,,,2017-01-07 22:31:13,released
+481,Nemanja Maksimovic,Valencia,La Liga,Astana,Kazakhstan,,,2017-02-07 14:42:44,released
+482,Jay Rodriguez,West Bromwich Albion,Premier League,Southampton,Premier League,12370000.0,12000000.0,2017-02-07 15:53:08,fee
+483,Luca Garritano,Chievo,Serie A,Cesena,Serie B,980282.0,850000.0,2017-02-07 19:06:01,fee
+484,Alejandro Rodríguez,Chievo,Serie A,Cesena,Serie B,490141.0,425000.0,2017-02-07 19:07:41,fee
+485,Michele Rigione,Chievo,Serie A,Cesena,Serie B,196056.0,170000.0,2017-02-07 19:10:29,fee
+486,Tomasz Kupisz,Cesena,Serie B,Chievo,Serie A,,,2017-02-07 19:12:46,loan
+487,Lamin Jallow,Cesena,Serie B,Chievo,Serie A,,,2017-02-07 19:14:44,loan
+488,Marco Calderoni,Novara,Serie B,Chievo,Serie A,,,2017-02-07 19:16:46,undisclosed fee
+489,Fabio Eguelfi,Atalanta,Serie A,Inter,Serie A,1476190.0,1280000.0,2017-02-07 19:25:58,fee
+490,Prince Gouano,Amiens,Ligue 1,Atalanta,Serie A,,,2017-02-07 19:27:59,released
+491,Luca Vido,Atalanta,Serie A,Milan,Serie A,,,2017-02-07 19:29:23,undisclosed fee
+492,José Luis Palomino,Atalanta,Serie A,Ludogorets,Bulgarian First League,3921131.0,3400000.0,2017-02-07 19:31:12,fee
+493,Andrea Poli,Bologna,Serie A,Milan,Serie A,,,2017-02-07 19:44:55,released
+494,Massimo Coda,Benevento,Serie A,Salernitana,Serie B,1672247.0,1450000.0,2017-02-07 19:47:03,fee
+495,Claudio Pizarro,Free agent,Free agent,Werder Bremen,Bundesliga,,,2017-02-07 21:02:46,released
+496,Massimo Bruno,Anderlecht,Jupiler League,RB Leipzig,Bundesliga,,,2017-02-07 21:21:31,loan
+497,Madih Talal,Amiens,Ligue 1,Angers,Ligue 1,,,2017-02-07 21:29:08,undisclosed fee
+498,William Vainqueur,Roma,Serie A,Marseille,Ligue 1,,,2017-02-07 21:43:53,loan ended
+499,Jérémie Porsan-Clémenté,Montpellier,La Liga,Marseille,Ligue 1,,,2017-02-07 21:46:59,released
+500,Abou Diaby,Free agent,Free agent,Marseille,Ligue 1,,,2017-02-07 21:48:25,released
+501,Leya Iseka,Anderlecht,Jupiler League,Marseille,Ligue 1,,,2017-02-07 21:50:58,loan ended
+502,Brice Samba,Caen,Ligue 1,Marseille,Ligue 1,,,2017-02-07 21:54:48,released
+503,Samad Mouhammadou,Free agent,Free agent,Marseille,La Liga,,,2017-02-07 21:57:25,released
+504,Alphousseyni Sané,Free agent,Free agent,Marseille,Ligue 1,,,2017-02-07 22:01:37,released
+505,Cheick Diabaté,Osmanlispor,Super Lig,Metz,Ligue 1,,,2017-02-07 22:03:43,loan ended
+506,Mevlut Erding,Hannover 96,Bundesliga,Metz,Ligue 1,,,2017-02-07 22:06:07,loan ended
+507,Jonathan Mexique,Cercle Brugge,Jupiler League,Monaco,Ligue 1,,,2017-02-07 22:08:57,loan
+508,Tristan Muyumba Nkita,Cercle Brugge,Jupiler League,Monaco,Ligue 1,,,2017-02-07 22:10:41,loan
+509,Guevin Tormin,Cercle Brugge,Jupiler League,Monaco,Ligue 1,,,2017-02-07 22:23:44,loan
+510,Joris Kayembe,Nantes,Ligue 1,Porto,Primeira Liga,,,2017-02-07 22:26:56,undisclosed fee
+511,Paul Baysse,Málaga,La Liga,Nice,Ligue 1,,,2017-02-07 22:28:48,released
+512,Anastasios Donis,Juventus,Serie A,Nice,Ligue 1,,,2017-02-07 22:30:23,loan ended
+513,Mounir Obbadi,Free agent,Free agent,Nice,Free agent,,,2017-02-07 22:31:53,released
+514,Jordan Veretout,Aston Villa,Championship,Saint-Etienne,Ligue 1,,,2017-02-07 22:54:08,loan ended
+515,Benjamin Corgnet,Free agent,Free agent,Saint-Etienne,Ligue 1,,,2017-02-07 22:55:50,released
+516,Óscar Trejo,Rayo Vallecono,Segunda División,Toulouse,Ligue 1,,,2017-02-07 22:59:39,released
+517,Corentin Jean,Monaco,Ligue 1,Toulouse,Ligue 1,,,2017-02-07 23:01:23,loan ended
+518,Mathieu Cafaro,Reims,Ligue 2,Toulouse,Ligue 1,,,2017-02-07 23:03:53,released
+519,Dominik Furman,Wisla Plock,Ekstraklasa,Toulouse,Ligue 1,150000.0,130000.0,2017-02-07 23:08:25,fee
+520,Ervin Zukanovic,Roma,Serie A,Atalanta,Serie A,,,2017-02-07 23:11:23,loan ended
+521,Mauricio Pinilla,Genoa,Serie A,Atalanta,Serie A,,,2017-02-07 23:22:43,loan ended
+522,Marko Rog,Napoli,Serie A,Dinamo Zagreb,Croatian Prva Liga,12500000.0,11000000.0,2017-03-07 00:31:43,fee
+523,Nikola Maksimovic,Napoli,Serie A,Torino,Serie A,26000000.0,22822540.0,2017-03-07 00:37:11,fee
+524,Oscar Hiljemark,Genoa,Serie A,Palermo,Serie B,2500000.0,2194475.0,2017-03-07 00:39:40,fee
+525,John Terry,Aston Villa,Championship,Chelsea,Premier League,,,2017-03-07 10:46:20,released
+526,Antonio Colak,Ingolstadt,2. Bundesliga,Hoffenheim,Bundesliga,,,2017-03-07 11:08:45,loan
+527,Yuning Zhang,West Bromwich Albion,Premier League,Vitesse Arnhem,Jupiler League,,,2017-03-07 12:07:43,undisclosed fee
+528,Yuning Zhang,Werder Bremen,Bundesliga,West Bromwich Albion,Premier League,,,2017-03-07 12:08:34,loan
+529,Daniel James,Shrewsbury Town,League One,Swansea City,Premier League,,,2017-03-07 13:19:07,loan
+530,Andre Wisdom,Derby County,Championship,Liverpool,Premier League,2300000.0,2000000.0,2017-03-07 14:21:36,fee
+531,Maxime Gonalons,Roma,Serie A,Lyon,Ligue 1,5000000.0,4389750.0,2017-03-07 15:59:03,fee
+532,Sandro Ramírez,Everton,Premier League,Málaga,La Liga,6037555.0,5300000.0,2017-03-07 16:05:39,fee
+533,Corentin Jean,Toulouse,Ligue 1,Monaco,Ligue 1,4000000.0,3500000.0,2017-03-07 17:15:58,fee
+534,Terence Kongolo,Monaco,Ligue 1,Feyenoord,Eredivisie,13000000.0,11400000.0,2017-03-07 17:18:49,fee
+535,George Boyd,Sheffield Wednesday,Championship,Burnley,Premier League,,,2017-03-07 17:24:59,released
+536,Luca Rizzo,SPAL,Serie A,Bologna,Serie A,,,2017-03-07 17:47:09,loan
+537,Marios Oikonomou,SPAL,Serie A,Bologna,Serie A,,,2017-03-07 17:49:22,loan
+538,Federico Mattiello,SPAL,Serie A,Juventus,Serie A,,,2017-03-07 17:51:45,loan
+539,Felipe Dal Bello,SPAL,Serie A,Udinese,Serie A,600000.0,530000.0,2017-03-07 17:54:23,fee
+540,Bersant Celina,Ipswich Town,Championship,Manchester City,Premier League,,,2017-03-07 18:45:32,loan
+541,Hakan Calhanoglu,Milan,Serie A,Bayer Leverkusen,Bundesliga,25000000.0,22000000.0,2017-03-07 18:48:15,fee
+542,Michael Keane,Everton,Premier League,Burnley,Premier League,28500000.0,25000000.0,2017-03-07 19:54:35,fee
+543,Baïssama Sankoh,Caen,Ligue 1,Guingamp,Ligue 1,,,2017-03-07 20:32:41,undisclosed fee
+544,Paul-José Mpoku,Standard Liège,Jupiler League,Chievo,Serie A,2500000.0,2200000.0,2017-03-07 22:23:56,fee
+545,Adam Ounas,Napoli,Serie A,Bordeaux,Ligue 1,10000000.0,8800000.0,2017-03-07 22:48:02,fee
+546,Florian Lejeune,Newcastle United,Premier League,Eibar,La Liga,9900000.0,8700000.0,2017-04-07 08:35:38,fee
+547,Luiz Gustavo,Marseille,Ligue 1,Wolfsburg,Bundesliga,8000000.0,7000000.0,2017-04-07 09:17:47,fee
+548,Guido Milan,Veracruz,Tercera División de México,Metz,Ligue 1,,,2017-04-07 09:30:03,released
+549,Vicente Iborra,Leicester City,Premier League,Sevilla,La Liga,14000000.0,12300000.0,2017-04-07 10:07:33,fee
+550,Matthias Ginter,Borussia Mönchengladbach,Bundesliga,Borussia Dortmund,Bundesliga,17000000.0,14900000.0,2017-04-07 10:09:15,fee
+551,Kevin Diks,Feyenoord,Eredivisie,Fiorentina,Serie A,,,2017-04-07 10:18:25,loan
+552,Connor Mahoney,Bournemouth,Premier League,Blackburn Rovers,Championship,,,2017-04-07 13:20:02,released
+553,Boris Tashchy,Free agent,Free agent,Stuttgart,Premier League,,,2017-04-07 13:32:31,released
+554,Alvaro Lemos,Lens,Ligue 2,Celta Vigo,La Liga,,,2017-04-07 13:40:29,loan
+555,Joseba Zaldua,Leganés,La Liga,Real Sociedad,La Liga,,,2017-04-07 14:28:10,loan
+556,Tammy Abraham,Swansea City,Premier League,Chelsea,Premier League,,,2017-04-07 14:48:46,loan
+557,Tom Ince,Huddersfield Town,Premier League,Derby County,Championship,9100000.0,8000000.0,2017-04-07 15:09:20,fee
+558,Aleksandar Pesic,Red Star Belgrade,Serbian SuperLiga,Toulouse,Ligue 1,700000.0,615000.0,2017-04-07 16:28:54,fee
+559,François Bellugou,Troyes,Ligue 1,Lorient,Ligue 2,,,2017-04-07 17:56:50,undisclosed fee
+560,Michael Gregoritsch,Augsburg,Bundesliga,Hamburg,Bundesliga,5000000.0,4400000.0,2017-04-07 18:34:16,fee
+561,Sergio Córdova,Augsburg,Bundesliga,Caracas FC,Primera División (Venezuela),1000000.0,880000.0,2017-04-07 18:41:32,fee
+562,Kasey Palmer,Huddersfield Town,Premier League,Chelsea,Premier League,,,2017-04-07 18:57:07,loan
+563,Oliver Kragl,Crotone,Serie A,Frosinone,Serie B,400000.0,350000.0,2017-04-07 19:15:02,fee
+564,Alessandro Plizzari,Ternana,Serie B,Milan,Serie A,,,2017-04-07 20:15:19,loan
+565,Charles Días de Oliveira,Eibar,La Liga,Málaga,La Liga,,,2017-04-07 20:24:11,released
+566,Wilfired Kanga,Angers,Ligue 1,Paris Saint-Germain,Ligue 1,,,2017-04-07 20:30:57,undisclosed fee
+567,Borja Bastón,Málaga,La Liga,Swansea City,Premier League,,,2017-04-07 23:15:31,loan
+568,Steve Mounié,Huddersfield Town,Premier League,Montpellier,Ligue 1,13000000.0,11450000.0,2017-05-07 09:21:01,fee
+569,Danny Williams,Huddersfield Town,Premier League,Reading,Championship,,,2017-05-07 09:38:12,released
+570,Philipp Leinhart,Freiburg,Bundesliga,Real Madrid,La Liga,,,2017-05-07 11:46:18,loan
+571,Youssouf Koné,Reims,Ligue 2,Lille,Ligue 1,,,2017-05-07 11:47:40,loan
+572,Jozabed,Celta Vigo,La Liga,Fulham,Championship,3419800.0,3000000.0,2017-05-07 11:57:43,fee
+573,Josip Ilicic,Atalanta,Serie A,Fiorentina,Serie A,5500000.0,4824590.0,2017-05-07 12:03:12,fee
+574,Todd Kane,Groningen,Eredivisie,Chelsea,Premier League,,,2017-05-07 12:09:54,loan
+575,Oriol Riera,Western Sydney,A-League,Deportivo La Coruña,La Liga,,,2017-05-07 12:17:26,released
+576,Fabio Coentrão,Sporting,Primeira Liga,Real Madrid,La Liga,,,2017-05-07 13:39:21,loan
+577,Benedikt Gimber,Jahn Regensburg,2. Bundesliga,Hoffenheim,Bundesliga,,,2017-05-07 13:41:33,loan
+578,Laure Sanabria,Alcorcón,Segunda División,Deportivo La Coruña,La Liga,,,2017-05-07 14:41:32,free agent
+579,Pablo Larrea,Numancia,Segunda División,Villarreal,La Liga,,,2017-05-07 14:47:31,free agent
+580,Harrison Reed,Norwich City,Championship,Southampton,Premier League,,,2017-05-07 14:48:58,loan
+581,Theo Hernández,Real Madrid,La Liga,Atlético Madrid,La Liga,26000000.0,22800000.0,2017-05-07 15:59:04,fee
+582,Josh Tymon,Stoke City,Premier League,Hull City,Premier League,,,2017-05-07 16:02:14,undisclosed fee
+583,Alexandre Lacazette,Arsenal,Premier League,Lyon,Ligue 1,52500000.0,46000000.0,2017-05-07 17:08:37,fee
+584,Andrea Beghetto,Frosinone,Serie B,Genoa,Serie A,,,2017-05-07 17:30:17,loan
+585,Boris Mathis,Everton,Premier League,Metz,Ligue 1,,,2017-05-07 17:40:53,undisclosed fee
+586,Brendan Galloway,Sunderland,Championship,Everton,Premier League,,,2017-05-07 20:49:47,loan
+587,Scott Malone ,Huddersfield Town,Premier League,Fulham,Championship,4000000.0,3500000.0,2017-05-07 20:57:15,fee
+588,Roberto Jiménez,Málaga,La Liga,Espanyol,La Liga,,,2017-05-07 20:59:23,loan
+589,Alfonso Pedraza ,Alavés,La Liga,Villarreal,La Liga,,,2017-05-07 21:01:41,loan
+590,Chidozie Awaziem,Nantes,Ligue 1,Porto,Primeira Liga,,,2017-06-07 00:43:36,loan
+591,Bruno González,Getafe,Segunda División,Real Betis,La Liga,600000.0,526000.0,2017-06-07 00:49:06,fee
+592,Jonathan de Guzmán,Eintracht Frankfurt,Bundesliga,Napoli,Serie A,2000000.0,1750000.0,2017-06-07 08:00:12,fee
+593,Ntumba Massanka,Wrexham,National League,Burnley,Premier League,,,2017-06-07 08:50:44,loan
+594,Bradley Jackson,Southport,National League North,Burnley,Premier League,,,2017-06-07 08:59:04,loan
+595,Marcus Thuram,Guingamp,Ligue 1,Sochaux,Ligue 2,,,2017-06-07 09:08:36,undisclosed fee
+596,Tareiq Holmes-Dennis,Portsmouth,League One,Huddersfield Town,Premier League,,,2017-06-07 09:12:00,loan
+597,Jordy Hiwula,Fleetwood Town,League One,Huddersfield Town,Premier League,,,2017-06-07 09:19:37,loan
+598,Angelino,NAC Breda,Eredivisie,Manchester City,Premier League,,,2017-06-07 09:21:48,loan
+599,Roque Mesa,Swansea City,Premier League,Las Palmas,La Liga,12550000.0,11000000.0,2017-06-07 11:37:18,fee
+600,Charlie Taylor,Burnley,Premier League,Leeds United,Championship,,,2017-06-07 11:40:00,undisclosed fee
+601,Jean-Kévin Augustin,RB Leipzig,Bundesliga,Paris Saint-Germain,Ligue 1,13000000.0,11400000.0,2017-06-07 11:42:44,fee
+602,Furkan Zorba,Osnabrück,3. Bundesliga,Eintracht Frankfurt,Bundesliga,,,2017-06-07 13:39:08,released
+603,Angelo Fulgini,Angers,Ligue 1,Valenciennes,Ligue 2,1400000.0,1230000.0,2017-06-07 13:49:44,fee
+604,Lassana Coulibaly,Angers,Ligue 1,Bastia,National 1,4000000.0,3500000.0,2017-06-07 13:53:50,fee
+605,Antonio Barragán,Real Betis,La Liga,Middlesbrough,Championship,,,2017-06-07 22:11:19,loan
+606,Rubén Sobrino,Alavés,La Liga,Manchester City,Premier League,2000000.0,1750000.0,2017-06-07 23:27:20,fee
+607,Edgar Méndez,Cruz Azul,Liga MX,Alavés,La Liga,5000000.0,4400000.0,2017-06-07 23:32:31,fee
+608,Manu Herrera,Free agent,Free agent,Real Betis,La Liga,,,2017-06-07 23:39:00,released
+609,Álex Martínez,Granada,Segunda División,Real Betis,La Liga,,,2017-06-07 23:42:20,released
+610,Álvaro Cejudo,Free agent,Free agent,Real Betis,La Liga,,,2017-06-07 23:44:12,released
+611,Ryan Donk,Galatasaray,Super Lig,Real Betis,La Liga,,,2017-06-07 23:45:45,loan ended
+612,Pablo Hervías,Eibar,La Liga,Real Sociedad,La Liga,,,2017-06-07 23:48:13,released
+613,Francisco Portillo,Getafe,La Liga,Real Betis,La Liga,1500000.0,1300000.0,2017-06-07 23:53:32,fee
+614,Ángel Rodríguez,Getafe,La Liga,Real Zaragoza,Segunda División,600000.0,530000.0,2017-06-07 23:56:39,fee
+615,Chuli,Getafe,La Liga,Almería,Segunda División,700000.0,615000.0,2017-06-07 23:59:29,fee
+616,Leandro Chichizola,Las Palmas,La Liga,Spezia,Serie B,,,2017-07-07 00:01:50,released
+617,Gianluca Gaudino,Chievo,Serie A,Bayern Munich,Bundesliga,50000.0,44000.0,2017-07-07 00:09:18,fee
+618,Ante Budimir,Crotone,Serie A,Sampdoria,Serie A,,,2017-07-07 00:10:52,loan
+619,Ervin Zukanovic,Genoa,Serie A,Roma,Serie A,,,2017-07-07 00:15:23,loan
+620,Daniele Verde,Verona,Serie A,Roma,Serie A,,,2017-07-07 00:17:04,loan
+621,Marco Pompetti,Inter,Serie A,Pescara,Serie B,,,2017-07-07 00:19:56,undisclosed fee
+622,Lorenzo Peschetola,Inter,Serie A,Pescara,Serie B,,,2017-07-07 00:20:49,undisclosed fee
+623,Vurnon Anita,Leeds United,Championship,Newcastle United,Premier League,,,2017-07-07 01:15:00,free agent
+624,Josef Varney,Newcastle United,Premier League,Everton,Premier League,,,2017-07-07 01:16:31,released
+625,Stefan O'Connor,Newcastle United,Premier League,Arsenal,Premier League,,,2017-07-07 01:17:06,released
+626,Florian Thauvin,Marseille,Ligue 1,Newcastle United,Premier League,10222230.0,9000000.0,2017-07-07 01:19:52,undisclosed fee
+627,Dennon Lewis,Crawley Town,League Two,Watford,Premier League,,,2017-07-07 01:21:01,loan
+628,Charlie Colkett,Vitesse,Eredivisie,Chelsea,Premier League,,,2017-07-07 01:22:36,loan
+629,Fraser Horsfall,Gateshead,National League,Huddersfield Town,Premier League,,,2017-07-07 01:30:36,loan
+630,Juraj Kucka,Trabzonspor,Turkish Super Lig,Milan,Serie A,6000000.0,5283030.0,2017-07-07 01:33:37,fee
+631,Mathias Jorgensen,Huddersfield Town,Premier League,FC Copenhagen,Danish Super League,1750000.0,2000000.0,2017-07-07 09:08:40,fee
+632,Jonathan Ikoné,Montpellier,Ligue 1,Paris Saint-Germain,Ligue 1,,,2017-07-07 09:39:15,loan extended
+633,Milan Skriniar,Inter,Serie A,Sampdoria,Serie A,33000000.0,29100000.0,2017-07-07 10:10:08,fee
+634,Gianluca Caprari,Sampdoria,Serie A,Inter,Serie A,13000000.0,11500000.0,2017-07-07 10:30:50,fee
+635,Saidy Janko,Saint-Etienne,Ligue 1,Celtic,Scottish Premiership,,,2017-07-07 13:38:50,undisclosed fee
+636,Arturo Calabresi,Spezia,Serie B,Roma,Serie A,,,2017-07-07 14:05:16,loan
+637,Jérémy Mathieu,Sporting,Primeira Liga,Barcelona,La Liga,,,2017-07-07 14:13:28,released
+638,Andrea Conti,Milan,Serie A,Atalanta,Serie A,24000000.0,21100000.0,2017-07-07 14:19:13,fee
+639,Timothy Castagne,Atalanta,Serie A,Genk,Jupiler League,4000000.0,3500000.0,2017-07-07 14:29:19,fee
+640,Srdjan Babic,Red Star Belgrade,Serbian SuperLiga,Real Sociedad,La Liga,,,2017-07-07 16:31:14,loan
+641,Yuri Berchiche,Paris Saint-Germain,Ligue 1,Real Sociedad,La Liga,15000000.0,13200000.0,2017-07-07 16:36:27,fee
+642,Jordi Amat,Real Betis,La Liga,Swansea City,Premier League,,,2017-07-07 17:03:23,loan
+643,Vid Belec,Benevento,Serie A,Carpi,Serie B,1750000.0,1550000.0,2017-07-07 17:10:34,fee
+644,Gaetano Letizia,Benevento,Serie A,Carpi,Serie B,1750000.0,1550000.0,2017-07-07 17:11:41,fee
+645,Jonathan Walters,Burnley,Premier League,Stoke City,Premier League,3400000.0,3000000.0,2017-07-07 18:08:07,fee
+646,Yaya Sanogo,Toulouse,Free agent,Free agent,Free agent,0.0,0.0,2017-07-07 18:16:13,free agent
+647,Andrés Guardado,Real Betis,La Liga,PSV Eindhoven,Eredivisie,2000000.0,1750000.0,2017-07-07 18:17:24,fee
+648,George Puscas,Benevento,Serie A,Inter,Serie A,,,2017-07-07 22:50:24,loan
+649,Esteban Granero,Espanyol,La Liga,Real Sociedad,La Liga,,,2017-07-07 22:57:24,released
+650,Marco Andreolli,Cagliari,Serie A,Inter,Serie A,,,2017-07-07 23:03:58,released
+651,Neto,Valencia,La Liga,Juventus,Serie A,7000000.0,6189253.0,2017-08-07 00:57:59,fee
+652,Regan Poole,Northampton Town,League One,Manchester United,Premier League,,,2017-08-07 00:59:50,loan
+653,Rene Gilmartin,Colchester United,League Two,Watford,Premier League,,,2017-08-07 01:01:22,released
+654,Josh Bowler,Everton,Premier League,QPR,Championship,,,2017-08-07 01:03:45,undisclosed fee
+655,Bernardo Espinosa,Girona,La Liga,Middlesbrough,Championship,,,2017-08-07 01:07:14,undisclosed fee
+656,Marius Müller,Kaiserslautern,2. Bundesliga,RB Leipzig,Bundesliga,,,2017-08-07 01:08:19,loan
+657,Elderson Echiejile,Sivasspor,Turkish Super Lig,Monaco,Ligue 1,,,2017-08-07 01:11:05,undisclosed fee
+658,Bradley Collins,Forest Green Rovers,League Two,Chelsea,Premier League,,,2017-08-07 01:12:47,loan
+659,Joe Coveney,Nottingham Forest,Championship,Manchester City,Premier League,,,2017-08-07 01:14:41,released
+660,Alex Gilliead,Bradford City,League One,Newcastle United,Premier League,,,2017-08-07 01:15:45,loan
+661,Guillermo Maripán,Alavés,La Liga,CDUC,Campeanato Nacional (Chile),,,2017-08-07 01:18:24,undisclosed fee
+662,Connor Ogilvie,Gillingham,League One,Tottenham Hotspur,Premier League,,,2017-08-07 01:20:17,loan
+663,Loïs Diony,Saint-Etienne,Ligue 1,Dijon,Ligue 1,4806718.0,4250000.0,2017-08-07 01:21:51,fee
+664,Tyias Browning,Sunderland,Championship,Everton,Premier League,,,2017-08-07 16:39:18,loan
+665,Ignacio Camacho,Wolfsburg,Bundesliga,Málaga,La Liga,10000000.0,8800000.0,2017-08-07 16:41:40,fee
+666,Kévin Malcuit,Lille,Ligue 1,Saint-Etienne,Ligue 1,8000000.0,7100000.0,2017-08-07 16:44:31,fee
+667,Yakou Meïté,Sochaux,Ligue 2,Paris Saint-Germain,Ligue 1,,,2017-08-07 16:49:53,released
+668,José Aurelio Suárez,Girona,La Liga,Free agent,Free agent,,,2017-08-07 16:55:54,free agent
+669,Mark Travers,Weymouth,Southern League Premier Division,Bournemouth,Premier League,,,2017-09-07 06:22:01,loan
+670,Guido Pizarro,Sevilla,La Liga,Tigres,Liga MX,6000000.0,5300000.0,2017-09-07 06:25:27,fee
+671,Alberto Paloschi,SPAL,Serie A,Atalanta,Serie A,,,2017-09-07 06:28:48,loan
+672,Emil Audero,Venezia,Serie B,Juventus,Serie A,,,2017-09-07 06:30:45,loan
+673,Federico Viviani,SPAL,Serie A,Verona,Serie A,,,2017-09-07 06:33:07,loan
+674,Kaylen Hinds,Wolfsburg,Bundesliga,Arsenal,Premier League,2250000.0,2000000.0,2017-09-07 06:50:00,fee
+675,Nico Schulz,Hoffenheim,Bundesliga,Borussia Mönchengladbach,Bundesliga,3500000.0,3100000.0,2017-09-07 06:53:19,fee
+676,Olufela Olomola,Yeovil Town,League Two,Southampton,Premier League,,,2017-09-07 14:00:58,loan
+677,Wayne Rooney,Everton,Premier League,Manchester United,Premier League,,,2017-09-07 14:04:07,undisclosed fee
+678,Wesley Lautoa,Dijon,Ligue 1,Lorient,Ligue 2,1500000.0,1300000.0,2017-09-07 14:18:56,fee
+679,Chadrac Akolo,Stuttgart,Bundesliga,FC Sion,Swiss Super League,,,2017-09-07 17:28:25,undisclosed fee
+680,Wesley Saïd,Dijon,Ligue 1,Rennes,Ligue 1,1500000.0,1330000.0,2017-09-07 21:45:56,fee
+681,Alfred Gomis,SPAL,Serie A,Torino,Serie A,,,2017-09-07 21:49:47,loan
+682,Brandon Thomas Llamas,Rennes,Ligue 1,Real Mallorca,Segunda División B,3000000.0,2660000.0,2017-10-07 10:10:48,fee
+683,Kenny Tete,Lyon,Ligue 1,Ajax,Eredivisie,4000000.0,3500000.0,2017-10-07 10:25:35,fee
+684,Axel Bakayoko,Sochaux,Ligue 2,Inter,Serie A,,,2017-10-07 12:04:30,loan
+685,Cheikh Traoré,Guingamp,Ligue 1,Châteauroux,Ligue 2,,,2017-10-07 12:11:27,undisclosed fee
+686,Cheikh Traoré,Châteauroux,Ligue 2,Guingamp,Ligue 1,,,2017-10-07 12:12:22,loan
+687,Alessio Cerci,Verona,Serie A,Atlético Madrid,La Liga,,,2017-10-07 12:52:09,released
+688,Dzenis Burnic,Stuttgart,Bundesliga,Borussia Dortmund,Bundesliga,,,2017-10-07 15:12:14,loan
+689,Ezequiel Ponce,Lille,Ligue 1,Roma,Serie A,,,2017-10-07 17:07:27,loan
+690,Romelu Lukaku,Manchester United,Premier League,Everton,Premier League,84700000.0,75000000.0,2017-10-07 17:10:06,fee
+691,Amine Harit,Schalke 04,Bundesliga,Nantes,Ligue 1,10000000.0,8860000.0,2017-10-07 17:47:36,fee
+692,Elvis Manu,Genclerbirligi,Super Lig,Brighton,Premier League,,,2017-10-07 17:50:20,released
+693,Antonio Cassano,Verona,Serie A,Free agent,Free agent,,,2017-10-07 19:30:15,released
+694,Gaël Kakuta,Amiens,Ligue 1,Hebei China Fortune,Chinese Super League,,,2017-10-07 23:19:04,released
+695,Ola Aina,Hull City,Championship,Chelsea,Premier League,,,2017-11-07 09:47:38,loan
+696,Jonathan Klinsmann,Hertha Berlin,Bundesliga,California Golden Bears (UC Berkeley),NCAA Division I FBS,,,2017-11-07 09:53:30,released
+697,Luis Muriel,Sevilla,La Liga,Sampdoria,Serie A,20000000.0,17650000.0,2017-11-07 10:24:29,fee
+698,James Rodríguez,Bayern Munich,Premier League,Real Madrid,La Liga,,,2017-11-07 12:46:11,loan
+699,Douglas Costa,Juventus,Serie A,Bayern Munich,Bundesliga,,,2017-11-07 14:29:11,loan
+700,Alvaro Fernandez Llorente,Monaco,Ligue 1,Osasuna,Segunda División,,,2017-11-07 14:54:05,released
+701,Dawid Kownacki,Sampdoria,Serie A,Lech Poznan,Ekstraklasa,4600000.0,4050000.0,2017-11-07 15:05:05,fee
+702,Ablie Jallow,Metz,Ligue 1,Generation Foot,Senegalese league,,,2017-11-07 15:06:56,undisclosed fee
+703,Borja Valero,Inter,Serie A,Fiorentina,Serie A,5500000.0,4850000.0,2017-11-07 16:08:45,fee
+704,Manuel Pucciarelli,Chievo,Serie A,Empoli,Serie B,,,2017-11-07 16:21:18,loan
+705,Steve Mandanda,Marseille,Ligue 1,Crystal Palace,Premier League,2000000.0,1750000.0,2017-11-07 19:02:04,fee
+706,Jack Cork,Burnley,Premier League,Swansea City,Premier League,8950000.0,8000000.0,2017-11-07 20:14:25,fee
+707,Caleb Ekuban,Leeds United,Championship,Chievo,Serie A,900000.0,800000.0,2017-11-07 23:34:20,fee
+708,Ron-Robert Zieler,Stuttgart,Bundesliga,Leicester City,Premier League,2900000.0,2500000.0,2017-11-07 23:40:23,fee
+709,Vitinho,Barcelona,La Liga,Palmeiras,Campeonato Brasileiro Série A,,,2017-11-07 23:47:29,loan
+710,Mario Suárez,Guizhou Hengfeng Zhicheng ,Chinese Super League,Watford,Premier League,5600000.0,5000000.0,2017-11-07 23:54:02,fee
+711,Olivier Ntcham,Celtic,Scottish Premiership,Manchester City,Premier League,4500000.0,4000000.0,2017-12-07 11:00:15,fee
+712,Felix Beiersdorf,Wiener Neustadt,Austrian First League,RB Leipzig,Bundesliga,,,2017-12-07 12:30:25,loan
+713,Atinc Nukan,Besiktas,Super Lig,RB Leipzig,Bundesliga,,,2017-12-07 12:38:47,loan
+714,Antonio Donnarumma,Milan,Serie A,Asteras Tripolis,Greek Super League,300000.0,270000.0,2017-12-07 12:40:47,fee
+715,Ruben Loftus-Cheek,Crystal Palace,Premier League,Chelsea,Premier League,,,2017-12-07 12:45:28,loan
+716,Geoffrey Jourdren,Nancy,Ligue 2,Montpellier,Ligue 1,,,2017-12-07 13:46:57,undisclosed fee
+717,Deyverson,Palmeiras,Campeonato Brasileiro Série A,Levante,La Liga,5000000.0,4450000.0,2017-12-07 13:52:17,fee
+718,Francesco Forte,Spezia,Serie B,Inter,Serie A,,,2017-12-07 13:54:26,loan
+719,Raffaele Di Gennaro,Spezia,Serie  B,Inter,Serie A,,,2017-12-07 13:56:05,loan
+720,Álex Bergantiños,Sporting Gijón,	Segunda División,Deportivo La Coruña,La Liga,,,2017-12-07 14:04:47,loan
+721,Jordan Maguire-Drew,Lincoln City,League Two,Brighton,Premier League,,,2017-12-07 14:09:05,loan
+722,Rouwen Hennings,Fortuna Düsseldorf,2. Bundesliga,Burnley,Premier League,,,2017-12-07 14:12:11,released
+723,Anton Donkor,Everton,Premier League,Wolfsburg,Bundesliga,,,2017-12-07 14:19:14,loan
+724,Bruno Zuculini,Verona,Serie A,Manchester City,Premier League,,,2017-12-07 14:35:11,undisclosed fee
+725,Dean Henderson,Shrewsbury Town,League One,Manchester United,Premier League,,,2017-12-07 14:40:50,loan
+726,Tom Heardman,Bury,League One,Newcastle United,Premier League,,,2017-12-07 14:41:35,loan
+727,Luke McGee,Portsmouth,League Two,Tottenham Hotspur,Premier League,,,2017-12-07 14:43:48,undisclosed fee
+728,Ben Pierce,West Bromwich Albion,Premier League,Free agent,Free agent,,,2017-12-07 14:45:39,free agent
+729,Kévin Bérigaud ,Montpellier,Ligue 1,Angers,Ligue 1,,,2017-12-07 14:51:12,loan ended
+730,Alexander Djiku,Caen,Ligue 1,Bastia,Ligue 2,2000000.0,1780000.0,2017-12-07 14:56:22,fee
+731,Benjamin Jeannot,Dijon,Ligue 1,Lorient,Ligue 1,,,2017-12-07 15:06:58,undisclosed fee
+732,Dani Alves,Paris Saint-Germain,Ligue 1,Juventus,Serie A,,,2017-12-07 15:20:16,released
+733,Vitolo,Atlético Madrid,La Liga,Sevilla,La Liga,35700000.0,31800000.0,2017-12-07 15:29:01,fee
+734,Vitolo,Las Palmas,La Liga,Atlético Madrid,La Liga,,,2017-12-07 15:29:49,loan
+735,Adnan Januzaj,Real Sociedad,La Liga,Manchester United,Premier League,11000000.0,9800000.0,2017-12-07 15:37:20,fee
+736,Anthony Modeste,Tianjin Quanjian,Chinese Super League,FC Cologne,Bundesliga,,5100000.0,2017-12-07 19:30:35,loan
+737,Simone Ganz,Pescara,Serie A,Juventus,Serie A,1727036.0,1530000.0,2017-12-07 19:37:36,fee
+738,Mouez Hassen,LB Châteauroux,Championnat National,Nice,Ligue 1,,,2017-12-07 19:41:36,loan
+739,Riccardo Improta,Bari,Serie B,Genoa,Serie A,,,2017-12-07 19:44:27,loan
+740,Hernán Toledo,Las Palmas,La Liga,Deportivo Maldonado,Uruguayan Segunda División,,,2017-12-07 19:46:56,loan
+741,Aderlan Santos,São Paulo,Brasileiro,Valencia,La Liga,767720.0,680000.0,2017-12-07 19:50:35,loan
+742,Enner Valencia,Tigres,Liga MX,West Ham United,Premier League,5670000.0,5000000.0,2017-07-13 11:05:36,fee
+743,Tiémoué Bakayoko,Chelsea,Premier League,Monaco,Ligue 1,43000000.0,39700000.0,2017-07-13 11:07:09,fee
+744,Francesco Renzetti,Cremonese,Serie B,Genoa,Serie A,,,2017-07-13 11:09:04,loan
+745,Markus Suttner,Brighton,Premier League,Ingolstadt,2. Bundesliga,4000000.0,3500000.0,2017-07-13 11:13:05,fee
+746,Michele Castagnetti,Empoli,Serie B,SPAL,Serie A,,,2017-07-13 11:14:59,loan
+747,Sven Bender,Bayer Leverkusen,Bundesliga,Borussia Dortmund,Bundesliga,15000000.0,13230000.0,2017-07-13 12:11:38,fee
+748,Kyle Walker,Manchester City,Premier League,Tottenham Hotspur,Premier League,56600000.0,50000000.0,2017-07-13 16:11:11,fee
+749,Adil Rami,Marseille,Ligue 1,Sevilla,La Liga,6000000.0,5300000.0,2017-07-13 19:10:30,fee
+750,Andrea Costa,Benevento,Serie A,Empoli,Serie B,1500000.0,1300000.0,2017-07-13 19:13:33,fee
+751,Riccardo Orsolini,Atalanta,Serie A,Juventus,Serie A,,,2017-07-13 22:40:51,loan
+752,Matteo Pessina,Atalanta,Serie A,Milan,Serie A,3000000.0,2640000.0,2017-07-13 22:43:39,fee
+753,Nathaniel Chalobah,Watford,Premier League,Chelsea,Premier League,5676564.0,5000000.0,2017-07-13 22:45:46,fee
+754,Jessy Pi,Brest,Ligue 2,Toulouse,Ligue 1,,,2017-07-14 00:57:45,loan
+755,Tongo Doumbia,Dinamo Zagreb,Croatian Prva Liga,Toulouse,Ligue 1,772000.0,680000.0,2017-07-14 01:00:02,fee
+756,Saïd Benrahma,Châteauroux,Ligue 2,Nice,Ligue 1,,,2017-07-14 01:02:50,loan
+757,Franck Honorat,Clermont,Ligue 2,Nice,Ligue 1,,,2017-07-14 01:03:41,undisclosed fee
+758,Martin Braithwaite,Middlesbrough,Championship,Toulouse,Ligue 1,10898321.0,9600000.0,2017-07-14 01:05:08,fee
+759,Mateo Garcia,Osasuna,Segunda División,Las Palmas,La Liga,,,2017-07-14 01:07:24,loan
+760,Jonathan Calleri,Las Palmas,La Liga,Deportivo Maldonado,Uruguay Segunda División,,,2017-07-14 01:09:34,loan
+761,Mário Rui,Napoli,Serie A,Roma,Serie A,,,2017-07-14 01:11:00,loan
+762,Marcelo Guedes,Lyon,Ligue 1,Besiktas,Turkish Super Lig,7500000.0,6604136.0,2017-07-14 01:13:29,fee
+763,Sébastien Corchia,Sevilla,La Liga,Lille,Ligue 1,4826300.0,4250000.0,2017-07-14 01:16:00,fee
+764,Mamadou Coulibaly,Udinese,Serie A,Pescara,Serie B,,,2017-07-14 01:22:17,undisclosed fee
+765,Thomas Hertaux,Verona,Serie A,Udinese,Serie A,,,2017-07-14 01:23:02,loan
+766,Aiden McGeady,Sunderland,Championship,Everton,Premier League,,,2017-07-14 01:27:09,released
+767,Rob Hunt,Oldham Athletic,League One,Brighton,Premier League,,,2017-07-14 01:38:14,undisclosed fee
+768,Glen Kamara,Dundee,Scottish Premiership,Arsenal,Premier League,,,2017-07-14 01:39:11,released
+769,Christian Walton,Wigan,League One,Brighton,Premier League,,,2017-07-14 01:40:00,loan
+770,Nélson Semedo,Barcelona,La Liga,Benfica,Primeira Liga,30000000.0,26450000.0,2017-07-14 01:41:51,fee
+771,Dani Ceballos,Real Madrid,La Liga,Real Betis,La Liga,16500000.0,14500000.0,2017-07-14 09:16:07,fee
+772,Leonardo Bonucci,Milan,Serie A,Juventus,Serie A,40000000.0,35200000.0,2017-07-14 09:19:59,fee
+773,Clément Chantôme,Strasbourg,Ligue 1,Rennes,Ligue 1,,,2017-07-14 11:15:33,loan
+774,Serge Gnabry,Hoffenheim,Bundesliga,Bayern Munich,Bundesliga,,,2017-07-14 12:48:19,loan
+775,Cheikh N'Doye,Birmingham City,Championship,Angers,Ligue 1,,,2017-07-14 12:52:04,released
+776,Zakaria Bakkali,Deportivo La Coruña,La Liga,Valencia,La Liga,,,2017-07-14 13:20:49,loan
+777,Lucas Leiva,Lazio,Serie A,Liverpool,Premier League,5670000.0,5000000.0,2017-07-14 13:43:55,fee
+778,Devante Parker,St. Pölten,Austrian Bundesliga,Mainz 05,Bundesliga,,,2017-07-14 13:53:00,loan
+779,Connor Roberts,Middlesbrough,Championship,Swansea City,Premier League,,,2017-07-14 15:05:26,loan
+780,Sam Johnstone,Aston Villa,Championship,Manchester United,Premier League,,,2017-07-14 16:18:29,loan
+781,Abdou Diallo,Mainz 05,Bundesliga,Monaco,Ligue 1,4000000.0,3500000.0,2017-07-14 18:13:13,fee
+782,Bartosz Kapustka,Freiburg,Bundesliga,Leicester City,Premier League,,,2017-07-14 21:12:27,loan
+783,André Moreira,Braga,Primeira Liga,Atlético Madrid,La Liga,,,2017-07-14 21:14:37,loan
+784,Bingourou Kamara,Strasbourg,Ligue 1,Tours,Ligue 2,,,2017-07-14 21:17:18,released
+785,Mario Hermoso,Espanyol,La Liga,Real Madrid,La Liga,285420.0,250000.0,2017-07-15 01:25:53,fee
+786,Sammy Ameobi,Bolton,Championship,Newcastle United,Premier League,,,2017-07-15 01:27:49,released
+787,Neal Maupay,Brentford,Championship,Saint-Etienne,Ligue 1,1940858.0,1700000.0,2017-07-15 01:29:26,fee
+788,Marc Bola,Bristol Rovers,League One,Arsenal,Premier League,,,2017-07-15 13:16:21,loan
+789,Harry Lewis,Dundee United,Scottish Premiership,Southampton,Premier League,,,2017-07-15 13:17:34,loan
+790,Bastian Oczipka,Schalke 04,Bundesliga,Eintracht Frankfurt,Bundesliga,4500000.0,3900000.0,2017-07-15 13:34:24,fee
+791,Baptiste Aloé,Valenciennes,Ligue 2,Marseille,Ligue 1,,,2017-07-15 13:37:06,released
+792,Havard Nielsen,Fortuna Düsseldorf,2. Bundesliga,Freiburg,Bundesliga,400000.0,350000.0,2017-07-15 13:40:18,fee
+793,Douglas Luiz ,Manchester City,Premier League,Vasco de Gama,Brasileiro Serie A,11416812.0,10000000.0,2017-07-15 15:13:56,fee
+794,Leandro Cabrera,Crotone,Serie A,Zaragoza,Segunda División,,,2017-07-15 18:15:07,released
+795,Joan Jordán,Eibar,La Liga,Espanyol,La Liga,97000.0,85000.0,2017-07-15 18:18:37,fee
+796,Rubén Alcaraz,Almería,Segunda División,Girona,La Liga,,,2017-07-15 18:21:39,loan
+797,Cristian Herrera,Free agent,Free agent,Girona,La Liga,,,2017-07-15 18:24:07,released
+798,Federico Fazio,Roma,Serie A,Tottenham Hotspur,Premier League,3200000.0,2800000.0,2017-07-15 20:47:46,fee
+799,Nolito,Sevilla,La Liga,Manchester City,Premier League,9000000.0,7883112.0,2017-07-15 23:00:15,fee
+800,Berat Djimsiti,Benevento,Serie A,Atalanta,Serie A,,,2017-07-16 00:09:51,loan
+801,Mevlut Erdinc,Basaksehir,Turkish Super Lig,Hannover 96,Bundesliga,,,2017-07-16 00:11:11,released
+802,Luca Siligardi,Parma,Serie B,Verona,Serie A,1712521.0,1500000.0,2017-07-16 00:12:44,fee
+803,Andrea Bertolacci,Genoa,Serie A,Milan,Serie A,,,2017-07-16 00:13:45,loan
+804,Mariano,Galatasaray,Turkish Super Lig,Sevilla,La Liga,4500000.0,4019275.0,2017-07-16 00:15:29,fee
+805,Stanislav Lobotka,Celta Vigo,La Liga,Nordsjaelland,Danish Superliga,1141680.0,1000000.0,2017-07-16 00:17:33,fee
+806,Lucas Piazon,Fulham,Championship,Chelsea,Premier League,,,2017-07-16 00:19:10,loan
+807,Keston Davies,Yeovil Town,League Two,Swansea City,Premier League,,,2017-07-16 00:20:06,loan
+808,Eric Maxim Choupo-Moting,Free agent,Free agent,Schalke 04,Bundesliga,,,2017-07-16 00:43:58,released
+809,Guillermo Ochoa,Standard Liège,Belgian First Division A,Málaga,La Liga,,,2017-07-16 00:45:30,released
+810,Paolo di Ceglie,Free agent,Free agent,Juventus,Serie A,,,2017-07-16 00:46:15,released
+811,Tim Matavz,Vitesse,Eredivisie,Augsburg,Bundesliga,,,2017-07-16 01:06:59,released
+812,Josip Elez,Rijeka,Croatian Prva Liga,Lazio,Serie A,,,2017-07-16 01:07:56,undisclosed fee
+813,Marco Chiosa,Novara,Serie B,Torino,Serie A,,,2017-07-16 01:08:53,loan
+814,Andrea Palazzi,Pescara,Serie B,Inter,Serie A,,,2017-07-16 01:09:45,loan
+815,Thiago Mendes,Lille,Ligue 1,São Paulo,Campeonato Brasileiro Série A,8733861.0,7650000.0,2017-07-16 01:11:29,fee
+816,Panagiotis Tachtsidis,Olympiacos,Superleague Greece,Torino,Serie A,,,2017-07-16 01:12:38,released
+817,Bruno Peres,Roma,Serie A,Torino,Serie A,12500000.0,10950000.0,2017-07-16 01:15:13,fee
+818,Federico Ricci,Sassuolo,Serie A,Roma,Serie A,4500000.0,3941555.0,2017-07-16 01:16:50,fee
+819,Cengiz Under,Roma,Serie A,Basaksehir,Super Lig,13400000.0,11700000.0,2017-07-16 10:08:10,fee
+820,Gianluca Di Chiara,Benevento,Serie A,Perugia,Serie B,2910000.0,2550000.0,2017-07-16 11:28:45,fee
+821,Clinton N'Jie,Marseille,Ligue 1,Tottenham Hotspur,Premier League,7000000.0,6140000.0,2017-07-16 11:53:34,fee
+822,Marco van Ginkel,PSV Eindhoven,Eredivisie,Chelsea,Premier League,,,2017-07-16 12:49:31,loan
+823,Diego Álves,Flamengo,Campeonato Brasileiro Série A,Valencia,La Liga,500000.0,440000.0,2017-07-16 16:47:15,fee
+824,Lucas Biglia,Milan,Serie A,Lazio,Serie A,17000000.0,14900000.0,2017-07-16 17:29:04,fee
+825,Álex Berenguer,Torino,Serie A,Osasuna,Segunda División,5500000.0,4800000.0,2017-07-17 11:20:36,fee
+826,Paul Robinson,Free agent,Free agent,Burnley,Premier League,,,2017-07-17 13:53:21,released
+827,Rekeil Pyke ,Port Vale,League Two,Huddersfield Town,Premier League,,,2017-07-17 13:58:13,loan
+828,José Relucio,Inter,Serie A,Atlético Madrid,La Liga,,,2017-07-17 14:00:44,undisclosed fee
+829,Paulo Oliveira,Eibar,La Liga,Sporting,Primeira Liga,4000000.0,3500000.0,2017-07-17 14:03:53,fee
+830,Tre Pemberton,Stoke City,Premier League,Blackburn Rovers,League One,,,2017-07-17 14:09:08,undisclosed fee
+831,Marc Walsh,Swansea City,Premier League,Finn Harps,League of Ireland Premier Division,,,2017-07-17 14:11:22,undisclosed fee
+832,George Dobson,Sparta Rotterdam,Eredivisie,West Ham United,Premier League,,,2017-07-17 14:19:46,undisclosed fee
+833,Ahmed Hegazi,West Bromwich Albion,Premier League,Al Ahly,Egyptian Premier League,,,2017-07-17 16:14:53,loan
+834,Jairo Riedewald,Crystal Palace,Premier League,Ajax,Eredivisie,9000000.0,7900000.0,2017-07-17 16:45:20,fee
+835,Courtney Duffus,Oldham Athletic,League One,Everton,Premier League,,,2017-07-17 18:12:30,undisclosed fee
+836,Sekou Baradji,Amiens,Ligue 1,Valenciennes,Ligue 2,,,2017-07-17 18:18:34,released
+837,Rafik Zekhnini,Fiorentina,Serie A,Odd,Tippeligaen,2150000.0,1900000.0,2017-07-17 18:27:25,fee
+838,Wakaso Mubarak,Alavés,La Liga,Panathinaikos,Greek Super League,,,2017-07-17 18:37:07,released
+839,Adrián López,Porto,Primeira Liga,Villarreal,La Liga,,,2017-07-17 22:04:26,loan ended
+840,Santos Borré,Atlético Madrid,La Liga,Villarreal,La Liga,,,2017-07-17 22:06:35,loan ended
+841,Cristian Espinoza,Boca Juniors,Primera División (Argentina),Villarreal,La Liga,,,2017-07-17 22:11:12,loan
+842,José Ángel,Porto,Primeira Liga,Villarreal,La Liga,,,2017-07-17 22:13:31,loan ended
+843,Akram Afif,KAS Eupen,Belgian First Division A,Villarreal,La Liga,,,2017-07-17 22:15:35,loan
+844,Simone Zaza,Valencia,La Liga,Juventus,Serie A,18000000.0,15800000.0,2017-07-17 22:19:21,fee
+845,Mukhtar Ali,Vitesse Arnhem,Eredivisie,Chelsea,Premier League,,,2017-07-17 22:22:12,undisclosed fee
+846,Ike Ugbo,Barnsley,Championship,Chelsea,Premier League,,,2017-07-17 22:23:39,loan
+847,Fabián Orellana,Valencia,La Liga,Celta Vigo,La Liga,3000000.0,2640000.0,2017-07-17 22:30:37,fee
+848,Munir El Haddadi,Barcelona,La Liga,Valencia,La Liga,,,2017-07-17 22:33:09,loan ended
+849,Eliaquim Mangala,Manchester City,Premier League,Valencia,La Liga,,,2017-07-17 22:34:42,loan ended
+850,Mario Suárez,Watford,Premier League,Valencia,La Liga,,,2017-07-17 22:38:16,loan ended
+851,Guilherme Siqueira,Atlético Madrid,La Liga,Valencia,La Liga,,,2017-07-17 22:39:55,loan ended
+852,Stevan Jovetic,Inter,Serie A,Sevilla,La Liga,,,2017-07-17 22:43:09,loan ended
+853,Samir Nasri,Manchester City,Premier League,Sevilla,La Liga,,,2017-07-17 22:45:22,loan ended
+854,Matías Kranevitter,Atlético Madrid,La Liga,Sevilla,La Liga,,,2017-07-17 22:48:12,loan ended
+855,Cian Harries ,Swansea City,Premier League,Coventry City,League Two,600000.0,500000.0,2017-07-17 23:51:33,fee
+856,Adam Armstrong ,Bolton Wanderers,Championship,Newcastle United,Premier League,,,2017-07-17 23:57:17,loan
+857,Yoan Gouffran,Goztepe,Turkish Super Lig,Newcastle United,Premier League,,,2017-07-18 08:28:34,released
+858,Vukasin Jovanovic,Bordeaux,Ligue 1,Zenit,Russian Premier League,2844269.0,2500000.0,2017-07-18 09:07:14,fee
+859,Mauro Coppolaro,Brescia,Serie B,Udinese,Serie A,,,2017-07-18 09:24:06,loan
+860,José Angel,Eibar,La Liga,Porto,Primeira Liga,,,2017-07-18 09:27:37,released
+861,Samir Ujkani,Cremonese,Lega Pro,Genoa,Serie A,567360.0,500000.0,2017-07-18 09:31:31,fee
+862,Gianluca Lapadula,Genoa,Serie A,Milan,Serie A,,,2017-07-18 10:47:57,loan
+863,Pedro Mendes,Montpellier,Ligue 1,Rennes,Ligue 1,2819708.0,2500000.0,2017-07-18 11:19:56,fee
+864,Giovanni Sio,Montpellier,Ligue 1,Rennes,Ligue 1,5075475.0,4500000.0,2017-07-18 11:21:14,fee
+865,Bryan Cabezas,Panathinaikos,Superleague Greece,Atalanta,Serie A,,,2017-07-18 11:23:38,loan
+866,Nicolò Fazzi,Cesena,Serie B,Atalanta,Serie A,,,2017-07-18 11:24:48,loan
+867,Luca Valzania,Pescara,Serie B,Atalanta,Serie A,,,2017-07-18 11:25:42,loan
+868,Guiseppe de Luca,Virtus Entella,Serie B,Atalanta,Serie A,,,2017-07-18 11:26:44,loan
+869,Denis-Will Poha,Orléans,Ligue 2,Rennes,Ligue 1,,,2017-07-18 11:28:13,loan
+870,João Queirós,FC Cologne,Bundesliga,Braga,Primeira Liga,3000000.0,2650000.0,2017-07-18 11:47:43,fee
+871,Markel Bergara,Getafe,La Liga,Real Sociedad,La Liga,,,2017-07-18 13:21:58,loan
+872,Ryan Fulton,Hamilton,Scottish Premiership,Liverpool,Premier League,,,2017-07-18 13:25:05,undisclosed fee
+873,Gian Filippo Felicioli,Verona,Serie A,Milan,Serie A,,,2017-07-18 15:35:22,loan
+874,Davide Riccardi,Lecce,Lega Pro,Verona,Serie A,,,2017-07-18 15:37:15,loan
+875,Ailton Ferreira Silva,Stuttgart,Bundesliga,Estoril Praia,Primeira Liga,1000000.0,900000.0,2017-07-18 17:32:24,fee
+876,Christophe Jallet,Nice,Ligue 1,Lyon,Ligue 1,,,2017-07-18 22:10:57,released
+877,Fabien Lemoine,Lorient,Ligue 2,Saint-Etienne,Ligue 1,1000000.0,900000.0,2017-07-18 22:15:00,fee
+878,Andrés Tello,Bari,Serie B,Juventus,Serie A,,,2017-07-18 22:19:54,loan
+879,Eldin Jakupovic,Leicester City,Premier League,Hull City,Championship,2261054.0,2000000.0,2017-07-19 09:18:23,fee
+880,Keisuke Honda,Pachuca,Liga MX,Milan,Serie A,,,2017-07-19 12:09:17,released
+881,Juankar,Málaga,La Liga,Braga,Primeira Liga,,,2017-07-19 12:10:53,released
+882,Marco D'Alessandro,Benevento,Serie A,Atalanta,Serie A,,,2017-07-19 12:12:20,loan
+883,Nolan Roux,Metz,Ligue 1,Saint-Etienne,Ligue 1,,,2017-07-19 12:23:38,released
+884,Fraizer Campbell,Hull City,Championship,Crystal Palace,Premier League,,,2017-07-19 12:25:05,released
+885,Lennart Thy,VVV Venlo,Eredivisie,Werder Bremen,Bundesliga,,,2017-07-19 12:42:33,loan
+886,Xemi,Oxford United,League One,Barcelona,La Liga,,,2017-07-19 12:44:48,released
+887,Ryan Allsop,Blackpool,League One,Bournemouth,Premier League,,,2017-07-19 12:45:48,loan
+888,Danilo,Manchester City,Premier League,Real Madrid,La Liga,30000000.0,26500000.0,2017-07-19 13:49:22,fee
+889,Marko Arnautovic,West Ham United,Premier League,Stoke City,Premier League,22287777.0,20000000.0,2017-07-19 13:50:56,fee
+890,Andrew Robertson,Liverpool,Premier League,Hull City,Championship,9050000.0,8000000.0,2017-07-19 13:55:25,fee
+891,Wojciech Szczesny,Juventus,Serie A,Arsenal,Premier League,11297000.0,10000000.0,2017-07-19 14:00:28,fee
+892,Jacob Murphy,Newcastle United,Championship,Norwich City,Premier League,13576440.0,12000000.0,2017-07-19 16:32:54,fee
+893,Danilo Cataldi,Benevento,Serie A,Lazio,Serie A,,,2017-07-19 16:37:03,loan
+894,Dan Crowley,Willem II,Eredivisie,Arsenal,Premier League,,,2017-07-20 07:48:03,undisclosed fee
+895,Mathias Normann,Brighton,Premier League,Bodo-Glimt,Norwegian second division,1400000.0,1250000.0,2017-07-20 11:15:52,fee
+896,Mattia De Sciglio,Juventus,Serie A,Milan,Serie A,12000000.0,10600000.0,2017-07-20 11:27:16,fee
+897,Glenn Whelan,Aston Villa,Championship,Stoke City,Premier League,1500000.0,1300000.0,2017-07-20 11:38:00,fee
+898,Gregoire Defrel,Roma,Serie A,Sassuolo,Serie A,,,2017-07-20 12:00:08,loan
+899,Cenk Gonen,Málaga,La Liga,Galatasaray,Super Lig,1000000.0,900000.0,2017-07-20 12:38:20,fee
+900,Faycal Fajr,Getafe,La Liga,Deportivo La Coruña,La Liga,1400000.0,1240000.0,2017-07-20 16:42:22,fee
+901,Javier Hernández,West Ham United,Premier League,Bayer Leverkusen,Bundesliga,17902995.0,16000000.0,2017-07-20 22:01:54,fee
+902,Jorge Meré,FC Cologne,Bundesliga,Sporting Gijón,Segunda División,8500000.0,7600000.0,2017-07-20 22:10:02,fee
+903,Alejandro Faurlín,Cruz Azul,Liga MX,Getafe,La Liga,,,2017-07-21 10:57:52,undisclosed fee
+904,Mauricio Isla,Fenerbahce,Super Lig,Cagliari,Serie A,,,2017-07-21 11:08:32,undisclosed fee
+905,Federico Bernardeschi,Juventus,Serie A,Fiorentina,Serie A,40000000.0,35700000.0,2017-07-21 12:22:49,fee
+906,Jetro Willems,Eintracht Frankfurt,Bundesliga,PSV Eindhoven,Eredivisie,5000000.0,4500000.0,2017-07-21 12:25:04,fee
+907,Aleksandar Kolarov,Roma,Serie A,Manchester City,Premier League,5000000.0,4500000.0,2017-07-21 12:37:07,fee
+908,Javier Manquillo,Newcastle United,Premier League,Atlético Madrid,La Liga,5000000.0,4500000.0,2017-07-21 13:41:29,fee
+909,Davide Di Gennaro,Lazio,Serie A,Cagliari,Serie A,,,2017-07-21 14:12:41,released
+910,Kurt Zouma,Stoke City,Premier League,Chelsea,Premier League,,,2017-07-21 14:39:33,loan
+911,Kevin Stewart,Hull City,Championship,Liverpool,Premier League,5000000.0,5400000.0,2017-07-21 16:59:11,fee
+912,Álvaro Morata,Chelsea,Premier League,Real Madrid,La Liga,65500000.0,58000000.0,2017-07-21 18:40:44,fee
+913,Vitorino Antunes,Getafe,La Liga,Dynamo Kyiv,Ukrainian Premier League,,,2017-07-22 00:08:54,loan
+914,FIlip Manojlovic,Getafe,La Liga,Red Star,Serbian SuperLiga,1114388.0,1000000.0,2017-07-22 00:12:19,fee
+915,Idriss Saadi,Strasbourg,Ligue 1,Cardiff City,Championship,,,2017-07-22 00:13:52,undisclosed fee
+916,Cristhian Stuani,Girona,La Liga,Middlesbrough,Championship,1671585.0,1500000.0,2017-07-22 00:21:04,fee
+917,Fabian Schär,Deportivo La Coruña,La Liga,Hoffenheim,Bundesliga,4000000.0,3589411.0,2017-07-22 00:24:11,fee
+918,Darren Randolph,Middlesbrough,Championship,West Ham United,Premier League,5571945.0,5000000.0,2017-07-22 00:26:39,fee
+919,Sauli Vaisanen,SPAL,Serie A,AIK Solna,Allsvenskan,557194.0,500000.0,2017-07-22 00:35:01,fee
+920,Daryl Murphy,Nottingham Forest,Championship,Newcastle United,Premier League,2228777.0,2000000.0,2017-07-22 00:36:23,fee
+921,Sean Longstaff,Blackpool,League One,Newcastle United,Premier League,,,2017-07-22 00:38:04,loan
+922,Jay Dasilva,Charlton,League One,Chelsea,Premier League,,,2017-07-22 00:41:00,loan
+923,Ryan Seager,MK Dons,League One,Southampton,Premier League,,,2017-07-22 00:41:41,loan
+924,Benjamin Mendy,Manchester City,Premier League,Monaco,Ligue 1,57500000.0,52000000.0,2017-07-22 13:14:57,fee
+925,Joe Williams,Barnsley,Championship,Everton,Premier League,,,2017-07-22 13:16:23,loan
+926,Mauricio Pinilla,Universidad de Chile,Chilean Primera División,Genoa,Serie A,,,2017-07-22 13:24:12,released
+927,Zdravko Kuzmanovic,Málaga,La Liga,Basel,Swiss Super League,,,2017-07-22 13:28:47,loan
+928,Marcello Trotta,Crotone,Serie A,Sassuolo,Serie A,,,2017-07-22 13:30:01,loan
+929,Pierre-Yves Polomat,Auxerre,Ligue 2,Saint-Etienne,Ligue 1,,,2017-07-22 13:31:51,loan
+930,Francesco Orlando,Lazio,Serie A,Vicenza,Lega Pro,,,2017-07-22 13:36:05,undisclosed fee
+931,Francesco Orlando,Salernitana,Serie B,Lazio,Serie A,,,2017-07-22 13:37:27,loan
+932,Nabil Bahoui,Grasshopper Zurich,Swiss Super League,Hamburg,Bundesliga,,,2017-07-22 20:40:44,undisclosed fee
+933,Isnik Alimi,Vicenza,Serie C,Atalanta,Serie A,,,2017-07-23 00:01:43,loan
+934,Albert Vivancos,UCAM Murcia,Segunda División,Girona,Serie A,,,2017-07-23 00:03:22,loan
+935,Leonel Vangioni,Monterrey,Liga MX,Milan,Serie A,1500000.0,1341170.0,2017-07-24 14:26:11,fee
+936,Marcel Buchel,Verona,Serie A,Empoli,Serie B,,,2017-07-24 14:29:36,loan
+937,Antonio Cassano,Free agent,Free agent,Verona,Serie A,,,2017-07-24 14:37:28,released
+938,Hrvoje Milic,Olympiacos,Superleague Greece,Fiorentina,Serie A,1500000.0,1339927.0,2017-07-24 15:06:46,fee
+939,Francesco Cassata,Sassuolo,Serie A,Juventus,Serie A,5000000.0,4464905.0,2017-07-24 15:10:31,fee
+940,Isaac Donkor,Cesena,Serie B,Inter,Serie A,,,2017-07-24 15:38:41,loan
+941,Naim Sliti,Dijon,Ligue 1,Lille,Ligue 1,,,2017-07-24 15:40:50,loan
+942,Ander Bardaji,SD Huesca,Segunda Division,Real Sociedad,La Liga,,,2017-07-24 15:43:09,released
+943,Pablo Fornals,Villarreal,La Liga,Málaga,La Liga,12000000.0,10718137.0,2017-07-24 18:06:09,fee
+944,Mason Mount,Vitesse Arnhem,Eredivisie,Chelsea,Premier League,,,2017-07-24 18:23:44,loan
+945,James Horsfield,NAC Breda,Eredivisie,Manchester City,Premier League,,,2017-07-24 18:26:10,undisclosed fee
+946,Remy Riou,Free agent,Free agent,Nantes,Ligue 1,,,2017-07-24 18:29:32,released
+947,Ivan Cuellar,Leganés,La Liga,Sporting Gijon,Segunda Division,,,2017-07-24 18:38:06,released
+948,Javier Eraso,Leganés,La Liga,Athletic Bilbao,La Liga,,,2017-07-24 18:40:03,released
+949,Rio Mavuba,Sparta Prague,Czech First League,Lille,Ligue 1,,,2017-07-24 18:55:28,released
+950,Djené,Getafe,La Liga,Sint-Truiden,Belgian First Division A,1000000.0,893350.0,2017-07-24 19:02:31,fee
+951,Jack Fitzwater,Forest Green Rovers,League Two,West Bromwich Albion,Premier League,,,2017-07-24 19:28:44,loan
+952,Aldo Kalulu,Sochaux,Ligue 2,Lyon,Ligue 1,,,2017-07-24 19:32:51,loan
+953,Roberto Insigne,Parma,Serie B,Napoli,Serie A,,,2017-07-24 19:36:03,loan
+954,Luzayadio Bangu,Vicenza,Lega Pro,Fiorentina,Serie A,,,2017-07-24 19:37:59,loan
+955,Izzy Brown,Brighton,Premier League,Chelsea,Premier League,,,2017-07-25 18:20:45,loan
+956,Diogo Jota,Wolves,Championship,Atlético Madrid,La Liga,,,2017-07-25 18:22:00,loan
+957,Jordan Veretout,Fiorentina,Serie A,Aston Villa,Championship,7000000.0,6257895.0,2017-07-25 18:26:34,fee
+958,Jacopo Dezi,Parma,Serie B,Napoli,Serie A,,,2017-07-25 18:38:19,loan
+959,Chaker Alhadhur,Chateauroux,Ligue 2,Caen,Ligue 1,,,2017-07-25 18:39:36,loan
+960,Zouhair Feddal,Real Betis,La Liga,Alavés,La Liga,,,2017-07-25 18:44:03,undisclosed fee
+961,Thiago Maia,Lille,Ligue 1,Santos,Brazilian Serie A,14000000.0,12515600.0,2017-07-25 18:48:11,fee
+962,Phil Bardsley,Burnley,Premier League,Stoke City,Premier League,2237500.0,2000000.0,2017-07-25 19:00:21,fee
+963,Bernard Mensah,Kasimpasa,Turkish Super Lig,Atlético Madrid,La Liga,,,2017-07-26 15:04:57,loan
+964,Oliver Norwood,Fulham,Championship,Brighton,Premier League,,,2017-07-26 15:06:21,loan
+965,Oumar Pouye,Créteil,Championnat National,Strasbourg,Ligue 1,,,2017-07-26 15:10:08,loan
+966,Saîf-Eddine Khaoui,Troyes,Ligue 1,Marseille,Ligue 1,,,2017-07-26 15:10:54,loan
+967,Yannick Mamilonne,Quevilly Rouen,Ligue 2,Amiens,Ligue 1,,,2017-07-26 15:13:50,loan
+968,Antonio Sivera,Alavés,La Liga,Valencia,La Liga,2000000.0,1783355.0,2017-07-26 15:15:53,fee
+969,Gastón Silva,Pumas,Liga MX,Torino,Serie A,1700000.0,1515855.0,2017-07-26 15:18:01,fee
+970,Simone Emmanuello,Perugia,Serie B,Atalanta,Serie A,,,2017-07-26 15:19:34,loan
+971,Victor Ibarbo,Sagan Tosu,J-League,Cagliari,Serie A,493438.0,440000.0,2017-07-26 15:21:44,fee
+972,Tim Handwerker,FC Cologne,Bundesliga,Bayer Leverkusen,Bundesliga,,,2017-07-26 15:25:12,undisclosed fee
+973,Vykintas Slivka,Hibernian,Scottish Premiership,Juventus,Serie A,,,2017-07-26 15:29:53,undisclosed fee
+974,Jonas Martin,Strasbourg,Ligue 1,Real Betis,La Liga,2500000.0,2227262.0,2017-07-26 16:02:54,fee
+975,Yannick Cahuzac,Toulouse,Ligue 1,Bastia,Ligue 2,,,2017-07-26 16:04:58,released
+976,Giacomo Beretta,Foggia,Serie B,Milan,Serie A,400000.0,356362.0,2017-07-26 16:08:52,fee
+977,Lewis Grabban,Sunderland,Championship,Bournemouth,Premier League,,,2017-07-26 18:41:13,loan
+978,Tendayi Darikwa,Nottingham Forest,Championship,Burnley,Premier League,1100000.0,1000000.0,2017-07-26 19:43:36,fee
+979,Tomas Kalas,Fulham,Championship,Chelsea,Premier League,,,2017-07-27 12:57:07,loan
+980,Uche Agbo,Standard Liege,Belgian First Division A,Watford,Premier League,2000000.0,1779000.0,2017-07-27 12:58:47,fee
+981,Emiliano Velázquez,Getafe,La Liga,Atlético Madrid,La Liga,,,2017-07-27 13:14:19,loan
+982,Ismaïla Sarr,Rennes,Ligue 1,Metz,Ligue 1,17000000.0,15124082.0,2017-07-27 13:24:42,fee
+983,Emanuel Cecchini,Málaga,La Liga,Banfield,Primera Division Argentina,5000000.0,4448260.0,2017-07-27 13:30:01,fee
+984,Pedro Chirivella,Willem II,Eredivisie,Liverpool,Premier League,,,2017-07-27 13:31:51,loan
+985,Emiliano Buendia,Cultural Leonesa,Segunda Division,Getafe,La Liga,,,2017-07-27 13:34:03,loan
+986,Pa Konate,SPAL,Serie A,Malmo,Allsvenskan,280875.0,250000.0,2017-07-27 13:38:34,fee
+987,Bill Tuiloma,Portland Timbers,MLS,Marseille,Ligue 1,,,2017-07-27 13:48:44,released
+988,Ciprian Tatarusanu,Nantes,Ligue 1,Fiorentina,Serie A,3000000.0,2670000.0,2017-07-27 13:54:28,fee
+989,Michael Hector,Hull City,Championship,Chelsea,Premier League,,,2017-07-27 17:36:48,loan
+990,Alberto Grassi,SPAL,Serie A,Napoli,Serie A,,,2017-07-27 21:04:13,loan
+991,Moustapha Seck,Empoli,Serie B,Roma,Serie A,,,2017-07-27 21:05:31,loan
+992,Jamal Blackman,Sheffield United,Championship,Chelsea,Premier League,,,2017-07-27 21:07:04,loan
+993,Sergio Ayala,Sint-Truiden,Belgian First Division A,Valencia,La Liga,,,2017-07-27 21:27:45,released
+994,Pablo,Corinthians,Brazilian Serie A,Bordeaux,Ligue 1,,,2017-07-27 21:30:13,loan
+995,Alberto Tendillo,Levante,La Liga,Valencia,La Liga,,,2017-07-28 00:43:02,released
+996,Farid Boulaya,Girona,La Liga,Bastia,Ligue 2,,,2017-07-28 00:43:55,undisclosed fee
+997,Gaëtan Robail,Cercle Brugge,Proximus League,Paris Saint-Germain,Ligue 1,,,2017-07-28 00:46:10,loan
+998,Nicolas Pallois,Nantes,Ligue 1,Bordeaux,Ligue 1,2000000.0,1787850.0,2017-07-28 00:51:50,fee
+999,Mohamed Aidara,Mouscron,Jupiler Pro League,Werder Bremen,Bundesliga,,,2017-07-28 00:53:48,released
+1000,Marcin Wasilewski,Free agent,Free agent,Leicester City,Premier League,,,2017-07-28 00:54:26,released
+1001,Nicola Leali,Zulte-Waregem,Jupiler Pro League,Juventus,Serie A,,,2017-07-28 00:59:30,loan
+1002,Alberto de la Bella,Real Sociedad,La Liga,Olympiacos,Superleague Greece,,,2017-07-28 01:01:41,loan ended
+1003,Obbi Oulare,Royal Antwerp,Jupiler Pro League,Watford,Premier League,,,2017-07-28 01:02:59,loan
+1004,Tsiy William Ndenge,Roda JC,Eredivisie,Borussia Mönchengladbach,Bundesliga,,,2017-07-28 10:38:38,loan
+1005,Ashley Fletcher,Middlesbrough,Championship,West Ham United,Premier League,7300000.0,6500000.0,2017-07-28 11:21:52,fee
+1006,Mikel Merino,Newcastle United,Premier League,Borussia Dortmund,Bundesliga,,,2017-07-28 12:12:21,loan
+1007,Chris Long,Northampton Town,League One,Burnley,Premier League,,,2017-07-28 15:10:04,loan
+1008,Matt Miazga,Vitesse Arnhem,Eredivisie,Chelsea,Premier League,,,2017-07-28 15:48:38,loan
+1009,Connor Randall,Heart of Midlothian,Scottish Premiership,Liverpool,Premier League,,,2017-07-28 17:22:51,loan
+1010,Jack Payne,Oxford United,League One,Huddersfield Town,Premier League,,,2017-07-28 17:30:33,loan
+1011,Frédéric Guilbert,Caen,Ligue 1,Bordeaux,Ligue 1,2100000.0,1878825.0,2017-07-28 22:15:37,fee
+1012,Filippo Romagna,Cagliari,Serie A,Juventus,Serie A,7600000.0,6799560.0,2017-07-28 22:19:56,fee
+1013,Dario del Fabro,Juventus,Serie A,Cagliari,Serie A,4500000.0,4026055.0,2017-07-28 22:21:14,fee
+1014,Facundo Piriz,Montpellier,Ligue 1,Akhmat Grozny,Russian Premier League,,,2017-07-28 22:49:04,loan
+1015,Jonathan dos Santos,LA Galaxy,MLS,Villarreal,La Liga,4300000.0,3847120.0,2017-07-28 22:57:38,fee
+1016,Adam Phillips,Norwich City,Championship,Liverpool,Premier League,,,2017-07-28 23:05:42,released
+1017,Devonte Redmond,Scunthorpe United,League One,Manchester United,Premier League,,,2017-07-28 23:06:37,loan
+1018,Victorien Angban,Waasland-Beveren,Jupiler Pro League,Chelsea,Premier League,,,2017-07-28 23:07:48,loan
+1019,Rubén García,Sporting Gijon,Segunda Division,Levante,La Liga,,,2017-07-28 23:09:22,loan
+1020,Anthony Cáceres,Al-Wasl,UAE Arabian Gulf League,Manchester City,Premier League,,,2017-07-28 23:11:39,loan
+1021,Bram Nuytinck,Udinese,Serie A,Anderlecht,Jupiler League,3000000.0,2700000.0,2017-07-29 12:29:14,fee
+1022,Edoardo Goldaniga,Sassuolo,Serie A,Palermo,Serie B,5000000.0,4474280.0,2017-07-30 17:37:04,fee
+1023,Marson,Sassuolo,Serie A,Palermo,Serie B,,,2017-07-30 17:38:59,loan
+1024,Nemanja Matic,Manchester United,Premier League,Chelsea,Premier League,44656000.0,40000000.0,2017-07-31 17:45:38,fee
+1025,Steven Berghuis,Feyenoord,Eredivisie,Watford,Premier League,5575168.0,5000000.0,2017-07-31 19:05:02,fee
+1026,Aboubakar Kamara,Fulham,Championship,Amiens,Ligue 1,6000000.0,5350000.0,2017-07-31 20:40:57,fee
+1027,Callum Elder,Wigan Athletic,League One,Leicester City,Premier League,,,2017-01-08 00:39:53,loan
+1028,Yhoan Andzouna,Peralada-Girona B,Segunda B,Monaco,Ligue 1,,,2017-01-08 00:43:59,released
+1029,Mayoro N'Doye,Tours,Ligue 2,Strasbourg,Ligue 1,,,2017-01-08 00:46:01,undisclosed fee
+1030,Marco Silvestri,Verona,Serie A,Leeds United,Championship,,,2017-01-08 00:50:06,undisclosed fee
+1031,Jorginho,Chaves,Primeira Liga,Saint-Etienne,Ligue 1,,,2017-01-08 00:51:34,loan
+1032,Assane Dioussé,Saint-Etienne,Ligue 1,Empoli,Serie B,5000000.0,4479735.0,2017-01-08 00:53:40,fee
+1033,Alex Whitmore,Bury,League One,Burnley,Premier League,,,2017-01-08 00:55:07,loan
+1034,Steven Alzate,Brighton,Premier League,Leyton Orient,National League,,,2017-01-08 00:57:40,undisclosed fee
+1035,Matías Vecino,Inter,Serie A,Fiorentina,Serie A,24000000.0,21510000.0,2017-01-08 01:01:14,fee
+1036,Shamal George,Carlisle United,League Two,Liverpool,Premier League,,,2017-01-08 15:45:20,loan
+1037,Douglas Luiz,Girona,La Liga,Manchester City,Premier League,,,2017-01-08 15:47:14,loan
+1038,Reece Burke,Bolton Wanderers,Championship,West Ham United,Premier League,,,2017-01-08 15:49:34,loan
+1039,Josh Cullen,Bolton Wanderers,Championship,West Ham United,Premier League,,,2017-01-08 15:50:29,loan
+1040,Aiden O'Neill,Fleetwood Town,League One,Burnley,Premier League,,,2017-01-08 15:52:14,loan
+1041,Jesus Navas,Sevilla,La Liga,Free agent,Free agent,,,2017-01-08 16:01:31,released
+1042,Marlos Moreno,Girona,La Liga,Manchester City,Premier League,,,2017-01-08 19:36:59,loan
+1043,Aleix García,Girona,La Liga,Manchester City,Premier League,,,2017-01-08 19:38:21,loan
+1044,Pablo Maffeo,Girona,La Liga,Manchester City,Premier League,,,2017-01-08 19:42:03,loan
+1045,Ivan Toney,Wigan Athletic,League One,Newcastle United,Premier League,,,2017-02-08 20:56:42,loan
+1046,Simon Kjaer,Sevilla,La Liga,Fenerbahce,Turkish Super Lig,13000000.0,11600000.0,2017-02-08 21:22:57,fee
+1047,Emiliano Martínez ,Getafe,La Liga,Arsenal,Premier League,,,2017-02-08 21:25:54,loan
+1048,Mario Pasalic,Spartak Moscow,Russian Premier League,Chelsea,Premier League,,,2017-02-08 21:31:19,loan
+1049,Felipe Caicedo,Lazio,Serie A,Espanyol,La Liga,2500000.0,2200000.0,2017-02-08 21:40:22,fee
+1050,Adama Diakhaby,Monaco,Ligue 1,Rennes,Ligue 1,10000000.0,9000000.0,2017-02-08 21:44:27,fee
+1051,Sebastiano Luperto,Empoli,Serie B,Napoli,Serie A,,,2017-03-08 11:39:38,loan
+1052,Jérémie Bela,Albacete,Segunda Division,Dijon,Ligue 1,,,2017-03-08 11:40:32,released
+1053,Alex Meret,SPAL,Serie A,Udinese,Serie A,,,2017-03-08 11:41:11,loan
+1054,Kieran Dowell,Nottingham Forest,Championship,Everton,Premier League,,,2017-03-08 11:42:58,loan
+1055,Ellis Plummer,Motherwell,Scottish Premiership,Manchester City,Premier League,,,2017-03-08 11:42:04,loan
+1056,Àlvaro Negredo,Besiktas,Turkish Super Lig,Valencia,La Liga,3355500.0,3000000.0,2017-03-08 11:48:06,fee
+1057,Ismail Azzaoui,Willem II,Eredivisie,Wolfsburg,Bundesliga,,,2017-03-08 12:13:47,loan
+1058,Emmanuel Badu,Bursaspor,Super Lig,Udinese,Serie A,,,2017-03-08 12:14:51,loan
+1059,Mour Paye,Creteil,Championnat National,Troyes,Ligue 1,,,2017-03-08 12:16:17,released
+1060,Riad Bajic,Udinese,Serie A,Konyaspor,Super Lig,5000000.0,4496800.0,2017-03-08 12:19:25,fee
+1061,Rodrigo Ely,Alavés,La Liga,Milan,Serie A,3000000.0,2697450.0,2017-03-08 12:21:41,fee
+1062,Taiwo Awoniyi,Mouscron,Jupiler League,Liverpool,Premier League,,,2017-03-08 12:22:27,loan
+1063,Kyle Knoyle,Swindon Town,League One,West Ham United,Premier League,,,2017-03-08 12:23:23,released
+1064,Emanuel Mammana,Zenit,Russian Premier League,Lyon,Ligue 1,16000000.0,14409285.0,2017-03-08 12:29:48,fee
+1065,Ouasim Bouy,Leeds United,Championship,Juventus,Serie A,,,2017-03-08 12:55:45,released
+1066,Cafú,Metz,Ligue 1,Lorient,Ligue 2,2212800.0,2000000.0,2017-03-08 13:57:13,fee
+1067,Arlind Ajeti,Crotone,Serie A,Torino,Serie A,,,2017-03-08 13:59:17,loan
+1068,Unai López,Rayo Vallecano,Segunda Division,Athletic Bilbao,La Liga,,,2017-03-08 13:58:13,loan
+1069,Nicolao Dumitru,Alcorcón,Segunda Division,Napoli,Serie A,,,2017-03-08 14:00:48,undisclosed fee
+1070,Andrés Ponce,Livorno,Lega Pro,Sampdoria,Serie A,,,2017-03-08 14:01:59,loan
+1071,Rober Pier,Levante,La Liga,Deportivo La Coruña,La Liga,,,2017-03-08 14:04:15,loan extended
+1072,Jordan Lee,Torquay,National League,Bournemouth,Premier League,,,2017-03-08 15:04:00,loan
+1073,Ben White,Newport County,League Two,Brighton,Premier League,,,2017-03-08 15:04:40,loan
+1074,Lewis Gibson,Everton,Premier League,Newcastle United,Premier League,,,2017-03-08 15:05:18,undisclosed fee
+1075,Matthew Pennington,Leeds United,Championship,Everton,Premier League,,,2017-03-08 15:05:59,loan
+1076,Joe Hart,West Ham United,Premier League,Manchester City,Premier League,,,2017-03-08 15:07:13,loan
+1077,Tom Glover,Central Coast,A-League,Tottenham Hotspur,Premier League,,,2017-03-08 15:09:06,loan
+1078,Anton Walkes,Atlanta United,MLS,Tottenham Hotspur,Premier League,,,2017-03-08 15:10:00,loan extended
+1079,Valentino Lazaro,Hertha Berlin,Bundesliga,Red Bull Salzburg,Austrian Bundesliga,,,2017-03-08 15:12:13,loan
+1080,Rodney Kongolo,Doncaster Rovers,League One,Manchester City,Premier League,,,2017-03-08 15:26:26,loan
+1081,Neymar,Paris Saint-Germain,Ligue 1,Barcelona,La Liga,220000000.0,198000000.0,2017-03-08 21:16:15,fee
+1082,Kelechi Iheanacho,Leicester City,Premier League,Manchester City,Premier League,27660000.0,25000000.0,2017-03-08 23:28:43,fee
+1083,Diego González,Málaga,La Liga,Sevilla,La Liga,1880000.0,1700000.0,2017-04-08 01:17:30,fee
+1084,Manu Herrera,Osasuna,La Liga 2,Real Betis,La Liga,,,2017-04-08 01:21:55,fee
+1085,Sam Surridge,Yeovil Town,League Two,Bournemouth,Premier League,,,2017-04-08 12:29:51,loan
+1086,Ryan Sweeney,Bristol Rovers,League One,Stoke City,Premier League,,,2017-04-08 12:30:37,loan
+1087,Dominic Telford,Bristol Rovers,League One,Stoke City,Premier League,,,2017-04-08 12:31:59,loan
+1088,Josh Onomah,Aston Villa,Championship,Tottenham Hotspur,Premier League,,,2017-04-08 12:33:07,loan
+1089,Gastón Ramírez,Sampdoria,Serie A,Middlesbrough,Championship,11000000.0,9937675.0,2017-04-08 12:35:09,fee
+1090,Isaac Buckley-Ricketts,FC Twente,Eredivisie,Manchester City,Premier League,,,2017-04-08 12:41:30,loan
+1091,Fernando,Galatasaray,Super Lig,Manchester City,Premier League,6087910.0,5500000.0,2017-04-08 12:43:42,fee
+1092,Modou Barrow,Reading,Championship,Swansea City,Premier League,1660500.0,1500000.0,2017-04-08 12:45:22,fee
+1093,Esteban Saveljich,Albacete,Segunda Division,Levante,La Liga,,,2017-04-08 12:46:44,loan
+1094,Michael Langer,Schalke 04,Bundesliga,Norrkoping,Allsvenskan,,,2017-04-08 12:48:29,released
+1095,Rick van Drongelen,Hamburg,Bundesliga,Sparta Rotterdam,Eredivisie,2822000.0,2550000.0,2017-04-08 12:50:45,fee
+1096,Holger Badstuber,Stuttgart,Bundesliga,Free agent,Free agent,,,2017-04-08 15:38:56,free agent
+1097,Gianmarco Ferrari,Sampdoria,Serie A,Sassuolo,Serie A,,,2017-04-08 15:39:36,loan
+1098,Mike Owusu,Hansa Rostock,3. Liga,Hertha Berlin,Bundesliga,,,2017-04-08 15:56:02,released
+1099,Andreas Christensen,Chelsea,Premier League,Borussia Mönchengladbach,Bundesliga,,,2017-04-08 15:57:26,loan ended
+1100,André Ramalho,Bayer Leverkusen,Bundesliga,Mainz 05,Bundesliga,,,2017-04-08 15:59:07,loan ended
+1101,Borja Mayoral,Real Madrid,La Liga,Wolfsburg,Bundesliga,,,2017-04-08 15:59:55,loan ended
+1102,Philipp Wollscheid,Stoke City,Premier League,Wolfsburg,Bundesliga,,,2017-04-08 16:01:06,loan ended
+1103,Marko Maric,Lillestrom,Allsvenskan,Hoffenheim,Bundesliga,,,2017-04-08 16:02:13,loan
+1104,Dario del Fabro,Novara,Serie B,Juventus,Serie A,,,2017-04-08 16:04:42,loan
+1105,Juan Carlos Paredes,Emelec,Ecuadorian Serie A,Watford,Premier League,,,2017-04-08 16:06:47,released
+1106,Andrea Zaccagno,Pistoiese,Lega Pro,Torino,Serie A,,,2017-04-08 16:09:57,loan
+1107,Karim Laribi,Cesena,Serie B,Sassuolo,Serie A,,,2017-04-08 16:11:48,undisclosed fee
+1108,Issa Cissokho,Amiens,Ligue 1,Angers,Ligue 1,,,2017-04-08 18:00:10,released
+1109,Saliou Ciss,Angers,Ligue 1,Valenciennes,Ligue 2,,,2017-04-08 18:01:51,free agent
+1110,Ben Whitfield,Port Vale,La Liga,Bournemouth,Premier League,,,2017-04-08 18:02:40,loan
+1111,Antonee Robinson,Bolton,League One,Everton,Premier League,,,2017-04-08 18:04:48,loan
+1112,Tom Dallison,Accrington,League Two,Brighton,Premier League,,,2017-04-08 18:05:54,loan
+1113,Tyler Forbes,Accrington,League Two,Brighton,Premier League,,,2017-04-08 18:06:38,loan
+1114,Puyo,Angers,Ligue 1,Nancy,Ligue 2,,,2017-04-08 18:08:55,undisclosed fee
+1115,Syam Ben Youssef,Kasimpasa,Super Lig,Caen,Ligue 1,,,2017-04-08 18:10:31,released
+1116,Paul Reulet,Boulogne,Championnat National,Caen,Ligue 1,,,2017-04-08 18:11:30,loan
+1117,Charly Dutournier,Avranches,Championnat National,Dijon,Ligue 1,,,2017-04-08 18:12:45,loan
+1118,Guillaume Sarrabayrouse,Colomiers,Championnat National,Dijon,Ligue 1,,,2017-04-08 18:14:21,loan
+1119,Romain Salin,Sporting Lisbon,Primeira Liga,Guingamp,Ligue 1,,,2017-04-08 18:21:13,released
+1120,Fodé Ballo-Touré,Lille,Ligue 1,Paris Saint-Germain,Ligue 1,,,2017-04-08 18:24:33,released
+1121,Edgar Ié,Lille,Ligue 1,Belenenses,Primeira Liga,5000000.0,4508000.0,2017-04-08 18:27:42,fee
+1122,Jean Butez,Mouscron,Jupiler Pro League,Lille,Ligue 1,,,2017-04-08 18:31:13,loan
+1123,Olivier Kemen,Gazélec Ajaccio,Ligue 2,Lyon,Ligue 1,,,2017-04-08 18:32:48,loan
+1124,Maciej Rybus,Lokomotiv Moscow,Russian Premier League,Lyon,Ligue 1,2000000.0,1803200.0,2017-04-08 18:35:24,fee
+1125,Quentin Beunardeau,Metz,Ligue 1,AFC Tubize,Proximus League,,,2017-04-08 18:37:39,undisclosed fee
+1126,Gerónimo Poblete,Metz,Ligue 1,CA Colón,Argentina Primera Division,,,2017-04-08 18:39:44,released
+1127,Cheick Doukouré,Levante,La Liga,Metz,Ligue 1,1600000.0,1442560.0,2017-04-08 18:42:04,fee
+1128,Georges Mandjeck,Sparta Prague,Czech HET Liga,Metz,Ligue 1,1300000.0,1172080.0,2017-04-08 18:43:56,fee
+1129,Hamza Sakhi,Auxerre,Ligue 2,Metz,Ligue 1,,,2017-04-08 18:44:51,loan
+1130,Jordy Gaspar,Cercle Brugge,Proximus League,Monaco,Ligue 1,,,2017-04-08 18:46:30,loan
+1131,Irvin Cardona,Cercle Brugge,Proximus League,Monaco,Ligue 1,,,2017-04-08 18:48:00,loan
+1132,Dorian Caddy,Quevilly-Rouen,Ligue 2,Nice,Ligue 1,,,2017-04-08 18:49:50,released
+1133,Nuno da Costa,Strasbourg,Ligue 1,Valenciennes,Ligue 2,,,2017-04-08 18:51:25,undisclosed fee
+1134,Benjamin Corgnet,Strasbourg,Ligue 1,Saint-Etienne,Ligue 1,,,2017-04-08 18:52:22,free agent
+1135,Felipe Saad,Lorient,Ligue 2,Strasbourg,Ligue 1,,,2017-04-08 18:53:58,released
+1136,Thiago Xavier,Valenciennes,Ligue 2,Troyes,Ligue 1,,,2017-04-08 18:55:31,free agent
+1137,Ales Mateju,Brighton,Premier League,Viktoria Plzen,Czech HET Liga,1662300.0,1500000.0,2017-05-08 10:31:08,fee
+1138,Harry Bunn,Bury,League One,Huddersfield Town,Premier League,,,2017-05-08 10:33:04,undisclosed fee
+1139,Stephy Mavididi,Preston,Championship,Arsenal,Premier League,,,2017-05-08 10:34:49,loan
+1140,Saphir Taïder,Bologna,Serie A,Inter,Serie A,3878685.0,3500000.0,2017-05-08 16:38:29,fee
+1141,Guiseppe Ungaro,Renate,Lega Pro,Atalanta,Serie A,,,2017-05-08 16:39:48,undisclosed fee
+1142,Mario Pugliese,Pro Vercelli,Serie B,Atalanta,Serie A,,,2017-05-08 16:40:50,loan
+1143,Raman Chibsah,Benevento,Serie A,Sassuolo,Serie A,831146.0,750000.0,2017-05-08 16:42:09,fee
+1144,Bright Gyamfi,Benevento,Serie A,Inter,Serie A,277050.0,250000.0,2017-05-08 16:43:21,fee
+1145,Filip Helander,Bologna,Serie A,Verona,Serie A,2000000.0,1804735.0,2017-05-08 16:44:24,fee
+1146,Uros Radakovic,Sigma Olomouc,Czech HET Liga,Bologna,Serie A,,,2017-05-08 16:45:15,released
+1147,Nicolo Cherubin,Verona,Serie A,Bologna,Serie A,,,2017-05-08 16:45:55,released
+1148,Paolo Farago,Cagliari,Serie A,Novara,Serie B,2300000.0,2075450.0,2017-05-08 16:47:19,fee
+1149,Marco Fossati,Verona,Serie A,Cagliari,Serie A,277000.0,250000.0,2017-05-08 16:48:22,fee
+1150,Simone Colombi,Carpi,Serie B,Cagliari,Serie A,277000.0,250000.0,2017-05-08 16:57:06,fee
+1151,Filippo Costa,SPAL,Serie A,Chievo,Serie A,,,2017-05-08 16:57:50,undisclosed fee
+1152,Amedeo Benedetti,Cittadella,Serie B,Chievo,Serie A,,,2017-05-08 16:58:49,undisclosed fee
+1153,Djamel Mesbah,Lausanne,Swiss Super League,Crotone,Serie A,,,2017-05-08 16:59:54,released
+1154,Claiton dos Santos,Cremonese,Lega Pro,Crotone,Serie A,,,2017-05-08 17:00:41,released
+1155,Davide Faraoni,Crotone,Serie A,Udinese,Serie A,,,2017-05-08 17:01:27,released
+1156,Carlos Sánchez,Fiorentina,Serie A,Aston Villa,Championship,2770000.0,2500000.0,2017-05-08 17:02:53,fee
+1157,Sebastián Cristoforo,Fiorentina,Serie A,Sevilla,La Liga,2327210.0,2100000.0,2017-05-08 17:04:09,fee
+1158,Maximiliano Olivera,Fiorentina,Serie A,Peñarol,Uruguay Primera Division,,,2017-05-08 17:05:15,fee
+1159,Giuseppe Rossi,Free agent,Free agent,Fiorentina,Serie A,,,2017-05-08 17:05:54,released
+1160,Gaetano Castrovilli,Cremonese,Liga Pro,Fiorentina,Serie A,,,2017-05-08 17:14:02,loan
+1161,Andrej Galabinov,Genoa,Serie A,Novara,Serie B,,,2017-05-08 17:14:58,released
+1162,Lucas Orbán,Racing Club,Argentina Primera Division,Genoa,Serie A,2216390.0,2000000.0,2017-05-08 17:16:06,fee
+1163,Eloge Yao,Lugano,Swiss Super League,Inter,Serie A,1500000.0,1353550.0,2017-05-08 17:17:16,fee
+1164,Felipe Melo,Palmeiras,Brazilian Serie A,Inter,Serie A,,,2017-05-08 17:18:11,released
+1165,Caner Erkin,Besiktas,Super Lig,Inter,Serie A,,,2017-05-08 17:19:43,released
+1166,Rodrigo Bentancur,Juventus,Serie A,Boca Juniors,Argentina Primera Division,10000000.0,9023680.0,2017-05-08 17:21:56,fee
+1167,Marcelo Djalo,Fulham,Championship,Juventus,Serie A,,,2017-05-08 17:23:01,undisclosed fee
+1168,Nico Hidalgo,Cadiz,Segunda Division,Juventus,Serie A,,,2017-05-08 17:23:49,released
+1169,Simone Palombi,Lazio,Serie A,Ternana,Serie B,277000.0,250000.0,2017-05-08 17:24:55,fee
+1170,Raffaele Maiello,Frosinone,Serie B,Napoli,Serie A,1108195.0,1000000.0,2017-05-08 17:26:18,fee
+1171,Marco Frediani,Parma,Serie B,Roma,Serie A,,,2017-05-08 17:27:19,released
+1172,Pepin,Brescia,Serie B,Roma,Serie A,,,2017-05-08 17:28:09,loan
+1173,Juan Jesus,Roma,Serie A,Inter,Serie A,7500000.0,6800000.0,2017-05-08 17:29:17,fee
+1174,Jakub Hromada,Slavia Prague,Czech HET Liga,Sampdoria,Serie A,,,2017-05-08 17:30:04,undisclosed fee
+1175,Giovanna Sbrissa,Cesena,Serie B,Sassuolo,Serie A,,,2017-05-08 17:33:35,loan
+1176,Alessio Vita,Cesena,Serie B,Sassuolo,Serie A,,,2017-05-08 17:34:17,undisclosed fee
+1177,Ettore Gliozzi,Cesena,Serie B,Sassuolo,Serie A,,,2017-05-08 17:34:59,loan
+1178,Pontus Jansson,Leeds United,Championship,Torino,Serie A,3324585.0,3000000.0,2017-05-08 17:36:23,fee
+1179,Carlao,APOEL,Cyprus 1. Division,Torino,Serie A,,,2017-05-08 17:37:16,loan
+1180,Antonin Barak,Udinese,Serie A,Slavia Prague,Czech HET Liga,2770490.0,2500000.0,2017-05-08 17:38:33,fee
+1181,Nicolas N'Koulou,Torino,Serie A,Lyon,Ligue 1,,,2017-05-08 17:45:56,loan
+1182,Rolando Mandragora,Crotone,Serie A,Juventus,Serie A,,,2017-05-08 17:46:55,loan
+1183,Burgui,Alavés,La Liga,Real Madrid,La Liga,2750000.0,2500000.0,2017-05-08 17:52:44,fee
+1184,Alex Remiro,Huesca,Segunda Division,Athletic Bilbao,La Liga,,,2017-05-08 17:53:26,loan
+1185,Jordi Masip,Valladolid,Segunda Division,Barcelona,La Liga,,,2017-05-08 17:54:17,free agent
+1186,Alex Alegria,Levante,La Liga,Real Betis,La Liga,,,2017-05-08 17:55:24,loan
+1187,Petros,São Paulo,Brazilian Serie A,Real Betis,La Liga,2216390.0,2000000.0,2017-05-08 17:56:55,fee
+1188,Josep Señé,Cultural Leonesa,Segunda Division,Celta Vigo,La Liga,,,2017-05-08 17:57:59,undisclosed fee
+1189,Theo Bongonda,Trabzonspor,Super Lig,Celta Vigo,La Liga,,,2017-05-08 17:59:00,loan
+1190,Levy Madinda,Asteras Tripoli,Superleague Greece,Celta Vigo,La Liga,,,2017-05-08 18:00:08,released
+1191,Gerard Valentín,Deportivo La Coruña,La Liga,Gimnastic,Segunda Division,,,2017-05-08 18:00:59,undisclosed fee
+1192,Pablo Hervias,Valladolid,Segunda Division,Eibar,La Liga,,,2017-05-08 18:01:48,loan
+1193,Carlos Kameni,Fenerbahce,Super Lig,Málaga,La Liga,,,2017-05-08 18:03:03,undisclosed fee
+1194,Ricardo Horta,Braga,Primeira Liga,Málaga,La Liga,,,2017-05-08 18:04:01,undisclosed fee
+1195,Mauro dos Santos,Leganés,La Liga,Eibar,La Liga,,,2017-05-08 18:13:02,free agent
+1196,Pere Milla,Numancia,Segunda Division,Eibar,La Liga,,,2017-05-08 18:13:50,loan
+1197,Mamadou Sylla,KAS Eupen,Jupiler Pro League,Espanyol,La Liga,2216400.0,2000000.0,2017-05-08 18:15:08,fee
+1198,José Antonio Reyes,Free agent,Free agent,Espanyol,La Liga,,,2017-05-08 18:16:11,released
+1199,Àlvaro Jiménez,Getafe,La Liga,Real Madrid,La Liga,942000.0,850000.0,2017-05-08 18:17:53,fee
+1200,Gaku Shibasaki,Getafe,La Liga,Tenerife,Segunda Division,,,2017-05-08 18:18:44,released
+1201,Stefan Scepovic,Sporting Gijón,Segunda Division,Getafe,La Liga,,,2017-05-08 18:22:44,loan
+1202,Alberto García,Rayo Vallecano,Segunda Division,Getafe,La Liga,,,2017-05-08 18:23:32,loan
+1203,Fran Sandaza,Al-Ahli,Qatar Stars League,Girona,La Liga,,,2017-05-08 18:24:56,loan
+1204,René,Almería,Segunda Division,Girona,La Liga,,,2017-05-08 18:25:43,undisclosed fee
+1205,Javi Varas,Granada,Segunda Division,Las Palmas,La Liga,,,2017-05-08 18:26:49,free agent
+1206,Helder Lopes,AEK,Superleague Greece,Las Palmas,La Liga,,,2017-05-08 18:28:08,undisclosed fee
+1207,Hector Figueroa,Toledo,Segunda Division,Las Palmas,La Liga,,,2017-05-08 18:29:18,released
+1208,Tyronne,Tenerife,Segunda Division,Las Palmas,La Liga,,,2017-05-08 18:30:43,free agent
+1209,Angel Montoro,Granada,Segunda Division,Las Palmas,La Liga,,,2017-05-08 18:31:28,undisclosed fee
+1210,Marko Livaja,AEK,Superleague Greece,Las Palmas,La Liga,,,2017-05-08 18:32:11,loan
+1211,Gerard Gumbau,Leganés,La Liga,Barcelona,La Liga,,,2017-05-08 18:33:07,released
+1212,Nereo Champagne,Leganés,La Liga,Olimpo,Argentina Primera Division,,,2017-05-08 18:34:13,loan
+1213,Ruben Pérez,Leganés,La Liga,Granada,Segunda Division,,,2017-05-08 18:35:06,loan
+1214,Alberto Martín,Granada,Segunda Division,Leganés,La Liga,,,2017-05-08 18:36:04,undisclosed fee
+1215,Victor Díaz,Granada,Segunda Division,Leganés,La Liga,,,2017-05-08 18:37:09,undisclosed fee
+1216,Enis Bardhi,Levante,La Liga,Ujpest,Hungarian NB I,1450000.0,1300000.0,2017-05-08 18:42:16,fee
+1217,Victor Casadesus,Tenerife,Segunda Division,Levante,La Liga,,,2017-05-08 18:43:31,undisclosed fee
+1218,Yrondu Musavu-King,FC St. Gallen,Swiss Super League,Udinese,Serie A,,,2017-06-08 20:33:00,loan
+1219,Cameron Borthwick-Jackson,Leeds United,Championship,Manchester United,Premier League,,,2017-07-08 10:11:18,loan
+1220,Timothy Fosu-Mensah,Crystal Palace,Premier League,Manchester United,Premier League,,,2017-07-08 10:18:02,loan
+1221,Wesley Sneijder,Nice,Ligue 1,Galatasaray,Super Lig,,,2017-07-08 10:21:15,released
+1222,Paul Verhaegh,Wolfsburg,Bundesliga,Augsburg,Bundesliga,1500000.0,1360000.0,2017-07-08 11:08:31,fee
+1223,Jonathan Biabiany,Sparta Prague,Czech First League,Inter,Serie A,,,2017-07-08 11:50:19,loan
+1224,Mattia Finotto,Ternana,Serie B,SPAL,Serie A,,,2017-07-08 12:56:08,loan
+1225,Alberto Pomini,Palermo,Serie B,Sassuolo,Serie A,,,2017-07-08 13:12:59,undisclosed fee
+1226,Davy Pröpper,Brighton,Premier League,PSV Eindhoven,Eredivisie,14000000.0,12660000.0,2017-07-08 15:11:56,fee
+1227,Rachid Ghezzal,Monaco,La Liga,Lyon,Ligue 1,,,2017-07-08 17:00:53,free agent
+1228,Sead Haksabanovic,West Ham United,Premier League,Halmstad,Allsvenskan,3310000.0,3000000.0,2017-07-08 21:14:48,fee
+1229,Grégory Bourillon,Châteauroux,Ligue 2,Angers,Ligue 1,,,2017-07-08 22:38:33,released
+1230,Kévin Soni,Girona,La Liga,Bordeaux,Ligue 1,,,2017-07-08 22:40:02,undisclosed fee
+1231,Christopher Operi,Châteauroux,Ligue 2,Caen,Ligue 1,,,2017-07-08 22:44:24,undisclosed fee
+1232,Guillaume Gillet,Olympiakos,Greek Super League,Nantes,Ligue 1,994000.0,900000.0,2017-08-08 00:52:37,fee
+1233,Allan Saint-Maximin,Nice,Ligue 1,Monaco,Ligue 1,10000000.0,9050000.0,2017-08-08 00:57:23,fee
+1234,Tomás Pina,Alavés,La Liga,Club Brugge,Belgian First Division A,,,2017-08-08 01:01:32,loan
+1235,Santos Borré,River Plate,Primera División,Atlético Madrid,La Liga,3000000.0,2715000.0,2017-08-08 01:04:56,fee
+1236,Ivi,Levante,La Liga,Sevilla Atlético,La Liga2,1500000.0,1358000.0,2017-08-08 01:08:29,fee
+1237,Javier Espinosa,Granada,La Liga2,Levante,La Liga,,,2017-08-08 01:16:47,loan
+1238,Rober Correa,Cádiz,La Liga2,Espanyol,La Liga,,,2017-08-08 01:20:26,released
+1239,Riccardo Fiamozzi,Bari,Serie B,Genoa,Serie A,,,2017-08-08 01:22:23,loan
+1240,George Thomas,Leicester City,Premier League,Coventry City,League Two,,,2017-08-08 10:25:55,undisclosed fee
+1241,Ezequiel Muñoz,Leganés,La Liga,Genoa,Serie A,2210000.0,2000000.0,2017-08-08 11:02:31,fee
+1242,Hernani,Saint-Etienne,Ligue 1,Zenit St Petersburg,Russian Premier League,,,2017-08-08 13:50:51,loan
+1243,Matías Kranevitter,Zenit St Petersburg,Russian Premier League,Atlético Madrid,La Liga,8000000.0,7250000.0,2017-08-08 14:14:09,fee
+1244,Jonathan Cafu,Bordeaux,Ligue 1,Ludogorets,First Professional League (Bulgaria),7000000.0,6360000.0,2017-08-08 14:18:16,fee
+1245,Richarlison,Watford,Premier League,Fluminense,Campeonato Brasileiro Série A,12670000.0,11500000.0,2017-08-08 14:34:22,fee
+1246,Clément Chantôme,Lens,Ligue 2,Rennes,Ligue 1,,,2017-08-08 16:31:40,loan
+1247,Adam Legzdins,Burnley,Premier League,Birmingham City,Championship,,,2017-08-08 16:47:23,undisclosed fee
+1248,Otávio,Bordeaux,Ligue 1,Atlético Paranaense,Campeonato Brasileiro Série A,4960000.0,4500000.0,2017-08-08 17:04:06,fee
+1249,Conor Mitchell,Chester FC,National League,Burnley,Premier League,,,2017-08-08 17:05:58,loan
+1250,Mario Lemina,Southampton,Premier League,Juventus,Serie A,18000000.0,16300000.0,2017-08-08 18:27:52,fee
+1251,Harry Cornick,Luton Town,League Two,Bournemouth,Premier League,,,2017-09-08 01:28:21,undisclosed fee
+1252,Davide Luppi,Virtus Entella,Serie B,Verona,Serie A,,,2017-09-08 01:32:23,loan
+1253,Amadou Samb,Gzira United,Maltese Premier League,Verona,Serie A,,,2017-09-08 01:35:41,fee
+1254,Cristian Bunino,Alessandria,Serie C,Juventus,Serie A,,,2017-09-08 01:37:41,loan
+1255,Leonardo Candellone,Ternana,Serie B,Torino,Serie A,,,2017-09-08 01:39:31,loan
+1256,Juan Muñoz,Almería,La Liga 2,Sevilla,La Liga,,,2017-09-08 01:42:05,loan
+1257,Ryad Boudebouz,Real Betis,La Liga,Montpellier,Ligue 1,7000000.0,6300000.0,2017-09-08 13:22:54,fee
+1258,Eric Maxim Choupo-Moting,Stoke City,Premier League,Schalke 04,Bundesliga,0.0,0.0,2017-09-08 13:30:36,free agent
+1259,Marco Benassi,Fiorentina,Serie A,Torino,Serie A,10000000.0,9000000.0,2017-09-08 13:34:15,fee
+1260,Dalbert Henrique,Inter,Serie A,Nice,Ligue 1,20000000.0,18000000.0,2017-09-08 15:25:34,fee
+1261,Roberto Soldado,Fenerbahce,Turkey Super Lig,Villarreal,La Liga,10000000.0,9000000.0,2017-09-08 15:28:41,fee
+1262,Andre Gray,Watford,Premier League,Burnley,Premier League,20500000.0,18500000.0,2017-09-08 17:58:50,fee
+1263,Gabriel Silva,Saint-Etienne,Ligue 1,Udinese,Serie A,2200000.0,2000000.0,2017-10-08 09:11:43,fee
+1264,Dennis Aogo,Stuttgart,2. Bundesliga,Schalke 04,Bundesliga,,,2017-10-08 09:19:04,released
+1265, Roman Macek,Cremonese,Serie B,Juventus,Serie A,,,2017-10-08 09:22:06,loan
+1266, Valentin Eysseric,Fiorentina,Serie A,Nice,Ligue 1,3500000.0,3160000.0,2017-10-08 09:24:46,fee
+1267,Kevin Méndez,Viterbese,Serie C,Roma,Serie A,,,2017-10-08 09:26:53,loan
+1268,Jose Izquierdo,Brighton,Premier League,Club Brugge,Jupiler League,15000000.0,13500000.0,2017-10-08 11:09:14,fee
+1269,Jordan Amavi,Marseille,Ligue 1,Aston Villa,Championship,,,2017-10-08 14:59:38,loan
+1270,Naldo,Espanyol,La Liga,Krasnodar,Russian Premier League,2000000.0,1810000.0,2017-11-08 02:25:27,fee
+1271,Marten De Roon,Atalanta,Serie A,Middlesbrough,Championship,14330000.0,13000000.0,2017-11-08 02:29:34,fee
+1272,Mikel Villanueva,Cádiz CF,La Liga2,Málaga,La Liga,,,2017-11-08 02:31:55,loan
+1273,Amath Ndiaye,Getafe,La Liga,Atlético Madrid,La Liga,,,2017-11-08 02:34:02,released
+1274,Jean Zimmer,Fortuna Düsseldorf,2. Bungesliga,Stuttgart,Bundesliga,,,2017-11-08 02:37:24,loan
+1275,Zsolt Kalmar,DAC Dunajska Streda,Slovak Super Liga,RB Leipzig,Bundesliga,,,2017-11-08 02:40:22,loan
+1276,Gary Medel,Besiktas,Super Lig,Inter,Serie A,3000000.0,2700000.0,2017-11-08 10:52:49,fee
+1277,Adrián López,Deportivo La Coruña,La Liga,Porto,Primeira Liga,,,2017-11-08 12:56:48,loan
+1278,Bruno Martins Indi,Stoke City,Premier League,Porto,Primeira Liga,7720000.0,7000000.0,2017-11-08 13:30:47,fee
+1279,Moussa Souare,Monopoli,Serie C,Inter,Serie A,,,2017-11-08 13:45:56,loan
+1280,Marc Muniesa,Girona,La Liga,Stoke City,Premier League,,,2017-11-08 16:22:25,loan
+1281,Lewis Baker,Middlesbrough,Championship,Chelsea,Premier League,,,2017-11-08 16:38:07,loan
+1282,Tomas Rincon,Torino,Serie A,Juventus,Serie A,,,2017-11-08 17:14:59,loan
+1283,Valon Behrami,Udinese,Serie A,Watford,Premier League,,,2017-11-08 17:42:08,undisclosed fee
+1284,Marvin Martin,Free agent,Free agent,Lille,Ligue 1,,,2017-11-08 23:07:22,released
+1285,Kazenga LuaLua,Queens Park Rangers,Championship,Brighton,Premier League,,,2017-12-08 10:26:17,loan
+1286,Haji Wright,Sandhausen,2. Bundesliga,Schalke 04,Bundesliga,,,2017-12-08 10:51:21,loan
+1287,Mamadou Thiam,Barnsley,Championship,Dijon,Ligue 1,985000.0,900000.0,2017-12-08 10:55:47,fee
+1288,Svante Ingelsson,Udinese,Serie A,Kalmar FF,Allsvenskan,929000.0,850000.0,2017-08-13 10:55:28,fee
+1289,Moussa Konaté,Amiens,Ligue 1,FC Sion,Swiss Super League,,,2017-08-13 12:12:54,undisclosed fee
+1290,Jean-Christophe Bahebeck,Utrecht,Eredivisie,Paris Saint-Germain,Ligue 1,,,2017-08-13 18:58:20,loan
+1291,Paulinho,Barcelona,La Liga,Guangzhou Evergrande,Chinese Super League,40000000.0,36400000.0,2017-08-14 12:07:01,fee
+1292,Javi García,Real Betis,La Liga,Zenit St Petersburg,Russian Premier League,1500000.0,1300000.0,2017-08-14 17:01:26,fee
+1293,Sofiane Feghouli,Galatasaray,Super Lig,West Ham United,Premier League,4700000.0,4250000.0,2017-08-15 09:01:05,fee
+1294,Michael Santos,Sporting Gijón,Segunda División,Málaga,La Liga,,,2017-08-15 09:17:23,loan
+1295,Gareth Barry,West Bromwich Albion,Premier League,Everton,Premier League,1100000.0,1000000.0,2017-08-15 11:29:34,fee
+1296,Gil Dias,Fiorentina,Serie A,Monaco,Ligue 1,,,2017-08-15 14:11:25,loan
+1297,Sasa Lukic,Levante,La Liga,Torino,Serie A,,,2017-08-15 18:10:44,loan
+1298,Gylfi Sigurdsson,Everton,Premier League,Swansea City,Premier League,49300000.0,45000000.0,2017-08-15 20:14:05,fee
+1299,Jérémy Clément,Nancy,Bundesliga,Saint-Etienne,Ligue 1,,,2017-08-16 00:12:39,undisclosed fee
+1300,Tom Lawrence,Derby County,Championship,Leicester City,Premier League,5480000.0,5000000.0,2017-08-16 00:17:33,fee
+1301,Giedrius Arlauskis,CFR Cluj,Romanian Liga 1,Watford,Premier League,,,2017-08-16 00:18:42,released
+1302,Andrei Girotto,Nantes,Ligue 1,Chapecoense,Brazilian Serie A,1100000.0,1000000.0,2017-08-16 00:53:24,fee
+1303,Guillermo Varela,Peñarol,Uruguayan Primera División,Manchester United,Premier League,,,2017-08-16 00:58:38,released
+1304,Marco Terrazzino,Freiburg,Bundesliga,Hoffenheim,Bundesliga,2466000.0,2250000.0,2017-08-16 01:00:08,fee
+1305,Leandro Rodríguez,Danubio,Uruguayan Primera División,Everton,Premier League,,,2017-08-16 01:00:50,released
+1306,Gianmarco Zigoni,Venezia,Serie B,Milan,Serie A,,,2017-08-16 01:01:46,loan
+1307,Soufyan Ahannach,Brighton,Premier League,Almere City,Eerste Divisie,,,2017-08-16 01:08:28,undisclosed fee
+1308,Harvey Barnes,Barnsley,Championship,Leicester City,Premier League,,,2017-08-16 01:09:43,loan
+1309,Kyle Howkins,Cambridge,League Two,West Bromwich Albion,Premier League,,,2017-08-16 01:10:52,loan
+1310,Shaun Donnellan,Walsall,League One,West Bromwich Albion,Premier League,,,2017-08-16 01:12:33,loan
+1311,Mariano Arini,Cremonese,Serie B,SPAL,Serie A,,,2017-08-16 01:13:40,released
+1312,Mauro Arambarri,Boston River,Uruguayan Primera División,Bordeaux,Ligue 1,,,2017-08-16 01:14:30,released
+1313,Arnaud Nordin,Nancy,Ligue 2,Saint-Etienne,Ligue 1,,,2017-08-16 01:15:26,loan
+1314,Jesé Rodríguez,Stoke City,Premier League,Paris Saint-Germain,Ligue 1,,,2017-08-16 09:48:15,loan
+1315,Joselu,Newcastle United,Premier League,Stoke City,Premier League,5500000.0,5000000.0,2017-08-16 09:53:24,fee
+1316,Emmanuel Boateng,Levante,La Liga,Moreirense,Primeira Liga,2000000.0,1800000.0,2017-08-16 10:37:15,fee
+1317,Kevin-Prince Boateng,Eintracht Frankfurt,Free agent,Las Palmas,La Liga,,,2017-08-16 11:22:03,released
+1318,Carlos Bacca,Villarreal,La Liga,Milan,Serie A,,,2017-08-16 11:40:22,loan
+1319,Blaise Matuidi,Juventus,Serie A,Paris Saint-Germain,Ligue 1,20000000.0,18200000.0,2017-08-16 11:49:36,fee
+1320,Aït Bennasser,Caen,Ligue 1,Monaco,Ligue 1,,,2017-08-16 14:24:34,loan
+1321,Sheyi Ojo,Fulham,Championship,Liverpool,Premier League,,,2017-08-16 15:16:42,loan
+1322,Simon Falette,Eintracht Frankfurt,Bundesliga,Metz,Ligue 1,3000000.0,2750000.0,2017-08-16 18:46:57,fee
+1323,Giovanni Simeone,Fiorentina,Serie A,Genoa,Serie A,15000000.0,13700000.0,2017-08-16 19:42:46,fee
+1324,Max Gradel,Toulouse,Ligue 1,Bournemouth,Premier League,,,2017-08-16 21:03:51,loan
+1325,Raúl Bobadilla,Borussia Mönchengladbach,Bundesliga,Augsburg,Bundesliga,2201500.0,2000000.0,2017-08-17 13:37:49,undisclosed fee
+1326,Dimitri Cavaré,Barnsley,Championship,Rennes,Ligue 1,2201120.0,2000000.0,2017-08-17 13:44:00,fee
+1327,Jordan Green,Yeovil Town,League Two,Bournemouth,Premier League,,,2017-08-17 13:44:56,released
+1328,Yassine El-Ghanassy,Nantes,Ligue 1,KV Oostende,Jupiler Pro League,1500000.0,1361775.0,2017-08-17 13:48:34,fee
+1329,Francesco Migliore,Genoa,Serie A,Spezia,Serie B,,,2017-08-17 13:51:10,undisclosed fee
+1330,Ricardo Centurión,Genoa,Serie A,São Paulo,Brazilian Serie A,3304510.0,3000000.0,2017-08-17 13:52:31,fee
+1331,Umar Sadiq,Torino,Serie A,Roma,Serie A,,,2017-08-17 13:55:46,loan
+1332,Jan Repas,Caen,Ligue 1,NK Domzale,Slovenian Prva Liga,1500000.0,1361530.0,2017-08-17 13:59:34,fee
+1333,Larry Kayode,Manchester City,Premier League,Austria Vienna,Austrian Bundesliga,3800000.0,3500000.0,2017-08-17 14:33:52,fee
+1334,Larry Kayode,Girona,La Liga,Manchester City,Premier League,,,2017-08-17 14:35:03,loan
+1335,Matt Grimes,Northampton Town,League One,Swansea City,Premier League,,,2017-08-18 11:19:06,loan
+1336,Baily Cargill,Fleetwood Town,League One,Bournemouth,Premier League,,,2017-08-18 11:21:41,loan
+1337,Brandon Barker,Hibernian,Scottish Premiership,Manchester City,Premier League,,,2017-08-18 11:23:05,loan
+1338,Rubén Yáñez,Getafe,La Liga,Real Madrid,La Liga,,,2017-08-18 11:27:48,undisclosed fee
+1339,Rubén Yáñez,Cádiz,La Liga,Getafe,La Liga,,,2017-08-18 11:28:22,loan
+1340,Joe Quigley,Newport County,League Two,Bournemouth,Premier League,,,2017-08-18 12:06:32,loan
+1341,Germán Pezzella,Fiorentina,Serie A,Real Betis,La Liga,,,2017-08-18 14:47:18,loan
+1342,Bernard Tekpetey,SC Rheindorf Altach,Austrian Bundesliga,Schalke 04,Bundesliga,,,2017-08-18 14:50:29,loan
+1343,Davinson Sánchez,Tottenham Hotspur,Premier League,Ajax,Eredivisie,46044600.0,42000000.0,2017-08-18 15:13:43,fee
+1344,Gabriel,Valencia,La Liga,Arsenal,Premier League,10900000.0,10000000.0,2017-08-18 17:11:46,fee
+1345,Sean Scannell,Burton Albion,Championship,Huddersfield Town,Premier League,,,2017-08-19 00:00:35,loan
+1346,Leonardo Morosini,Avellino,Serie B,Genoa,Serie A,,,2017-08-19 00:02:41,loan
+1347,Martin Terrier,Strasbourg,Ligue 1,Lille,Ligue 1,,,2017-08-19 00:04:13,loan
+1348,Luca Rossettini,Genoa,Serie A,Torino,Serie A,2000000.0,1800000.0,2017-08-19 00:13:27,fee
+1349,Rodrigo Palacio,Bologna,Serie A,Free agent,Free agent,,,2017-08-19 00:14:44,free agent
+1350,Marcelo Díaz,Pumas,Liga MX,Celta Vigo,La Liga,,,2017-08-19 00:21:21,undisclosed fee
+1351,Álex López,Sporting Gijón,Segunda División,Celta Vigo,La Liga,,,2017-08-19 00:25:09,released
+1352,Johan Mojica,Girona,La Liga,Rayo Vallecano,Segunda Division,,,2017-08-19 00:27:52,loan
+1353,Jeison Murillo,Valencia,La Liga,Inter,Serie A,,,2017-08-19 00:30:01,loan
+1354,Batuhan Altintas,Malatyaspor,Serie A,Hamburg,Bundesliga,,,2017-08-19 14:14:22,loan
+1355,Kalifa Coulibaly,Nantes,Ligue 1,Gent,Jupiler Pro League,3000000.0,2750000.0,2017-08-19 14:19:07,fee
+1356,Marco Borriello,SPAL,Serie A,Cagliari,Serie A,,,2017-08-19 14:23:24,loan
+1357,Bartosz Salamon,SPAL,Serie A,Cagliari,Premier League,,,2017-08-19 14:24:21,loan
+1358,Martín Cáceres,Verona,Serie A,Free agent,Free agent,,,2017-08-19 14:28:43,free agent
+1359,Santiago Colombatto,Perugia,Serie B,Cagliari,Serie A,,,2017-08-19 14:34:13,loan
+1360,Kwang Song Han,Perugia,Serie B,Cagliari,Serie A,,,2017-08-19 14:35:00,loan
+1361,Marko Pajac,Perugia,Serie B,Cagliari,Serie A,,,2017-08-19 14:35:51,loan
+1362,Cristiano del Grosso,Venezia,Serie B,Atalanta,Serie A,,,2017-08-19 14:38:39,undisclosed fee
+1363,Leonardo Gatto,Salernitana,Serie B,Atalanta,Serie A,1500000.0,1376000.0,2017-08-19 14:41:34,fee
+1364,Patrick Asmah,Salernitana,Serie B,Atalanta,Serie A,,,2017-08-19 14:42:24,loan
+1365,Boris Radunovic,Salernitana,Serie B,Atalanta,Serie A,,,2017-08-19 14:43:34,loan
+1366,Lorenzo Simic,Empoli,Serie B,Sampdoria,Serie A,,,2017-08-19 14:46:44,loan
+1367,Santiago Ascacibar,Stuttgart,Bundesliga,Estudiantes,Argentina Primera Division,8500000.0,7800000.0,2017-08-19 18:18:25,fee
+1368,Geoffrey Kondogbia,Valencia,La Liga,Inter,Serie A,27000000.0,24600000.0,2017-08-21 10:18:41,fee
+1369,João Cancelo,Inter,Serie A,Valencia,La Liga,35000000.0,32000000.0,2017-08-21 10:21:38,fee
+1370,Nikola Kalinić,Milan,Serie A,Fiorentina,Serie A,,,2017-08-21 10:31:02,loan
+1371,Carl Jenkinson,Birmingham City,Championship,Arsenal,Premier League,,,2017-08-21 11:39:57,loan
+1372,Cohen Bramall,Birmingham City,Championship,Arsenal,Premier League,,,2017-08-21 11:45:32,loan
+1373,Samir Nasri,Antalyaspor,Super Lig,Manchester City,Premier League,4000000.0,3650000.0,2017-08-21 13:14:47,fee
+1374,Chris Wood,Burnley,Premier League,Leeds United,Championship,16430000.0,15000000.0,2017-08-21 13:36:57,fee
+1375,Sam Gallagher,Birmingham City,Championship,Southampton,Premier League,,,2017-08-22 08:37:00,loan
+1376,Juan Iturbe,Club Tijuana,Liga MX,Roma,Serie A,,,2017-08-22 08:38:37,loan
+1377,Marcel Tisserand,Wolfsburg,Bundesliga,FC Ingolstadt,2. Bundesliga,,,2017-08-22 09:09:39,loan
+1378,Jonathas,Hannover 96,Bundesliga,Rubin Kazan,Russian Premier League,8000000.0,7330000.0,2017-08-22 09:11:06,fee
+1379,Sam Clucas,Swansea City,Premier League,Hull City,Championship,18000000.0,15000000.0,2017-08-22 12:09:06,fee
+1380,Federico Bonazzoli,SPAL,Serie A,Sampdoria,Serie A,,,2017-08-22 15:15:00,loan
+1381,Wesley Hoedt,Southampton,Premier League,Lazio,Serie A,16360750.0,15000000.0,2017-08-22 20:45:45,fee
+1382,Savvas Mourgos,Norwich City,Championship,Arsenal,Premier League,,,2017-08-22 23:53:14,undisclosed fee
+1383,Robin Koch,Freiburg,Bundesliga,Kaiserslautern,Bundesliga 2,4000000.0,3670000.0,2017-08-22 23:54:42,fee
+1384,Braima Fati,Saint-Etienne,Ligue 1,Barcelona,La Liga,,,2017-08-22 23:55:49,undisclosed fee
+1385,Kiko Olivas,Real Valladolid,Segunda Division,Girona,La Liga,,,2017-08-22 23:57:43,released
+1386,Alexy Bossetti,Laval,Championnat National,Nice,Ligue 1,,,2017-08-22 23:58:36,released
+1387,Mohamed Cholay,Espanyol,La Liga,Stoke City,Premier League,,,2017-08-23 00:01:43,loan
+1388,Luke Hendrie,Bradford City,League One,Burnley,Premier League,,,2017-08-23 00:02:31,loan
+1389,Atsuto Uchida,Union Berlin,Bundesliga 2,Schalke 04,Bundesliga,,,2017-08-23 00:03:24,released
+1390,Ismaël Bennacer,Empoli,Serie B,Arsenal,Premier League,,,2017-08-23 00:04:31,undisclosed fee
+1391,Gregory van der Wiel,Cagliari,Serie A,Fenerbahce,Turkish Super Lig,,,2017-08-23 00:05:31,loan
+1392,Jon Gaztañaga,Gimnàstic,Segunda Division,Real Sociedad,La Liga,,,2017-08-23 00:07:57,released
+1393,Asier Villalibre,Real Valladolid,Segunda Division,Athletic Bilbao,La Liga,,,2017-08-23 00:09:16,loan
+1394,Jaime Báez,Pescara,Serie B,Fiorentina,Serie A,,,2017-08-23 00:10:20,loan
+1395,Abdelhamid Sabiri,Huddersfield Town,Premier League,FC Nürnberg,2. Bundesliga,1100000.0,1000000.0,2017-08-23 11:19:34,fee
+1396,Samuele Longo,Tenerife,Segunda División,Inter,Serie A,,,2017-08-23 11:22:07,loan
+1397,Paulo Gazzaniga,Tottenham Hotspur,Premier League,Southampton,Premier League,2170000.0,2000000.0,2017-08-23 14:27:35,fee
+1398,Juan Domínguez,Reus,La Liga 2,Deportivo La Coruña,La Liga,,,2017-08-23 22:36:15,released
+1399,Adnane Tighadouini,FC Twente,Eredivisie,Málaga,La Liga,,,2017-08-23 22:40:39,loan
+1400,Stephen Kingsley,Hull City,Championship,Swansea City,Premier League,,,2017-08-23 22:42:18,undisclosed fee
+1401,Nenad Krsticic,Red Star Belgrade,Serbian SuperLiga,Alavés,La Liga,,,2017-08-23 23:01:03,released
+1402,Florian Klein,Austria Vienna,Austrian Bundesliga,Stuttgart,Bundesliga,,,2017-08-23 23:05:09,released
+1403,Junior Sambia,Montpellier,Ligue 1,Niort,Ligue 2,,,2017-08-23 23:05:55,loan
+1404,Olivier Boscagli,Nimes,Ligue 2,Nice,Ligue 1,,,2017-08-23 23:06:43,loan
+1405,Dylan Saint-Louis,Paris FC,Ligue 2,Saint-Etienne,Ligue 1,,,2017-08-23 23:07:46,loan
+1406,Brian Fernández,Metz,Ligue 1,Racing Club,Argentina Primera Division,,,2017-08-23 23:08:33,loan
+1407,Aaron Nemane,Rangers,Scottish Premiership,Manchester City,Premier League,,,2017-08-23 23:09:11,loan
+1408,Éder,Lokomotiv Moscow,Russian Premier League,Lille,Ligue 1,,,2017-08-23 23:10:03,loan
+1409,Florent Hadergjonaj,Huddersfield Town,Premier League,FC Ingolstadt,2. Bundesliga,,,2017-08-24 12:36:13,loan
+1410,Zlatan Ibrahimovic,Manchester United,Premier League,Free agent,Free agent,,,2017-08-24 14:38:36,free agent
+1411,Oliver Burke,West Bromwich Albion,Premier League,RB Leipzig,Bundesliga,16300000.0,15000000.0,2017-08-25 09:33:32,fee
+1412,Antonio Cinelli,Cremonese,Serie B,Chievo,Serie A,,,2017-08-25 10:13:39,loan
+1413,Emmanuel Rivière,Metz,Ligue 1,Newcastle United,Premier League,542000.0,500000.0,2017-08-25 12:32:52,fee
+1414,Daniele Gastaldello,Brescia,Serie B,Bologna,Serie A,,,2017-08-25 12:35:50,undisclosed fee
+1415,Sam Matthews,Eastleigh,National League,Bournemouth,Premier League,,,2017-08-25 12:42:21,loan
+1416,Jan Toral,Hull City,Championship,Arsenal,Premier League,3260000.0,3000000.0,2017-08-25 13:00:16,fee
+1417,Archie Davies,Whitehawk,National League South,Brighton,Premier League,,,2017-08-25 13:06:31,loan
+1418,Mathias Normann,Molde,Tippeligaen,Brighton,Premier League,,,2017-08-25 13:10:55,loan
+1419,Mark Hudson,Free agent,Free agent,Huddersfield Town,Premier League,,,2017-08-25 13:22:38,released
+1420,Luke Coddington,Northampton Town,League One,Huddersfield Town,Premier League,,,2017-08-25 13:24:58,undisclosed fee
+1421,Jack Rose,Southampton,Premier League,West Bromwich Albion,Premier League,,,2017-08-25 13:40:44,released
+1422,André Carrillo,Watford,Premier League,Benfica,Primeira Liga,,,2017-08-25 13:49:42,loan
+1423,Ethan Ross,Redditch United,Southern League,West Bromwich Albion,Premier League,,,2017-08-25 14:00:34,loan
+1424,Alberto Aquilani,Las Palmas,La Liga,Pescara,Serie B,,,2017-08-25 15:03:09,released
+1425,Ousmane Dembélé,Barcelona,La Liga,Borussia Dortmund,Bundesliga,105000000.0,96670000.0,2017-08-25 16:14:02,fee
+1426,Robert Snodgrass,Aston Villa,Championship,West Ham United,Premier League,,,2017-08-25 17:55:05,loan
+1427,Luca Marrone,Bari,Serie B,Juventus,Serie A,,,2017-08-26 09:11:45,loan
+1428,Felix Platte,Darmstadt,2. Bundesliga,Schalke 04,Bundesliga,1000000.0,920000.0,2017-08-26 09:24:20,fee
+1429,Kenneth Omeruo,Kasimpasa,Super Lig,Chelsea,Premier League,,,2017-08-26 10:16:59,loan
+1430,Dimitri Foulquier,Watford,Premier League,Granada,Segunda División,,,2017-08-26 10:25:14,undisclosed fee
+1431,Dimitri Foulquier,Strasbourg,Ligue 1,Watford,Premier League,,,2017-08-27 01:11:29,loan
+1432,Rene Krhin,Nantes,Ligue 1,Granada,Liga 123,,,2017-08-27 01:12:16,loan
+1433,Yoric Ravet,Freiburg,Bundesliga,Young Boys,Swiss Super League,4500000.0,4160000.0,2017-08-27 01:15:52,fee
+1434,Bakary Koné,Strasbourg,Ligue 1,Málaga,La Liga,,,2017-08-27 01:16:39,loan
+1435,Joachim Andersen,Sampdoria,Serie A,FC Twente,Eredivisie,2000000.0,1850000.0,2017-08-27 01:20:35,fee
+1436,Andrés Schetino,Esbjerg,Danish 1st Division,Fiorentina,Serie A,,,2017-08-27 13:39:29,loan
+1437,Nando,Alavés,La Liga,Valencia,La Liga,,,2017-08-27 13:45:15,fee
+1438,Robert Green,Huddersfield Town,Premier League,Free agent,Free agent,,,2017-08-27 15:33:27,free agent
+1439,Diego Rolán,Málaga,La Liga,Bordeaux,Ligue 1,,,2017-08-27 20:20:47,loan
+1440,Andriy Yarmolenko,Borussia Dortmund,Bundesliga,Dynamo Kyiv,Ukrainian Premier League,25000000.0,23100000.0,2017-08-28 14:31:48,fee
+1441,Vincent Laurini,Fiorentina,Serie A,Empoli,Serie B,360000.0,332000.0,2017-08-28 15:10:34,loan
+1442,Jonathan Leko,Bristol City,Championship,West Bromwich Albion,Premier League,,,2017-08-28 15:13:28,loan
+1443,Naby Keïta,Liverpool,Premier League,RB Leipzig,Bundesliga,,,2017-08-28 15:17:11,undisclosed fee
+1444,Patrick Roberts,Celtic,Scottish Premiership,Manchester City,Premier League,,,2017-08-28 19:31:16,loan
+1445,Jérémie Boga,Birmingham City,Championship,Chelsea,Premier League,,,2017-08-28 19:32:25,loan
+1446,Siem de Jong,Ajax,Eredivisie,Newcastle United,Premier League,4320000.0,4000000.0,2017-08-28 19:35:18,fee
+1447,Emanuel Insúa,Panathinaikos,Greek Super League,Udinese,Serie A,,,2017-08-28 23:58:11,released
+1448,Marvin Emnes,Akhisarspor,Turkish Super Lig,Swansea City,Premier League,,,2017-08-28 23:59:15,released
+1449,Petar Brlek,Genoa,Serie A,Wisla Krakow,Ekstraklasa,2160000.0,2000000.0,2017-08-29 00:00:46,fee
+1450,Aaron Seydel,Holstein Kiel,2. Bundesliga,Mainz 05,Bundesliga,,,2017-08-29 00:01:39,loan
+1451,Sergi Samper,Las Palmas,La Liga,Barcelona,La Liga,,,2017-08-29 00:03:00,loan
+1452,Pol García,Cremonese,Serie B,Juventus,Serie A,,,2017-08-29 00:03:57,loan
+1453,Samu García,Levante,La Liga,Rubin Kazan,Russian Premier League,,,2017-08-29 00:04:46,released
+1454,Numan Bostan,Genclerbirligi,Turkish Super Lig,Toulouse,Ligue 1,,,2017-08-29 00:05:54,released
+1455,Emiliano Velázquez,Rayo Vallecano,La Liga 123,Atlético Madrid,La Liga,,,2017-08-29 00:06:47,loan
+1456,Sebastian Gorga,Chacarita Juniors,Argentina Primera Division,Genoa,Serie A,,,2017-08-29 00:47:45,loan
+1457,Matteo Pessina,Spezia,Serie B,Atalanta,Serie A,,,2017-08-29 00:49:51,loan
+1458,Rogerio,Sassuolo,Serie A,Juventus,Serie A,,,2017-08-29 00:50:26,loan
+1459,Cameron Carter-Vickers,Sheffield United,Championship,Tottenham Hotspur,Premier League,,,2017-08-29 00:51:11,loan
+1460,Joel Untersee,Empoli,Serie B,Juventus,Serie A,,,2017-08-29 00:52:00,loan
+1461,Jens Stryger Larsen,Udinese,Serie A,Austria Vienna,Austrian Bundesliga,,,2017-08-29 00:52:51,fee
+1462,Tyler Roberts,Walsall,League One,West Bromwich Albion,Premier League,,,2017-08-29 00:53:29,loan
+1463,Jordan Williams,Bury,League One,Huddersfield Town,Premier League,,,2017-08-29 00:54:02,loan
+1464,Rohan Ince,Bury,League One,Brighton,Premier League,,,2017-08-29 00:54:32,loan
+1465,Stuart Findlay,Kilmarnock,Scottish Premiership,Newcastle United,Premier League,,,2017-08-29 00:55:30,loan
+1466,Maxwell Acosty,Rijeka,Prva Liga,Crotone,Serie A,,,2017-08-29 01:10:16,loan
+1467,Tobias Werner,Nuremberg,2. Bundesliga,Stuttgart,Bundesliga,,,2017-08-29 01:11:21,loan
+1468,Ledian Memushaj,Benevento,Serie A,Pescara,Serie B,,,2017-08-29 01:12:29,loan
+1469,Salva Sevilla,Mallorca,La Liga 123,Espanyol,La Liga,,,2017-08-29 01:13:23,released
+1470,Tomas Koubek,Rennes,Ligue 1,Sparta Prague,HET Liga,2000000.0,1851000.0,2017-08-29 01:16:56,fee
+1471,Jonathan Ligali,Dunkerque,Championnat National,Montpellier,Ligue 1,,,2017-08-29 01:18:05,released
+1472,Nando,Lorca,La Liga 123,Alavés,La Liga,,,2017-08-29 01:18:41,loan
+1473,Kevin Wimmer,Stoke City,Premier League,Tottenham Hotspur,Premier League,19360000.0,18000000.0,2017-08-29 11:44:41,fee
+1474,Pape Cheikh Diop,Lyon,La Liga,Celta Vigo,Ligue 1,10000000.0,9400000.0,2017-08-29 11:46:30,fee
+1475,Stefan Jovetic,Monaco,Ligue 1,Inter,Serie A,10778902.0,10000000.0,2017-08-29 15:24:22,fee
+1476,Felix Passlack,Hoffenheim,Bundesliga,Borussia Dortmund,Bundesliga,,,2017-08-30 09:56:08,loan
+1477,Keita Baldé,Monaco,Ligue 1,Lazio,Serie A,,,2017-08-30 10:32:54,undisclosed fee
+1478,Kieran Gibbs,West Bromwich Albion,Premier League,Arsenal,Premier League,7500000.0,7000000.0,2017-08-30 11:59:30,fee
+1479,Grant Hanley,Norwich City,Championship,Newcastle United,Premier League,,,2017-08-30 15:03:52,undisclosed fee
+1480,Juan Foyth,Tottenham Hotspur,Premier League,Estudiantes,Superliga Argentina,9780000.0,9000000.0,2017-08-30 17:11:26,fee
+1481,Jordy Clasie,Club Brugge,Belgian First Division,Southampton,Premier League,,,2017-08-30 18:33:20,loan
+1482,Grzegorz Krychowiak,West Bromwich Albion,Premier League,Paris Saint-Germain,Ligue 1,,,2017-08-30 18:38:46,loan
+1483,Jason Denayer,Galatasaray,Super Lig,Manchester City,Premier League,,,2017-08-31 00:48:05,loan
+1484,Conor Grant,Crewe Alexandra,League Two,Everton,Premier League,,,2017-08-31 00:49:32,loan
+1485,Philipp Wollscheid,Metz,Ligue 1,Stoke City,Premier League,,,2017-08-31 00:51:54,undisclosed fee
+1486,Patrik Schick,Roma,Serie A,Sampdoria,Serie A,5000000.0,4600000.0,2017-08-31 00:58:13,loan
+1487,Serge Gakpé,Amiens,Ligue 1,Genoa,Serie A,,,2017-08-31 01:04:05,free agent
+1488,Jeremy Toljan,Borussia Dortmund,Bundesliga,Hoffenheim,Bundesliga,4900000.0,4500000.0,2017-08-31 01:06:09,fee
+1489,Mitchell Langerak,Levante,La Liga,Stuttgart,Bundesliga,782000.0,720000.0,2017-08-31 01:09:20,fee
+1490,Aymen Abdennour,Marseille,Ligue 1,Valencia,La Liga,,,2017-08-31 01:12:18,loan
+1491,Hyun-Jun Suk,Troyes,Ligue 1,Porto,Primeira Liga,,,2017-08-31 01:14:18,loan
+1492,Emre Mor,Celta Vigo,La Liga,Borussia Dortmund,Bundesliga,12700000.0,11700000.0,2017-08-31 01:17:01,fee
+1493,Lorenzo Bertini,Atalanta,Serie A,Cesena,Serie B,,,2017-08-31 09:11:56,undisclosed fee
+1494,Luca Vido,Atalanta,Serie A,Milan,Serie A,,,2017-08-31 09:16:54,undisclosed fee
+1495,Alberto Grassi,Napoli,Serie A,Atalanta,Serie A,,,2017-08-31 09:21:00,loan ended
+1496,Aleksandar Pesic,Red Star Belgrade,Serbian SuperLiga,Atalanta,Serie A,730000.0,675000.0,2017-08-31 09:24:23,fee
+1497,Anthony Mounier,Bologna,Serie A,Atalanta,Serie A,,,2017-08-31 09:27:17,loan ended
+1498,Alessandro Bastoni,Inter,Serie A,Atalanta,Serie A,9000000.0,8300000.0,2017-08-31 09:31:57,fee
+1499,Matty Willock,Utrecht,Eredivisie,Manchester United,Premier League,,,2017-08-31 09:34:15,loan
+1500,Benedikt Höwedes,Juventus,Serie A,Schalke 04,Bundesliga,,,2017-08-31 09:47:05,loan
+1501,Alberto Brignoli,Benevento,Serie A,Perugia,Serie B,,,2017-08-31 09:49:45,undisclosed fee
+1502,Andrew Gravillon,Benevento,Serie A,Inter,Serie A,1460000.0,1350000.0,2017-08-31 09:55:39,fee
+1503,Mirko Eramo,Virtus Entella,Serie B,Benevento,Serie A,,,2017-08-31 09:59:56,undisclosed fee
+1504,Alessio Cragno,Cagliari,Serie A,Benevento,Serie A,,,2017-08-31 10:02:52,loan ended
+1505,Fabrizio Alastra,Palermo,Serie B,Benevento,Serie A,,,2017-08-31 10:04:38,loan ended
+1506,Ricardo Bagadur,Fiorentina,Serie A,Benevento,Serie A,,,2017-08-31 10:06:53,loan ended
+1507,Lorenzo Venuti,Fiorentina,Serie A,Benevento,Serie A,,,2017-08-31 10:08:22,loan ended
+1508,Antonio Matera,Fidelis Andria,Serie C,Benevento,Serie A,,,2017-08-31 10:10:25,loan ended
+1509,Marko Pajac,Cagliari,Serie A,Benevento,Serie A,,,2017-08-31 10:11:54,loan ended
+1510,Filippo Falco,Bologna,Serie A,Benevento,Serie A,,,2017-08-31 10:13:55,loan ended
+1511,Cyril Thereau,Fiorentina,Serie A,Udinese,Serie A,1500000.0,1380000.0,2017-08-31 10:22:25,fee
+1512,Alessandro Bastoni,Atalanta,Serie A,Inter,Serie A,,,2017-08-31 10:23:31,loan
+1513,Enrico Pezzi,Cittadella,Serie B,Benevento,Serie A,,,2017-08-31 10:27:29,released
+1514,Daniele Buzzegoli,Ascoli,Serie B,Benevento,Serie A,,,2017-08-31 10:29:06,released
+1515,César Falletti,Bologna,Serie A,Ternana,Serie B,,,2017-08-31 10:40:31,released
+1516,Felipe Avenatti,Bologna,Serie A,Ternana,Serie B,,,2017-08-31 10:42:39,released
+1517,Federico Viviani,Verona,Serie A,Bologna,Serie A,,,2017-08-31 10:49:12,loan ended
+1518,Umar Sadiq,Roma,Serie A,Bologna,Serie A,,,2017-08-31 10:51:43,loan ended
+1519,Leonardo Pavoletti,Cagliari,Serie A,Napoli,Serie A,,,2017-08-31 10:58:32,loan
+1520,Antonio Balzano,Pescara,Serie A,Cagliari,Serie A,,,2017-08-31 11:10:03,undisclosed fee
+1521,Gabriel,Milan,Serie A,Cagliari,Serie A,,,2017-08-31 11:18:07,loan ended
+1522,Panagiotis Tachtsidis,Torino,Serie A,Cagliari,Serie A,,,2017-08-31 11:20:09,loan ended
+1523,Panagiotis Restos,Bayer Leverkusen,Bundesliga,Olympiacos,Greek Super League,18000000.0,16600000.0,2017-08-31 11:25:30,fee
+1524,Kevin Kampl,RB Leipzig,Bundesliga,Bayer Leverkusen,Bundesliga,20000000.0,18450000.0,2017-08-31 11:27:34,fee
+1525,Kilian Jakob,Augsburg,Bundesliga,1860 Munich,Regionalliga Bayern,,,2017-08-31 11:31:42,undisclosed fee
+1526,Takashi Usami,Fortuna Düsseldorf,2. Bundesliga,Augsburg,Bundesliga,,,2017-08-31 11:35:23,loan
+1527,Alexander Meyer,Stuttgart,Bundesliga,Energie Cottbus,Regionalliga Nordost,,,2017-08-31 11:39:18,undisclosed fee
+1528,Rodrigo Guth,Atalanta,Serie A,Coritiba,Campeonato Brasileiro Série A,700000.0,645000.0,2017-08-31 11:52:00,fee
+1529,Michele Rigione,Cesena,Serie B,Chievo,Serie A,,,2017-08-31 11:53:07,loan
+1530,Alex Oxlade-Chamberlain,Liverpool,Premier League,Arsenal,Premier League,37950000.0,35000000.0,2017-08-31 12:01:41,fee
+1531,Paweł Jaroszyński,Chievo,Serie A,Cracovia,Ekstraklasa,400000.0,369000.0,2017-08-31 12:30:12,fee
+1532,Serge Aurier,Tottenham Hotspur,Premier League,Paris Saint-Germain,Ligue 1,24940000.0,23000000.0,2017-08-31 12:34:15,fee
+1533,Walter Bressan,Free agent,Free agent,Chievo,Serie A,,,2017-08-31 12:45:02,released
+1534,Nicolás Spolli,Genoa,Serie A,Chievo,Serie A,,,2017-08-31 12:46:33,released
+1535,Gennaro Sardo,Free agent,Free agent,Chievo,Serie A,,,2017-08-31 12:48:12,released
+1536,Mariano Izco,Crotone,Serie A,Chievo,Serie A,,,2017-08-31 12:50:56,released
+1537,Jonathan de Guzmán,Napoli,Serie A,Chievo,Serie A,,,2017-08-31 12:54:20,loan ended
+1538,Serge Gakpé,Genoa,Serie A,Chievo,Serie A,,,2017-08-31 12:55:58,loan ended
+1539,Giovanni Crociata,Crotone,Serie A,Milan,Serie A,433000.0,400000.0,2017-08-31 12:59:52,fee
+1540,Aleandro Rosi,Genoa,Serie A,Crotone,Serie A,,,2017-08-31 13:04:26,loan ended
+1541,Gianmarco Ferrari,Sassuolo,Serie A,Crotone,Serie A,,,2017-08-31 13:06:13,loan ended
+1542,Leonardo Capezzi,Sampdoria,Serie A,Crotone,Serie A,,,2017-08-31 13:09:58,loan ended
+1543,Lorenzo Crisetig,Bologna,Serie A,Crotone,Serie A,,,2017-08-31 13:12:39,loan ended
+1544,Diego Falcinelli,Sassuolo,Serie A,Crotone,Serie A,,,2017-08-31 13:14:27,loan ended
+1545,Cristiano Biraghi,Fiorentina,Serie A,Pescara,Serie B,,,2017-08-31 13:21:48,loan
+1546,Martin Graiciar,Fiorentina,Serie A,Slovan Liberec,Czech First League,1460000.0,1350000.0,2017-08-31 13:24:52,fee
+1547,Martin Graiciar,Slovan Liberec,Czech First League,Fiorentina,Serie A,,,2017-08-31 13:26:29,loan
+1548,Dusan Vlahovic,Fiorentina,Serie A,Partizan Belgrade,Serbian SuperLiga,,,2017-08-31 13:31:04,undisclosed fee
+1549,Didier Digard,Free agent,Free agent,Real Betis,La Liga,,,2017-08-31 13:34:37,released
+1550,Lee Seung-woo,Verona,Serie A,Barcelona,La Liga,1500000.0,1380000.0,2017-08-31 13:44:26,fee
+1551,Orestis Karnezis,Watford,Premier League,Udinese,Serie A,,,2017-08-31 13:49:26,loan
+1552,Matías Fernández,Fiorentina,Serie A,Milan,Serie A,,,2017-08-31 13:53:25,loan ended
+1553,Ante Rebic,Eintracht Frankfurt,Bundesliga,Fiorentina,Serie A,,,2017-08-31 13:57:20,loan extended
+1554,Renato Sanches,Swansea City,Premier League,Bayern Munich,Bundesliga,,,2017-08-31 14:03:22,loan
+1555,Carlos Salcedo,Guadalajara,Liga MX,Fiorentina,Serie A,,,2017-08-31 14:14:40,loan ended
+1556,Sebastien De Maio,Anderlecht,Jupiler League,Fiorentina,Serie A,,,2017-08-31 14:16:57,loan ended
+1557,Jan Mlakar,Venezia,Serie B,Fiorentina,Serie A,,,2017-08-31 14:25:41,loan
+1558,Gianni Imbula,Toulouse,Ligue 1,Stoke City,Premier League,,,2017-08-31 14:33:04,loan
+1559,Sidney Sam,Bochum,2. Bundesliga,Schalke 04,Bundesliga,,,2017-08-31 14:35:52,undisclosed fee
+1560,Nahki Wells,Burnley,Premier League,Huddersfield Town,Premier League,5420000.0,5000000.0,2017-08-31 14:50:22,fee
+1561,Lacina Traoré,Amiens,Ligue 1,Monaco,Ligue 1,,,2017-08-31 15:00:05,loan
+1562,Divock Origi,Wolfsburg,Bundesliga,Liverpool,Premier League,,,2017-08-31 15:03:33,loan
+1563,Stephane Omeonga,Genoa,Serie A,Avellino,Serie B,500000.0,460000.0,2017-08-31 15:11:57,fee
+1564,Thomas Rodríguez,Genoa,Serie A,Banfield,Primera División (Argentina),550000.0,507000.0,2017-08-31 15:17:11,fee
+1565,Olivier Ntcham,Manchester City,Premier League,Genoa,Serie A,,,2017-08-31 15:21:19,loan ended
+1566,Danilo Cataldi,Lazio,Serie A,Genoa,Serie A,,,2017-08-31 15:23:59,loan ended
+1567,Franco Zuculini,Verona,Serie A,Bologna,Serie A,,,2017-08-31 15:27:56,released
+1568,Alex Ferrari,Verona,Serie A,Bologna,Serie A,,,2017-08-31 15:31:04,loan
+1569,Riccardo Brosco,Carpi,Serie B,Verona,Serie A,,,2017-08-31 15:34:01,loan
+1570,Deian Boldor,Bologna,Serie A,Verona,Serie A,,,2017-08-31 15:37:22,loan ended
+1571,Deian Boldor,Montreal Impact,MLS,Bologna,Serie A,,,2017-08-31 15:38:44,loan
+1572,Pierre-Michel Lasogga,Leeds United,Championship,Hamburg,Bundesliga,,,2017-08-31 15:40:41,loan
+1573,Simone Ganz,Juventus,Serie A,Verona,Serie A,,,2017-08-31 15:43:40,loan ended
+1574,Juanito Gómez,Free agent,Free agent,Verona,Serie A,,,2017-08-31 15:45:26,released
+1575,Vieirinha,PAOK,Greek Super League,Wolfsburg,Bundesliga,,,2017-08-31 15:49:18,undisclosed fee
+1576,Nani,Lazio,Serie A,Valencia,La Liga,,,2017-08-31 15:52:08,loan
+1577,Marco Tumminello,Crotone,Serie A,Roma,Serie A,,,2017-08-31 15:54:48,loan
+1578,Jens Odgaard,Inter,Serie A,Lyngby,Danish Super League,,,2017-08-31 16:04:25,undisclosed fee
+1579,Trent Sainsbury,JS Suning,Chinese Super League,Inter,Serie A,,,2017-08-31 16:07:33,loan ended
+1580,Franck Kanouté,Pescara,Serie B,Juventus,Serie A,,,2017-08-31 16:22:30,undisclosed fee
+1581,Jadon Sancho,Borussia Dortmund,Bundesliga,Manchester City,Premier League,8670000.0,8000000.0,2017-08-31 17:08:41,fee
+1582,Ishak Belfodil,Werder Bremen,Bundesliga,Standard Liège,Jupiler League,,,2017-08-31 17:14:14,loan
+1583,Andreas Beck,Stuttgart,Bundesliga,Besiktas,Super Lig,2000000.0,1840000.0,2017-08-31 17:17:45,fee
+1584,Nenad Tomovic,Chievo,Serie A,Fiorentina,Serie A,,,2017-08-31 17:20:45,loan
+1585,Denis Petric ,Guingamp,Ligue 1,Angers,Ligue 1,,,2017-08-31 17:30:35,undisclosed fee
+1586,Donyell Malen,PSV Eindhoven,Eredivisie,Arsenal,Premier League,,,2017-08-31 17:37:12,undisclosed fee
+1587,Kelechi Nwakali,VVV-Venlo,Eredivisie,Arsenal,Premier League,,,2017-08-31 17:38:34,loan
+1588,Maxi López,Udinese,Serie A,Torino,Serie A,,,2017-08-31 17:41:28,undisclosed fee
+1589,Matt Worthington,Yeovil Town,League Two,Bournemouth,Premier League,,,2017-08-31 17:48:43,loan
+1590,M'Baye Niang,Torino,Serie A,Milan,Serie A,,,2017-08-31 17:50:48,loan
+1591,Danilo Avelar,Amiens,Ligue 1,Torino,Serie A,,,2017-08-31 17:52:58,loan
+1592,Mihai Dobre,Bury,League One,Bournemouth,Premier League,,,2017-08-31 17:58:45,loan
+1593,Matheus Pereira,Bordeaux,Ligue 1,Juventus,Serie A,,,2017-08-31 18:03:43,loan
+1594,Charlie Wakefield,Stevenage,League Two,Chelsea,Premier League,,,2017-08-31 18:07:54,loan
+1595,Kylian Hazard,Chelsea,Premier League,Ujpest,NB I,,,2017-08-31 18:14:32,undisclosed fee
+1596,Nicolás Burdisso,Torino,Serie A,Genoa,Serie A,,,2017-08-31 18:17:20,undisclosed fee
+1597,Papy Djilobodji,Dijon,Ligue 1,Sunderland,Championship,,,2017-08-31 18:21:20,loan
+1598,Yann Karamoh,Inter,Serie A,Caen,Ligue 1,,,2017-08-31 18:28:02,loan
+1599,Rigoberto Rivas,Brescia,Serie B,Inter,Serie A,,,2017-08-31 18:31:40,loan
+1600,Kylian Mbappé,Paris Saint-Germain,Ligue 1,Monaco,Ligue 1,,,2017-08-31 18:35:00,loan
+1601,Oscar Hiljemark,Panathinaikos,Greek Super League,Genoa,Serie A,,,2017-08-31 18:50:28,loan
+1602,Rémy Cabella,Saint-Etienne,Ligue 1,Marseille,Ligue 1,,,2017-08-31 18:54:27,loan
+1603,Luca Antei,Benevento,Serie A,Sassuolo,Serie A,,,2017-08-31 18:58:19,undisclosed fee
+1604,Pietro Iemmello,Benevento,Serie A,Sassuolo,Serie A,,,2017-08-31 19:00:02,undisclosed fee
+1605,Emmanuel Imorou,Cercle Brugge,Jupiler League,Caen,Ligue 1,,,2017-08-31 19:07:51,loan
+1606,Lucas Pérez,Deportivo La Coruña,La Liga,Arsenal,Premier League,,,2017-08-31 19:10:25,loan
+1607,Mariusz Stepinski,Chievo,Serie A,Nantes,Ligue 1,,,2017-08-31 19:13:08,loan
+1608,Lionel Carole,Sevilla,La Liga,Galatasaray,Super Lig,,,2017-08-31 19:19:18,loan
+1609,Jérôme Onguéné,RB Salzburg,Austrian Bundesliga,Stuttgart,Bundesliga,,,2017-08-31 19:21:40,loan
+1610,Bojan Krkic,Alavés,La Liga,Stoke City,Premier League,,,2017-08-31 19:25:03,loan
+1611,Ezequiel Schelotto,Brighton,Premier League,Sporting,Primeira Liga,3000000.0,2770000.0,2017-08-31 19:33:41,fee
+1612,Douglas,Benfica,Primeira Liga,Barcelona,La Liga,,,2017-08-31 19:35:47,loan
+1613,Nampalys Mendy,Nice,Ligue 1,Leicester City,Premier League,,,2017-08-31 19:37:46,loan
+1614,Molla Wague,Watford,Premier League,Udinese,Serie A,,,2017-08-31 19:43:05,loan
+1615,Duván Esteban Zapata,Sampdoria,Serie A,Napoli,Serie A,,,2017-08-31 19:48:33,loan
+1616,Alessandro Martinelli,Brescia,Serie B,Sampdoria,Serie A,,,2017-08-31 19:50:55,undisclosed fee
+1617,Ivan Strinic,Sampdoria,Serie A,Napoli,Serie A,2000000.0,1840000.0,2017-08-31 20:04:46,fee
+1618,Federico Ricci,Genoa,Serie A,Sassuolo,Serie A,,,2017-08-31 20:09:02,loan
+1619,Nikola Vlasic,Everton,Premier League,Hajduk Split,Croatian First Football League,9780000.0,9000000.0,2017-08-31 20:12:21,fee
+1620,Ryan Kent,Freiburg,Bundesliga,Liverpool,Premier League,,,2017-08-31 20:38:54,loan
+1621,Jordan Williams,Rochdale,League One,Liverpool,Premier League,,,2017-08-31 20:40:50,loan
+1622,Cristian Ansaldi,Torino,Serie A,Inter,Serie A,,,2017-08-31 20:46:07,loan
+1623,Allan Rodrigues de Souza,Apollon Limassol,Cypriot First Division,Liverpool,Premier League,,,2017-08-31 20:49:21,loan
+1624,Toni Gomes,Forest Green Rovers,League Two,Liverpool,Premier League,,,2017-08-31 20:50:42,loan
+1625,Marvin Zeegelaar,Watford,Premier League,Sporting,Primeira Liga,3000000.0,2760000.0,2017-08-31 20:55:10,fee
+1626,Kyle Jameson,West Bromwich Albion,Premier League,Chelsea,Premier League,,,2017-08-31 20:58:44,loan
+1627,Kyle Edwards,Exeter City,League Two,West Bromwich Albion,Premier League,,,2017-08-31 21:01:06,loan
+1628,Kane Wilson,Exeter City,League Two,West Bromwich Albion,Premier League,,,2017-08-31 21:02:51,loan
+1629,Grant Hanley,Norwich City,Championship,Newcastle United,Premier League,,,2017-08-31 21:08:25,fee
+1630,Tanguy Ndombélé,Lyon,Ligue 1,Amiens,Ligue 1,11000000.0,10130000.0,2017-08-31 21:14:29,fee
+1631,Moise Kean,Verona,Serie A,Juventus,Serie A,,,2017-08-31 21:16:16,loan
+1632,Sergi Darder,Espanyol,La Liga,Lyon,Ligue 1,,,2017-08-31 21:27:43,loan
+1633,Wahbi Khazri,Rennes,Ligue 1,Sunderland,Championship,,,2017-08-31 21:29:27,loan
+1634,Kean Bryan,Oldham,League One,Manchester City,Premier League,,,2017-08-31 21:34:44,loan
+1635,Will Miller,Burton Albion,Championship,Tottenham Hotspur,Premier League,,,2017-08-31 21:38:28,undisclosed fee
+1636,Roberto Inglese,Napoli,Serie A,Chievo,Serie A,12000000.0,11050000.0,2017-08-31 21:49:05,fee
+1637,Joel Campbell,Real Betis,La Liga,Arsenal,Premier League,,,2017-08-31 21:50:31,loan
+1638,Jordan Houghton,Doncaster Rovers,League One,Chelsea,Premier League,,,2017-08-31 21:53:48,loan
+1639,Xeka,Dijon,Ligue 1,Lille,Ligue 1,,,2017-08-31 22:07:19,loan
+1640,Odsonne Edouard,Celtic,Scottish Premiership,Paris Saint-Germain,Ligue 1,,,2017-08-31 22:15:21,loan
+1641,Ricardo Kishna,ADO Den Haag,Eredivisie,Lazio,Serie A,,,2017-08-31 22:29:15,loan
+1642,Gabigol,Benfica,Primeira Liga,Inter,Serie A,,,2017-08-31 22:30:18,loan
+1643,Davide Zappacosta,Chelsea,Premier League,Torino,Serie A,28000000.0,25750000.0,2017-08-31 22:35:18,fee
+1644,Sam Hart,Blackburn Rovers,League Two,Liverpool,Premier League,,,2017-08-31 22:37:32,undisclosed fee
+1645,Nathan,Amiens,Ligue 1,Chelsea,Premier League,,,2017-08-31 22:50:34,loan
+1646,Aleksandar Dragovic,Leicester City,Premier League,Bayer Leverkusen,Bundesliga,,,2017-08-31 22:53:08,loan
+1647,Tim Krul,Brighton,Premier League,Newcastle United,Premier League,,,2017-08-31 22:54:56,loan
+1648,Kostas Mitroglou,Marseille,Ligue 1,Benfica,Primeira Liga,15000000.0,13810000.0,2017-08-31 23:01:38,fee
+1649,Fernando Llorente,Tottenham Hotspur,Premier League,Swansea City,Premier League,13000000.0,12000000.0,2017-08-31 23:17:42,fee
+1650,Wilfried Bony,Swansea City,Premier League,Manchester City,Premier League,13000000.0,12000000.0,2017-08-31 23:20:37,fee
+1651,Mark Birighitti,NAC Breda,Eredivisie,Swansea City,Premier League,,,2017-08-31 23:24:46,released
+1652,Marc Wilson,Sunderland,Championship,Bournemouth,Premier League,,,2017-08-31 23:27:22,undisclosed fee
+1653,Lenny Nangis,Free agent,Free agent,Lille,Ligue 1,,,2017-08-31 23:44:25,released
+1654,Fikayo Tomori,Hull City,Championship,Chelsea,Premier League,,,2017-08-31 23:47:38,loan
+1655,Callum McManaman,Sunderland,Championship,West Bromwich Albion,Premier League,,,2017-08-31 23:49:53,undisclosed fee
+1656,Ravel Morrison,Atlas FC,Liga MX,Lazio,Serie A,,,2017-08-31 23:55:40,undisclosed fee
+1657,Alfred N'Diaye,Wolverhampton Wanderers,Championship,Villarreal,La Liga,,,2017-08-31 23:57:12,loan
+1658,Danny Drinkwater,Chelsea,Premier League,Leicester City,Premier League,38000000.0,35000000.0,2017-01-09 03:18:14,fee
+1659,Mamadou Sakho,Crystal Palace,Premier League,Liverpool,Premier League,28300000.0,26000000.0,2017-01-09 03:22:20,fee
+1660,Liam Walsh,Birmingham City,Championship,Everton,Premier League,,,2017-01-09 08:49:33,loan
+1661,Oliver McBurnie,Barnsley,Championship,Swansea City,Premier League,,,2017-01-09 08:52:12,loan
+1662,Jonny Williams,Sunderland,Championship,Crystal Palace,Premier League,,,2017-01-09 08:53:55,loan
+1663,Richie Towell,Rotherham United,League One,Brighton,Premier League,,,2017-01-09 08:55:32,loan
+1664,Adam Federici,Nottingham Forest,Championship,Bournemouth,Premier League,,,2017-01-09 08:56:19,loan
+1665,Keshi Anderson,Swindon Town,League One,Crystal Palace,Premier League,,,2017-01-09 15:12:57,loan
+1666,Nordin Amrabat,Leganés,La Liga,Watford,Premier League,,,2017-02-09 03:12:41,loan
+1667,Andreas Pereira,Valencia,La Liga,Manchester United,Premier League,,,2017-02-09 03:13:29,loan
+1668,Johannes Geis,Sevilla,La Liga,Schalke 04,Bundesliga,1800000.0,1650000.0,2017-02-09 03:15:27,loan
+1669,Gonçalo Guedes,Valencia,La Liga,Paris Saint-Germain,Ligue 1,,,2017-02-09 03:17:05,loan
+1670,Nano,Levante,La Liga,Eibar,La Liga,,,2017-02-09 03:18:26,loan
+1671,Costel Pantilimon,Deportivo La Coruña,La Liga,Watford,Premier League,,,2017-02-09 03:19:32,loan
+1672,Sergio Sánchez,Espanyol,La Liga,Rubin Kazan,Russian Premier League,,,2017-02-09 03:21:59,loan
+1673,José Naranjo,Leganés,La Liga,Genk,Belgian Pro League,,,2017-02-09 03:23:49,loan
+1674,Munir El Haddadi,Alavés,La Liga,Barcelona,La Liga,,,2017-02-09 03:25:38,loan
+1675,Loïc Rémy,Las Palmas,La Liga,Chelsea,Premier League,,,2017-02-09 03:28:06,released
+1676,David Timor,Girona,La Liga,Leganés,La Liga,,,2017-02-09 03:29:43,free agent
+1677,Jefferson Montero,Getafe,La Liga,Swansea City,Premier League,,,2017-02-09 03:30:52,loan
+1678,Michael Olunga,Girona,La Liga,Guizhou Zhicheng,Chinese Super League,,,2017-02-09 03:32:50,loan
+1679,Erick Cabaco,Levante,La Liga,Nacional,Primera División,,,2017-02-09 03:35:10,loan
+1680,Vinícius Araújo,Real Zaragoza,La Liga2,Valencia,La Liga,,,2017-02-09 03:37:24,released
+1681,Oussama Tannane,Las Palmas,La Liga,Saint-Etienne,Ligue 1,,,2017-02-09 03:39:37,loan
+1682,Roman Zozulya,Albacete,La Liga2,Real Betis,La Liga,,,2017-02-09 03:42:42,released
+1683,Álvaro Medrán,Alavés,La Liga,Valencia,La Liga,,,2017-02-09 03:45:06,loan
+1684,Roberto Inglese,Chievo,Serie A,Napoli,Serie A,,,2017-02-09 03:48:15,loan
+1685,Lenny Nangis,Free agent,Free agent,Lille,Ligue 1,,,2017-02-09 03:51:19,released
+1686,Thomas Touré,Angers,Ligue 1,Bordeaux,Ligue 1,1400000.0,1530000.0,2017-02-09 03:54:20,fee
